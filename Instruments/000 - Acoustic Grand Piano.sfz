@@ -1,9 +1,0 @@
-//000 - Acoustic Grand Piano - Samuel Santana - 2022
-//https://github.com/samuelsantanaoficial/GM-SFZ.git
-<control>
-default_path=Samples/000 - Acoustic Grand Piano/
-
-
-<group>
-amp_veltrack=0
-ampeg_release=0.4
