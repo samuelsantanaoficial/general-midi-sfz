@@ -1,0 +1,83 @@
+<control> default_path=../Samples/Electric Bass/
+
+#define $v5o 127
+#define $v5i 120
+#define $v4o 119
+#define $v4i 96
+#define $v3o 95
+#define $v3i 64
+#define $v2o 63
+#define $v2i 32
+#define $v1o 31
+#define $v1i 0
+
+<global> amp_veltrack=75 ampeg_attack=0.001 ampeg_release=0.05
+
+<group> key=28 lokey=28 hikey=30 seq_length=3
+<region> sample=28_electric_bass_5_1.wav lovel=$v5i hivel=$v5o seq_position=1
+<region> sample=28_electric_bass_5_2.wav lovel=$v5i hivel=$v5o seq_position=2
+<region> sample=28_electric_bass_5_3.wav lovel=$v5i hivel=$v5o seq_position=3
+<region> sample=28_electric_bass_4_1.wav lovel=$v4i hivel=$v4o seq_position=1
+<region> sample=28_electric_bass_4_2.wav lovel=$v4i hivel=$v4o seq_position=2
+<region> sample=28_electric_bass_4_3.wav lovel=$v4i hivel=$v4o seq_position=3
+<region> sample=28_electric_bass_3_1.wav lovel=$v3i hivel=$v3o seq_position=1
+<region> sample=28_electric_bass_3_2.wav lovel=$v3i hivel=$v3o seq_position=2
+<region> sample=28_electric_bass_3_3.wav lovel=$v3i hivel=$v3o seq_position=3
+<region> sample=28_electric_bass_2_1.wav lovel=$v2i hivel=$v2o seq_position=1
+<region> sample=28_electric_bass_2_2.wav lovel=$v2i hivel=$v2o seq_position=2
+<region> sample=28_electric_bass_2_3.wav lovel=$v2i hivel=$v2o seq_position=3
+<region> sample=28_electric_bass_1_1.wav lovel=$v1i hivel=$v1o seq_position=1
+<region> sample=28_electric_bass_1_2.wav lovel=$v1i hivel=$v1o seq_position=2
+<region> sample=28_electric_bass_1_3.wav lovel=$v1i hivel=$v1o seq_position=3
+
+<group> key=33 lokey=30 hikey=35 seq_length=3
+<region> sample=33_electric_bass_5_1.wav lovel=$v5i hivel=$v5o seq_position=1
+<region> sample=33_electric_bass_5_2.wav lovel=$v5i hivel=$v5o seq_position=2
+<region> sample=33_electric_bass_5_3.wav lovel=$v5i hivel=$v5o seq_position=3
+<region> sample=33_electric_bass_4_1.wav lovel=$v4i hivel=$v4o seq_position=1
+<region> sample=33_electric_bass_4_2.wav lovel=$v4i hivel=$v4o seq_position=2
+<region> sample=33_electric_bass_4_3.wav lovel=$v4i hivel=$v4o seq_position=3
+<region> sample=33_electric_bass_3_1.wav lovel=$v3i hivel=$v3o seq_position=1
+<region> sample=33_electric_bass_3_2.wav lovel=$v3i hivel=$v3o seq_position=2
+<region> sample=33_electric_bass_3_3.wav lovel=$v3i hivel=$v3o seq_position=3
+<region> sample=33_electric_bass_2_1.wav lovel=$v2i hivel=$v2o seq_position=1
+<region> sample=33_electric_bass_2_2.wav lovel=$v2i hivel=$v2o seq_position=2
+<region> sample=33_electric_bass_2_3.wav lovel=$v2i hivel=$v2o seq_position=3
+<region> sample=33_electric_bass_1_1.wav lovel=$v1i hivel=$v1o seq_position=1
+<region> sample=33_electric_bass_1_2.wav lovel=$v1i hivel=$v1o seq_position=2
+<region> sample=33_electric_bass_1_3.wav lovel=$v1i hivel=$v1o seq_position=3
+
+<group> key=38 lokey=35 hikey=40 seq_length=3
+<region> sample=38_electric_bass_5_1.wav lovel=$v5i hivel=$v5o seq_position=1
+<region> sample=38_electric_bass_5_2.wav lovel=$v5i hivel=$v5o seq_position=2
+<region> sample=38_electric_bass_5_3.wav lovel=$v5i hivel=$v5o seq_position=3
+<region> sample=38_electric_bass_4_1.wav lovel=$v4i hivel=$v4o seq_position=1
+<region> sample=38_electric_bass_4_2.wav lovel=$v4i hivel=$v4o seq_position=2
+<region> sample=38_electric_bass_4_3.wav lovel=$v4i hivel=$v4o seq_position=3
+<region> sample=38_electric_bass_3_1.wav lovel=$v3i hivel=$v3o seq_position=1
+<region> sample=38_electric_bass_3_2.wav lovel=$v3i hivel=$v3o seq_position=2
+<region> sample=38_electric_bass_3_3.wav lovel=$v3i hivel=$v3o seq_position=3
+<region> sample=38_electric_bass_2_1.wav lovel=$v2i hivel=$v2o seq_position=1
+<region> sample=38_electric_bass_2_2.wav lovel=$v2i hivel=$v2o seq_position=2
+<region> sample=38_electric_bass_2_3.wav lovel=$v2i hivel=$v2o seq_position=3
+<region> sample=38_electric_bass_1_1.wav lovel=$v1i hivel=$v1o seq_position=1
+<region> sample=38_electric_bass_1_2.wav lovel=$v1i hivel=$v1o seq_position=2
+<region> sample=38_electric_bass_1_3.wav lovel=$v1i hivel=$v1o seq_position=3
+
+<group> key=43 lokey=40 hikey=60 seq_length=3
+<region> sample=43_electric_bass_5_1.wav lovel=$v5i hivel=$v5o seq_position=1
+<region> sample=43_electric_bass_5_2.wav lovel=$v5i hivel=$v5o seq_position=2
+<region> sample=43_electric_bass_5_3.wav lovel=$v5i hivel=$v5o seq_position=3
+<region> sample=43_electric_bass_4_1.wav lovel=$v4i hivel=$v4o seq_position=1
+<region> sample=43_electric_bass_4_2.wav lovel=$v4i hivel=$v4o seq_position=2
+<region> sample=43_electric_bass_4_3.wav lovel=$v4i hivel=$v4o seq_position=3
+<region> sample=43_electric_bass_3_1.wav lovel=$v3i hivel=$v3o seq_position=1
+<region> sample=43_electric_bass_3_2.wav lovel=$v3i hivel=$v3o seq_position=2
+<region> sample=43_electric_bass_3_3.wav lovel=$v3i hivel=$v3o seq_position=3
+<region> sample=43_electric_bass_2_1.wav lovel=$v2i hivel=$v2o seq_position=1
+<region> sample=43_electric_bass_2_2.wav lovel=$v2i hivel=$v2o seq_position=2
+<region> sample=43_electric_bass_2_3.wav lovel=$v2i hivel=$v2o seq_position=3
+<region> sample=43_electric_bass_1_1.wav lovel=$v1i hivel=$v1o seq_position=1
+<region> sample=43_electric_bass_1_2.wav lovel=$v1i hivel=$v1o seq_position=2
+<region> sample=43_electric_bass_1_3.wav lovel=$v1i hivel=$v1o seq_position=3
+
