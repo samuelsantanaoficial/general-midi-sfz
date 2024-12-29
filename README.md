@@ -7,7 +7,7 @@ an expandable collection of virtual instruments in SFZ format, compatible with t
 ## Samples
 
 - wav 48000 kHz 16 bits 786 kbit/s
-- 5 layers velocity (pp, p, mf, f, ff)
+- 4 layers velocity
 - 3 round robin
 
 ## Instruments List
