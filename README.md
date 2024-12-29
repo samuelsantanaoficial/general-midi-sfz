@@ -4,6 +4,10 @@
 
 an expandable collection of virtual instruments in SFZ format, compatible with the General MIDI (GM) standard. This project is dedicated to providing a diverse and up-to-date library of sounds for musicians, composers and producers.
 
+## Download
+
+(Google Drive)[]
+
 ## Samples
 
 - wav 48000 kHz 16 bits 786 kbit/s
@@ -27,4 +31,4 @@ an expandable collection of virtual instruments in SFZ format, compatible with t
 
 ## Player
 
-- sfizz
+[sfizz]()
