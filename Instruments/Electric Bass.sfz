@@ -1,3 +1,5 @@
+// https://github.com/samuelsantanaoficial/general-midi-sfz
+
 <control> default_path=../Samples/Electric Bass/
 
 #define $v4out 127
