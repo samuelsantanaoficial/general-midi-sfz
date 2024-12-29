@@ -1,0 +1,89 @@
+// https://github.com/samuelsantanaoficial/general-midi-sfz
+
+<control> default_path=../Samples/Standard Kit/
+
+#define $v4out 127
+#define $v4in  120
+#define $v3out 119
+#define $v3in  96
+#define $v2out 95
+#define $v2in  64
+#define $v1out 63
+#define $v1in  0
+
+label_key64=Low Conga
+label_key63=High Conga
+label_key62=Mute High Conga
+
+<global> amp_veltrack=75 loop_mode=one_shot
+
+<group> key=60 lokey=60 hikey=60 seq_length=3
+<region> sample=60_bongo_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=60_bongo_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=60_bongo_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=60_bongo_3_1.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=60_bongo_3_2.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=60_bongo_3_3.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=60_bongo_2_1.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=60_bongo_2_2.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=60_bongo_2_3.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=60_bongo_1_1.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=60_bongo_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=60_bongo_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
+
+<group> key=61 lokey=61 hikey=61 seq_length=3
+<region> sample=61_bongo_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=61_bongo_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=61_bongo_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=61_bongo_3_1.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=61_bongo_3_2.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=61_bongo_3_3.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=61_bongo_2_1.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=61_bongo_2_2.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=61_bongo_2_3.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=61_bongo_1_1.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=61_bongo_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=61_bongo_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
+
+<group> key=62 lokey=62 hikey=62 seq_length=3
+<region> sample=62_conga_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=62_conga_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=62_conga_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=62_conga_3_1.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=62_conga_3_2.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=62_conga_3_3.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=62_conga_2_1.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=62_conga_2_2.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=62_conga_2_3.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=62_conga_1_1.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=62_conga_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=62_conga_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
+
+<group> key=63 lokey=63 hikey=63 seq_length=3
+<region> sample=63_conga_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=63_conga_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=63_conga_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=63_conga_3_1.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=63_conga_3_2.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=63_conga_3_3.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=63_conga_2_1.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=63_conga_2_2.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=63_conga_2_3.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=63_conga_1_1.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=63_conga_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=63_conga_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
+
+<group> key=64 lokey=64 hikey=64 seq_length=3
+<region> sample=64_conga_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=64_conga_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=64_conga_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=64_conga_3_1.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=64_conga_3_2.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=64_conga_3_3.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=64_conga_2_1.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=64_conga_2_2.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=64_conga_2_3.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=64_conga_1_1.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=64_conga_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=64_conga_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
+
