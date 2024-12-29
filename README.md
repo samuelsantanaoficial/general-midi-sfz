@@ -19,16 +19,8 @@ an expandable collection of virtual instruments in SFZ format, compatible with t
     - Upright Bass
 - Drums & Percussion
     - Drum Kit
-        - 1 Kick
-        - 1 Snare
-        - 1 Hihat
-        - 4 Tom
-        - 2 Crash
-        - 1 Ride
-        - 1 China
-        - 1 Splash
     - Percussion kit
-        - Sticks click
+        - Sticks
         - Clap Mult
         - High Conga
         - Low Conga
