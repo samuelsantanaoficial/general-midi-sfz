@@ -1,6 +1,6 @@
 // https://github.com/samuelsantanaoficial/general-midi-sfz
 
-<control> default_path=../Samples/Standard Kit/
+<control> default_path=../Samples/Drum Kit/
 
 #define $v4out 127
 #define $v4in  120
@@ -27,6 +27,16 @@ label_key45=Tom 2
 label_key43=Tom 3
 label_key41=Tom 4
 
+label_cc49=Crash 1
+label_cc57=Crash 2
+label_cc51=Ride Tip
+label_cc53=Ride Bell
+label_cc59=Ride
+label_cc52=China
+label_cc55=Splash
+
+label_key31=Sticks
+label_key39=Clap
 label_key64=Low Conga
 label_key63=High Conga
 label_key62=Mute High Conga
@@ -47,7 +57,7 @@ label_key62=Mute High Conga
 <region> sample=31_sticks_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=31_sticks_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=35 lokey=35 hikey=35 seq_length=3
+<group> key=35 lokey=35 hikey=35 seq_length=3 volume=-3
 <region> sample=36_kick_in_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=36_kick_in_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=36_kick_in_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -61,7 +71,7 @@ label_key62=Mute High Conga
 <region> sample=36_kick_in_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=36_kick_in_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=36 lokey=36 hikey=36 seq_length=3
+<group> key=36 lokey=36 hikey=36 seq_length=3 volume=-3
 <region> sample=36_kick_in_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=36_kick_in_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=36_kick_in_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -75,7 +85,7 @@ label_key62=Mute High Conga
 <region> sample=36_kick_in_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=36_kick_in_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=35 lokey=35 hikey=35 seq_length=3
+<group> key=35 lokey=35 hikey=35 seq_length=3 volume=-9
 <region> sample=36_kick_out_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=36_kick_out_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=36_kick_out_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -89,7 +99,7 @@ label_key62=Mute High Conga
 <region> sample=36_kick_out_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=36_kick_out_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=36 lokey=36 hikey=36 seq_length=3
+<group> key=36 lokey=36 hikey=36 seq_length=3 volume=-9
 <region> sample=36_kick_out_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=36_kick_out_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=36_kick_out_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -103,7 +113,7 @@ label_key62=Mute High Conga
 <region> sample=36_kick_out_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=36_kick_out_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=37 lokey=37 hikey=37 seq_length=3
+<group> key=37 lokey=37 hikey=37 seq_length=3 volume=-6
 <region> sample=37_snare_top_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=37_snare_top_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=37_snare_top_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -117,7 +127,7 @@ label_key62=Mute High Conga
 <region> sample=37_snare_top_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=37_snare_top_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=38 lokey=38 hikey=38 seq_length=3
+<group> key=38 lokey=38 hikey=38 seq_length=3 volume=0
 <region> sample=38_snare_top_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=38_snare_top_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=38_snare_top_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -131,7 +141,7 @@ label_key62=Mute High Conga
 <region> sample=38_snare_top_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=38_snare_top_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=40 lokey=40 hikey=40 seq_length=3
+<group> key=40 lokey=40 hikey=40 seq_length=3 volume=-9
 <region> sample=38_snare_top_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=38_snare_top_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=38_snare_top_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -145,7 +155,7 @@ label_key62=Mute High Conga
 <region> sample=38_snare_top_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=38_snare_top_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=37 lokey=37 hikey=37 seq_length=3
+<group> key=37 lokey=37 hikey=37 seq_length=3 volume=-12
 <region> sample=37_snare_bot_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=37_snare_bot_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=37_snare_bot_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -159,7 +169,7 @@ label_key62=Mute High Conga
 <region> sample=37_snare_bot_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=37_snare_bot_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=38 lokey=38 hikey=38 seq_length=3
+<group> key=38 lokey=38 hikey=38 seq_length=3 volume=-12
 <region> sample=38_snare_bot_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=38_snare_bot_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=38_snare_bot_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -173,7 +183,7 @@ label_key62=Mute High Conga
 <region> sample=38_snare_bot_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=38_snare_bot_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=40 lokey=40 hikey=40 seq_length=3
+<group> key=40 lokey=40 hikey=40 seq_length=3 volume=-12
 <region> sample=38_snare_bot_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=38_snare_bot_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=38_snare_bot_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -187,7 +197,7 @@ label_key62=Mute High Conga
 <region> sample=38_snare_bot_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=38_snare_bot_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=42 lokey=42 hikey=42 seq_length=3 group=1
+<group> key=42 lokey=42 hikey=42 seq_length=3 group=1 volume=-12
 <region> sample=42_hihat_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=42_hihat_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=42_hihat_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -201,7 +211,7 @@ label_key62=Mute High Conga
 <region> sample=42_hihat_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=42_hihat_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=44 lokey=44 hikey=44 seq_length=3 group=1
+<group> key=44 lokey=44 hikey=44 seq_length=3 group=1 volume=-12
 <region> sample=44_hihat_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=44_hihat_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=44_hihat_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -215,7 +225,7 @@ label_key62=Mute High Conga
 <region> sample=44_hihat_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=44_hihat_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=46 lokey=46 hikey=46 seq_length=3 off_by=1
+<group> key=46 lokey=46 hikey=46 seq_length=3 off_by=1 volume=-12
 <region> sample=46_hihat_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=46_hihat_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=46_hihat_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -229,7 +239,7 @@ label_key62=Mute High Conga
 <region> sample=46_hihat_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=46_hihat_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=47 lokey=47 hikey=47 seq_length=3
+<group> key=47 lokey=47 hikey=47 seq_length=3 volume=-1
 <region> sample=47_tom_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=47_tom_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=47_tom_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -243,7 +253,7 @@ label_key62=Mute High Conga
 <region> sample=47_tom_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=47_tom_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=45 lokey=45 hikey=45 seq_length=3
+<group> key=45 lokey=45 hikey=45 seq_length=3 volume=-1
 <region> sample=45_tom_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=45_tom_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=45_tom_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -257,7 +267,7 @@ label_key62=Mute High Conga
 <region> sample=45_tom_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=45_tom_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=43 lokey=43 hikey=43 seq_length=3
+<group> key=43 lokey=43 hikey=43 seq_length=3 volume=-1
 <region> sample=43_tom_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=43_tom_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=43_tom_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -271,7 +281,7 @@ label_key62=Mute High Conga
 <region> sample=43_tom_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=43_tom_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=41 lokey=41 hikey=41 seq_length=3
+<group> key=41 lokey=41 hikey=41 seq_length=3 volume=-1
 <region> sample=41_tom_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=41_tom_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=41_tom_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -285,7 +295,7 @@ label_key62=Mute High Conga
 <region> sample=41_tom_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=41_tom_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=49 lokey=49 hikey=49 seq_length=3
+<group> key=49 lokey=49 hikey=49 seq_length=3 volume=-9
 <region> sample=49_cymbal_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=49_cymbal_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=49_cymbal_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -299,7 +309,7 @@ label_key62=Mute High Conga
 <region> sample=49_cymbal_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=49_cymbal_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=57 lokey=57 hikey=57 seq_length=3
+<group> key=57 lokey=57 hikey=57 seq_length=3 volume=-9
 <region> sample=57_cymbal_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=57_cymbal_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=57_cymbal_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -313,7 +323,7 @@ label_key62=Mute High Conga
 <region> sample=57_cymbal_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=57_cymbal_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=51 lokey=51 hikey=51 seq_length=3
+<group> key=51 lokey=51 hikey=51 seq_length=3 volume=-18
 <region> sample=51_cymbal_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=51_cymbal_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=51_cymbal_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -327,7 +337,7 @@ label_key62=Mute High Conga
 <region> sample=51_cymbal_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=51_cymbal_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=53 lokey=53 hikey=53 seq_length=3
+<group> key=53 lokey=53 hikey=53 seq_length=3 volume=-18
 <region> sample=53_cymbal_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=53_cymbal_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=53_cymbal_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -341,7 +351,7 @@ label_key62=Mute High Conga
 <region> sample=53_cymbal_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=53_cymbal_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=59 lokey=59 hikey=59 seq_length=2
+<group> key=59 lokey=59 hikey=59 seq_length=2 volume=-12
 <region> sample=59_cymbal_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=59_cymbal_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=59_cymbal_3_1.wav lovel=$v3in hivel=$v3out seq_position=1
@@ -351,7 +361,7 @@ label_key62=Mute High Conga
 <region> sample=59_cymbal_1_1.wav lovel=$v1in hivel=$v1out seq_position=1
 <region> sample=59_cymbal_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 
-<group> key=52 lokey=52 hikey=52 seq_length=3
+<group> key=52 lokey=52 hikey=52 seq_length=3 volume=-9
 <region> sample=52_cymbal_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=52_cymbal_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=52_cymbal_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -365,7 +375,7 @@ label_key62=Mute High Conga
 <region> sample=52_cymbal_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=52_cymbal_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
 
-<group> key=55 lokey=55 hikey=55 seq_length=3
+<group> key=55 lokey=55 hikey=55 seq_length=3 volume=-9
 <region> sample=55_cymbal_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
 <region> sample=55_cymbal_4_2.wav lovel=$v4in hivel=$v4out seq_position=2
 <region> sample=55_cymbal_4_3.wav lovel=$v4in hivel=$v4out seq_position=3
@@ -434,4 +444,3 @@ label_key62=Mute High Conga
 <region> sample=64_conga_1_1.wav lovel=$v1in hivel=$v1out seq_position=1
 <region> sample=64_conga_1_2.wav lovel=$v1in hivel=$v1out seq_position=2
 <region> sample=64_conga_1_3.wav lovel=$v1in hivel=$v1out seq_position=3
-

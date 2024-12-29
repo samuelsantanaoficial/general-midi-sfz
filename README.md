@@ -6,11 +6,11 @@ an expandable collection of virtual instruments in SFZ format, compatible with t
 
 ## Download
 
-- [Google Drive](https://drive.google.com/file/d/1GOk1GEmhOt7ELN1s8BZ_1XNiSE4iEzld/view?usp=sharing)
+- [Google Drive](https://drive.google.com/drive/folders/1L8DMMPLS9ZGDOOcy6ygkEKkZoEy_HCDz?usp=sharing)
 
 ## Samples
 
-- wav 48000 kHz 16 bits 786 kbit/s
+- wav 44100 kHz 16 bit CPM 512 kbit/s
 - 4 layers velocity
 - 3 round robin
 

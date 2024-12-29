@@ -11,7 +11,7 @@
 #define $v1out 63
 #define $v1in  0
 
-<global> amp_veltrack=75 ampeg_attack=0.001 ampeg_release=0.05
+<global> amp_veltrack=75 ampeg_attack=0.001 ampeg_release=0.05 volume=-5
 
 <group> key=28 lokey=28 hikey=30 seq_length=3
 <region> sample=28_slap_bass_4_1.wav lovel=$v4in hivel=$v4out seq_position=1
