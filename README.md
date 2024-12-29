@@ -12,10 +12,13 @@ an expandable collection of virtual instruments in SFZ format, compatible with t
 
 ## Instruments List
 
-- Acoustic Steel Guitar
-- Electric Bass
-- Slap Bass
-- Upright Bass
+- Guitar & Bass
+    - Acoustic Steel Guitar
+    - Electric Bass
+    - Slap Bass
+    - Upright Bass
+- Drums & Percussion
+    - Standard Kit
 
 ## Player
 
