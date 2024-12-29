@@ -6,7 +6,7 @@ an expandable collection of virtual instruments in SFZ format, compatible with t
 
 ## Download
 
-(Google Drive)[]
+- [Google Drive](https://drive.google.com/file/d/1GOk1GEmhOt7ELN1s8BZ_1XNiSE4iEzld/view?usp=sharing)
 
 ## Samples
 
@@ -24,11 +24,11 @@ an expandable collection of virtual instruments in SFZ format, compatible with t
 - Drums & Percussion
     - Drum Kit
     - Percussion kit
-        - Sticks
+        - Stick click
         - Clap Mult
         - High Conga
         - Low Conga
 
 ## Player
 
-[sfizz]()
+[Download](https://sfztools.github.io/sfizz/downloads/)
