@@ -1,0 +1,1105 @@
+// https://github.com/samuelsantanaoficial/general-midi-sfz
+
+<control> default_path=../Samples/128 Acoustic Drum Kit/
+
+label_key36=Kick
+label_key37=Sidestick
+label_key38=Snare L
+label_key40=Snare R
+label_key42=Hihat Closed
+label_key44=Hihat Pedal
+label_key46=Hihat Open
+label_key47=Tom 1
+label_key45=Tom 2
+label_key43=Tom 3
+label_key41=Tom 4
+label_cc49=Crash 1
+label_cc57=Crash 2
+label_cc51=Ride Tip
+label_cc53=Ride Bell
+label_cc59=Ride Edge
+label_cc52=China
+label_cc55=Splash
+
+label_key31=Sticks
+label_key39=Clap
+label_key64=Low Conga
+label_key63=High Conga
+label_key62=Mute High Conga
+
+<global> global_label=128 Acoustic Drum Kit amp_veltrack=0 loop_mode=one_shot
+
+<group> key=36 lokey=36 hikey=36 seq_length=3 volume=-3.0
+<region> sample=NID_B DirIn Kick Open Vel_01 Var_1.wav lovel=0    hivel=6   seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_02 Var_1.wav lovel=7    hivel=12  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_03 Var_1.wav lovel=13   hivel=18  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_04 Var_1.wav lovel=19   hivel=24  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_05 Var_1.wav lovel=25   hivel=30  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_06 Var_1.wav lovel=31   hivel=36  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_07 Var_1.wav lovel=37   hivel=42  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_08 Var_1.wav lovel=43   hivel=48  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_09 Var_1.wav lovel=49   hivel=54  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_10 Var_1.wav lovel=55   hivel=60  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_11 Var_1.wav lovel=61   hivel=66  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_12 Var_1.wav lovel=67   hivel=72  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_13 Var_1.wav lovel=73   hivel=78  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_14 Var_1.wav lovel=79   hivel=84  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_15 Var_1.wav lovel=85   hivel=90  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_16 Var_1.wav lovel=91   hivel=96  seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_17 Var_1.wav lovel=97   hivel=102 seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_18 Var_1.wav lovel=103  hivel=108 seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_19 Var_1.wav lovel=109  hivel=114 seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_20 Var_1.wav lovel=115  hivel=120 seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_21 Var_1.wav lovel=121  hivel=127 seq_position=1
+<region> sample=NID_B DirIn Kick Open Vel_01 Var_2.wav lovel=0    hivel=6   seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_02 Var_2.wav lovel=7    hivel=12  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_03 Var_2.wav lovel=13   hivel=18  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_04 Var_2.wav lovel=19   hivel=24  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_05 Var_2.wav lovel=25   hivel=30  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_06 Var_2.wav lovel=31   hivel=36  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_07 Var_2.wav lovel=37   hivel=42  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_08 Var_2.wav lovel=43   hivel=48  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_09 Var_2.wav lovel=49   hivel=54  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_10 Var_2.wav lovel=55   hivel=60  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_11 Var_2.wav lovel=61   hivel=66  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_12 Var_2.wav lovel=67   hivel=72  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_13 Var_2.wav lovel=73   hivel=78  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_14 Var_2.wav lovel=79   hivel=84  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_15 Var_2.wav lovel=85   hivel=90  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_16 Var_2.wav lovel=91   hivel=96  seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_17 Var_2.wav lovel=97   hivel=102 seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_18 Var_2.wav lovel=103  hivel=108 seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_19 Var_2.wav lovel=109  hivel=114 seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_20 Var_2.wav lovel=115  hivel=120 seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_21 Var_2.wav lovel=121  hivel=127 seq_position=2
+<region> sample=NID_B DirIn Kick Open Vel_01 Var_3.wav lovel=0    hivel=6   seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_02 Var_3.wav lovel=7    hivel=12  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_03 Var_3.wav lovel=13   hivel=18  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_04 Var_3.wav lovel=19   hivel=24  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_05 Var_3.wav lovel=25   hivel=30  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_06 Var_3.wav lovel=31   hivel=36  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_07 Var_3.wav lovel=37   hivel=42  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_08 Var_3.wav lovel=43   hivel=48  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_09 Var_3.wav lovel=49   hivel=54  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_10 Var_3.wav lovel=55   hivel=60  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_11 Var_3.wav lovel=61   hivel=66  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_12 Var_3.wav lovel=67   hivel=72  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_13 Var_3.wav lovel=73   hivel=78  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_14 Var_3.wav lovel=79   hivel=84  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_15 Var_3.wav lovel=85   hivel=90  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_16 Var_3.wav lovel=91   hivel=96  seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_17 Var_3.wav lovel=97   hivel=102 seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_18 Var_3.wav lovel=103  hivel=108 seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_19 Var_3.wav lovel=109  hivel=114 seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_20 Var_3.wav lovel=115  hivel=120 seq_position=3
+<region> sample=NID_B DirIn Kick Open Vel_21 Var_3.wav lovel=121  hivel=127 seq_position=3
+
+<group> key=36 lokey=36 hikey=36 seq_length=3 volume=-3.0
+<region> sample=NID_B DirOut Kick Open Vel_01 Var_1.wav lovel=0    hivel=6   seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_02 Var_1.wav lovel=7    hivel=12  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_03 Var_1.wav lovel=13   hivel=18  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_04 Var_1.wav lovel=19   hivel=24  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_05 Var_1.wav lovel=25   hivel=30  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_06 Var_1.wav lovel=31   hivel=36  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_07 Var_1.wav lovel=37   hivel=42  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_08 Var_1.wav lovel=43   hivel=48  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_09 Var_1.wav lovel=49   hivel=54  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_10 Var_1.wav lovel=55   hivel=60  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_11 Var_1.wav lovel=61   hivel=66  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_12 Var_1.wav lovel=67   hivel=72  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_13 Var_1.wav lovel=73   hivel=78  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_14 Var_1.wav lovel=79   hivel=84  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_15 Var_1.wav lovel=85   hivel=90  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_16 Var_1.wav lovel=91   hivel=96  seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_17 Var_1.wav lovel=97   hivel=102 seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_18 Var_1.wav lovel=103  hivel=108 seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_19 Var_1.wav lovel=109  hivel=114 seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_20 Var_1.wav lovel=115  hivel=120 seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_21 Var_1.wav lovel=121  hivel=127 seq_position=1
+<region> sample=NID_B DirOut Kick Open Vel_01 Var_2.wav lovel=0    hivel=6   seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_02 Var_2.wav lovel=7    hivel=12  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_03 Var_2.wav lovel=13   hivel=18  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_04 Var_2.wav lovel=19   hivel=24  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_05 Var_2.wav lovel=25   hivel=30  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_06 Var_2.wav lovel=31   hivel=36  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_07 Var_2.wav lovel=37   hivel=42  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_08 Var_2.wav lovel=43   hivel=48  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_09 Var_2.wav lovel=49   hivel=54  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_10 Var_2.wav lovel=55   hivel=60  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_11 Var_2.wav lovel=61   hivel=66  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_12 Var_2.wav lovel=67   hivel=72  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_13 Var_2.wav lovel=73   hivel=78  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_14 Var_2.wav lovel=79   hivel=84  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_15 Var_2.wav lovel=85   hivel=90  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_16 Var_2.wav lovel=91   hivel=96  seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_17 Var_2.wav lovel=97   hivel=102 seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_18 Var_2.wav lovel=103  hivel=108 seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_19 Var_2.wav lovel=109  hivel=114 seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_20 Var_2.wav lovel=115  hivel=120 seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_21 Var_2.wav lovel=121  hivel=127 seq_position=2
+<region> sample=NID_B DirOut Kick Open Vel_01 Var_3.wav lovel=0    hivel=6   seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_02 Var_3.wav lovel=7    hivel=12  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_03 Var_3.wav lovel=13   hivel=18  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_04 Var_3.wav lovel=19   hivel=24  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_05 Var_3.wav lovel=25   hivel=30  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_06 Var_3.wav lovel=31   hivel=36  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_07 Var_3.wav lovel=37   hivel=42  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_08 Var_3.wav lovel=43   hivel=48  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_09 Var_3.wav lovel=49   hivel=54  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_10 Var_3.wav lovel=55   hivel=60  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_11 Var_3.wav lovel=61   hivel=66  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_12 Var_3.wav lovel=67   hivel=72  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_13 Var_3.wav lovel=73   hivel=78  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_14 Var_3.wav lovel=79   hivel=84  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_15 Var_3.wav lovel=85   hivel=90  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_16 Var_3.wav lovel=91   hivel=96  seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_17 Var_3.wav lovel=97   hivel=102 seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_18 Var_3.wav lovel=103  hivel=108 seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_19 Var_3.wav lovel=109  hivel=114 seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_20 Var_3.wav lovel=115  hivel=120 seq_position=3
+<region> sample=NID_B DirOut Kick Open Vel_21 Var_3.wav lovel=121  hivel=127 seq_position=3
+
+
+
+
+
+
+
+
+
+
+<group> key=37 lokey=37 hikey=37 seq_length=3 volume=0.0
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_02 Var_1.wav lovel=10   hivel=19  seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_03 Var_1.wav lovel=20   hivel=29  seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_04 Var_1.wav lovel=30   hivel=39  seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_05 Var_1.wav lovel=40   hivel=49  seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_06 Var_1.wav lovel=50   hivel=59  seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_07 Var_1.wav lovel=60   hivel=69  seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_08 Var_1.wav lovel=70   hivel=79  seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_09 Var_1.wav lovel=80   hivel=89  seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_10 Var_1.wav lovel=90   hivel=99  seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_11 Var_1.wav lovel=100  hivel=109 seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_12 Var_1.wav lovel=110  hivel=119 seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_13 Var_1.wav lovel=120  hivel=127 seq_position=1
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_01 Var_2.wav lovel=0    hivel=9   seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_02 Var_2.wav lovel=10   hivel=19  seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_03 Var_2.wav lovel=20   hivel=29  seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_04 Var_2.wav lovel=30   hivel=39  seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_05 Var_2.wav lovel=40   hivel=49  seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_06 Var_2.wav lovel=50   hivel=59  seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_07 Var_2.wav lovel=60   hivel=69  seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_08 Var_2.wav lovel=70   hivel=79  seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_09 Var_2.wav lovel=80   hivel=89  seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_10 Var_2.wav lovel=90   hivel=99  seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_11 Var_2.wav lovel=100  hivel=109 seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_12 Var_2.wav lovel=110  hivel=119 seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_13 Var_2.wav lovel=120  hivel=127 seq_position=2
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_01 Var_3.wav lovel=0    hivel=9   seq_position=3
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_02 Var_3.wav lovel=10   hivel=19  seq_position=3
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_03 Var_3.wav lovel=20   hivel=29  seq_position=3
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_04 Var_3.wav lovel=30   hivel=39  seq_position=3
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_05 Var_3.wav lovel=40   hivel=49  seq_position=3
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_06 Var_3.wav lovel=50   hivel=59  seq_position=3
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_07 Var_3.wav lovel=60   hivel=69  seq_position=3
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_08 Var_3.wav lovel=70   hivel=79  seq_position=3
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_09 Var_3.wav lovel=80   hivel=89  seq_position=3
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_10 Var_3.wav lovel=90   hivel=99  seq_position=3
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_11 Var_3.wav lovel=100  hivel=109 seq_position=3
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_12 Var_3.wav lovel=110  hivel=119 seq_position=3
+<region> sample=NID_B DirTop Snare1 Sidestick Vel_13 Var_3.wav lovel=120  hivel=127 seq_position=3
+
+<group> key=37 lokey=37 hikey=37 seq_length=3 volume=-6.0
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_02 Var_1.wav lovel=10   hivel=19  seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_03 Var_1.wav lovel=20   hivel=29  seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_04 Var_1.wav lovel=30   hivel=39  seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_05 Var_1.wav lovel=40   hivel=49  seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_06 Var_1.wav lovel=50   hivel=59  seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_07 Var_1.wav lovel=60   hivel=69  seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_08 Var_1.wav lovel=70   hivel=79  seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_09 Var_1.wav lovel=80   hivel=89  seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_10 Var_1.wav lovel=90   hivel=99  seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_11 Var_1.wav lovel=100  hivel=109 seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_12 Var_1.wav lovel=110  hivel=119 seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_13 Var_1.wav lovel=120  hivel=127 seq_position=1
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_01 Var_2.wav lovel=0    hivel=9   seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_02 Var_2.wav lovel=10   hivel=19  seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_03 Var_2.wav lovel=20   hivel=29  seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_04 Var_2.wav lovel=30   hivel=39  seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_05 Var_2.wav lovel=40   hivel=49  seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_06 Var_2.wav lovel=50   hivel=59  seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_07 Var_2.wav lovel=60   hivel=69  seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_08 Var_2.wav lovel=70   hivel=79  seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_09 Var_2.wav lovel=80   hivel=89  seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_10 Var_2.wav lovel=90   hivel=99  seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_11 Var_2.wav lovel=100  hivel=109 seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_12 Var_2.wav lovel=110  hivel=119 seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_13 Var_2.wav lovel=120  hivel=127 seq_position=2
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_01 Var_3.wav lovel=0    hivel=9   seq_position=3
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_02 Var_3.wav lovel=10   hivel=19  seq_position=3
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_03 Var_3.wav lovel=20   hivel=29  seq_position=3
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_04 Var_3.wav lovel=30   hivel=39  seq_position=3
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_05 Var_3.wav lovel=40   hivel=49  seq_position=3
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_06 Var_3.wav lovel=50   hivel=59  seq_position=3
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_07 Var_3.wav lovel=60   hivel=69  seq_position=3
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_08 Var_3.wav lovel=70   hivel=79  seq_position=3
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_09 Var_3.wav lovel=80   hivel=89  seq_position=3
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_10 Var_3.wav lovel=90   hivel=99  seq_position=3
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_11 Var_3.wav lovel=100  hivel=109 seq_position=3
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_12 Var_3.wav lovel=110  hivel=119 seq_position=3
+<region> sample=NID_B DirBot Snare1 Sidestick Vel_13 Var_3.wav lovel=120  hivel=127 seq_position=3
+
+<group> key=38 lokey=38 hikey=38 seq_length=3 volume=0.0
+<region> sample=NID_B DirTop Snare1 CenterL Vel_01 Var_1.wav lovel=0    hivel=5   seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_02 Var_1.wav lovel=6    hivel=11  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_03 Var_1.wav lovel=12   hivel=17  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_04 Var_1.wav lovel=18   hivel=23  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_05 Var_1.wav lovel=24   hivel=29  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_06 Var_1.wav lovel=30   hivel=35  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_07 Var_1.wav lovel=36   hivel=41  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_08 Var_1.wav lovel=42   hivel=47  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_09 Var_1.wav lovel=48   hivel=53  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_10 Var_1.wav lovel=54   hivel=59  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_11 Var_1.wav lovel=60   hivel=65  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_12 Var_1.wav lovel=66   hivel=71  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_13 Var_1.wav lovel=72   hivel=77  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_14 Var_1.wav lovel=78   hivel=83  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_15 Var_1.wav lovel=84   hivel=89  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_16 Var_1.wav lovel=90   hivel=95  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_17 Var_1.wav lovel=96   hivel=101 seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_18 Var_1.wav lovel=102  hivel=107 seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_19 Var_1.wav lovel=108  hivel=113 seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_20 Var_1.wav lovel=114  hivel=119 seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_21 Var_1.wav lovel=120  hivel=125 seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_22 Var_1.wav lovel=126  hivel=127 seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterL Vel_01 Var_2.wav lovel=0    hivel=5   seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_02 Var_2.wav lovel=6    hivel=11  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_03 Var_2.wav lovel=12   hivel=17  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_04 Var_2.wav lovel=18   hivel=23  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_05 Var_2.wav lovel=24   hivel=29  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_06 Var_2.wav lovel=30   hivel=35  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_07 Var_2.wav lovel=36   hivel=41  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_08 Var_2.wav lovel=42   hivel=47  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_09 Var_2.wav lovel=48   hivel=53  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_10 Var_2.wav lovel=54   hivel=59  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_11 Var_2.wav lovel=60   hivel=65  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_12 Var_2.wav lovel=66   hivel=71  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_13 Var_2.wav lovel=72   hivel=77  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_14 Var_2.wav lovel=78   hivel=83  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_15 Var_2.wav lovel=84   hivel=89  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_16 Var_2.wav lovel=90   hivel=95  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_17 Var_2.wav lovel=96   hivel=101 seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_18 Var_2.wav lovel=102  hivel=107 seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_19 Var_2.wav lovel=108  hivel=113 seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_20 Var_2.wav lovel=114  hivel=119 seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_21 Var_2.wav lovel=120  hivel=125 seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_22 Var_2.wav lovel=126  hivel=127 seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterL Vel_01 Var_3.wav lovel=0    hivel=5   seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_02 Var_3.wav lovel=6    hivel=11  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_03 Var_3.wav lovel=12   hivel=17  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_04 Var_3.wav lovel=18   hivel=23  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_05 Var_3.wav lovel=24   hivel=29  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_06 Var_3.wav lovel=30   hivel=35  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_07 Var_3.wav lovel=36   hivel=41  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_08 Var_3.wav lovel=42   hivel=47  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_09 Var_3.wav lovel=48   hivel=53  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_10 Var_3.wav lovel=54   hivel=59  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_11 Var_3.wav lovel=60   hivel=65  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_12 Var_3.wav lovel=66   hivel=71  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_13 Var_3.wav lovel=72   hivel=77  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_14 Var_3.wav lovel=78   hivel=83  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_15 Var_3.wav lovel=84   hivel=89  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_16 Var_3.wav lovel=90   hivel=95  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_17 Var_3.wav lovel=96   hivel=101 seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_18 Var_3.wav lovel=102  hivel=107 seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_19 Var_3.wav lovel=108  hivel=113 seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_20 Var_3.wav lovel=114  hivel=119 seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_21 Var_3.wav lovel=120  hivel=125 seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterL Vel_22 Var_3.wav lovel=126  hivel=127 seq_position=3
+
+<group> key=40 lokey=40 hikey=40 seq_length=3 volume=0.0
+<region> sample=NID_B DirTop Snare1 CenterR Vel_01 Var_1.wav lovel=0    hivel=5   seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_02 Var_1.wav lovel=6    hivel=11  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_03 Var_1.wav lovel=12   hivel=17  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_04 Var_1.wav lovel=18   hivel=23  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_05 Var_1.wav lovel=24   hivel=29  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_06 Var_1.wav lovel=30   hivel=35  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_07 Var_1.wav lovel=36   hivel=41  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_08 Var_1.wav lovel=42   hivel=47  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_09 Var_1.wav lovel=48   hivel=53  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_10 Var_1.wav lovel=54   hivel=59  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_11 Var_1.wav lovel=60   hivel=65  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_12 Var_1.wav lovel=66   hivel=71  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_13 Var_1.wav lovel=72   hivel=77  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_14 Var_1.wav lovel=78   hivel=83  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_15 Var_1.wav lovel=84   hivel=89  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_16 Var_1.wav lovel=90   hivel=95  seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_17 Var_1.wav lovel=96   hivel=101 seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_18 Var_1.wav lovel=102  hivel=107 seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_19 Var_1.wav lovel=108  hivel=113 seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_20 Var_1.wav lovel=114  hivel=119 seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_21 Var_1.wav lovel=120  hivel=125 seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_22 Var_1.wav lovel=126  hivel=127 seq_position=1
+<region> sample=NID_B DirTop Snare1 CenterR Vel_01 Var_2.wav lovel=0    hivel=5   seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_02 Var_2.wav lovel=6    hivel=11  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_03 Var_2.wav lovel=12   hivel=17  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_04 Var_2.wav lovel=18   hivel=23  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_05 Var_2.wav lovel=24   hivel=29  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_06 Var_2.wav lovel=30   hivel=35  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_07 Var_2.wav lovel=36   hivel=41  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_08 Var_2.wav lovel=42   hivel=47  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_09 Var_2.wav lovel=48   hivel=53  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_10 Var_2.wav lovel=54   hivel=59  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_11 Var_2.wav lovel=60   hivel=65  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_12 Var_2.wav lovel=66   hivel=71  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_13 Var_2.wav lovel=72   hivel=77  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_14 Var_2.wav lovel=78   hivel=83  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_15 Var_2.wav lovel=84   hivel=89  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_16 Var_2.wav lovel=90   hivel=95  seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_17 Var_2.wav lovel=96   hivel=101 seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_18 Var_2.wav lovel=102  hivel=107 seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_19 Var_2.wav lovel=108  hivel=113 seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_20 Var_2.wav lovel=114  hivel=119 seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_21 Var_2.wav lovel=120  hivel=125 seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_22 Var_2.wav lovel=126  hivel=127 seq_position=2
+<region> sample=NID_B DirTop Snare1 CenterR Vel_01 Var_3.wav lovel=0    hivel=5   seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_02 Var_3.wav lovel=6    hivel=11  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_03 Var_3.wav lovel=12   hivel=17  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_04 Var_3.wav lovel=18   hivel=23  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_05 Var_3.wav lovel=24   hivel=29  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_06 Var_3.wav lovel=30   hivel=35  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_07 Var_3.wav lovel=36   hivel=41  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_08 Var_3.wav lovel=42   hivel=47  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_09 Var_3.wav lovel=48   hivel=53  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_10 Var_3.wav lovel=54   hivel=59  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_11 Var_3.wav lovel=60   hivel=65  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_12 Var_3.wav lovel=66   hivel=71  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_13 Var_3.wav lovel=72   hivel=77  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_14 Var_3.wav lovel=78   hivel=83  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_15 Var_3.wav lovel=84   hivel=89  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_16 Var_3.wav lovel=90   hivel=95  seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_17 Var_3.wav lovel=96   hivel=101 seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_18 Var_3.wav lovel=102  hivel=107 seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_19 Var_3.wav lovel=108  hivel=113 seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_20 Var_3.wav lovel=114  hivel=119 seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_21 Var_3.wav lovel=120  hivel=125 seq_position=3
+<region> sample=NID_B DirTop Snare1 CenterR Vel_22 Var_3.wav lovel=126  hivel=127 seq_position=3
+
+<group> key=38 lokey=38 hikey=38 seq_length=3 volume=-6.0
+<region> sample=NID_B DirBot Snare1 CenterL Vel_01 Var_1.wav lovel=0    hivel=5   seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_02 Var_1.wav lovel=6    hivel=11  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_03 Var_1.wav lovel=12   hivel=17  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_04 Var_1.wav lovel=18   hivel=23  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_05 Var_1.wav lovel=24   hivel=29  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_06 Var_1.wav lovel=30   hivel=35  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_07 Var_1.wav lovel=36   hivel=41  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_08 Var_1.wav lovel=42   hivel=47  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_09 Var_1.wav lovel=48   hivel=53  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_10 Var_1.wav lovel=54   hivel=59  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_11 Var_1.wav lovel=60   hivel=65  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_12 Var_1.wav lovel=66   hivel=71  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_13 Var_1.wav lovel=72   hivel=77  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_14 Var_1.wav lovel=78   hivel=83  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_15 Var_1.wav lovel=84   hivel=89  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_16 Var_1.wav lovel=90   hivel=95  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_17 Var_1.wav lovel=96   hivel=101 seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_18 Var_1.wav lovel=102  hivel=107 seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_19 Var_1.wav lovel=108  hivel=113 seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_20 Var_1.wav lovel=114  hivel=119 seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_21 Var_1.wav lovel=120  hivel=125 seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_22 Var_1.wav lovel=126  hivel=127 seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterL Vel_01 Var_2.wav lovel=0    hivel=5   seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_02 Var_2.wav lovel=6    hivel=11  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_03 Var_2.wav lovel=12   hivel=17  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_04 Var_2.wav lovel=18   hivel=23  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_05 Var_2.wav lovel=24   hivel=29  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_06 Var_2.wav lovel=30   hivel=35  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_07 Var_2.wav lovel=36   hivel=41  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_08 Var_2.wav lovel=42   hivel=47  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_09 Var_2.wav lovel=48   hivel=53  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_10 Var_2.wav lovel=54   hivel=59  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_11 Var_2.wav lovel=60   hivel=65  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_12 Var_2.wav lovel=66   hivel=71  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_13 Var_2.wav lovel=72   hivel=77  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_14 Var_2.wav lovel=78   hivel=83  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_15 Var_2.wav lovel=84   hivel=89  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_16 Var_2.wav lovel=90   hivel=95  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_17 Var_2.wav lovel=96   hivel=101 seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_18 Var_2.wav lovel=102  hivel=107 seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_19 Var_2.wav lovel=108  hivel=113 seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_20 Var_2.wav lovel=114  hivel=119 seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_21 Var_2.wav lovel=120  hivel=125 seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_22 Var_2.wav lovel=126  hivel=127 seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterL Vel_01 Var_3.wav lovel=0    hivel=5   seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_02 Var_3.wav lovel=6    hivel=11  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_03 Var_3.wav lovel=12   hivel=17  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_04 Var_3.wav lovel=18   hivel=23  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_05 Var_3.wav lovel=24   hivel=29  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_06 Var_3.wav lovel=30   hivel=35  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_07 Var_3.wav lovel=36   hivel=41  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_08 Var_3.wav lovel=42   hivel=47  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_09 Var_3.wav lovel=48   hivel=53  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_10 Var_3.wav lovel=54   hivel=59  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_11 Var_3.wav lovel=60   hivel=65  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_12 Var_3.wav lovel=66   hivel=71  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_13 Var_3.wav lovel=72   hivel=77  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_14 Var_3.wav lovel=78   hivel=83  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_15 Var_3.wav lovel=84   hivel=89  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_16 Var_3.wav lovel=90   hivel=95  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_17 Var_3.wav lovel=96   hivel=101 seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_18 Var_3.wav lovel=102  hivel=107 seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_19 Var_3.wav lovel=108  hivel=113 seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_20 Var_3.wav lovel=114  hivel=119 seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_21 Var_3.wav lovel=120  hivel=125 seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterL Vel_22 Var_3.wav lovel=126  hivel=127 seq_position=3
+
+<group> key=40 lokey=40 hikey=40 seq_length=3 volume=-6.0
+<region> sample=NID_B DirBot Snare1 CenterR Vel_01 Var_1.wav lovel=0    hivel=5   seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_02 Var_1.wav lovel=6    hivel=11  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_03 Var_1.wav lovel=12   hivel=17  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_04 Var_1.wav lovel=18   hivel=23  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_05 Var_1.wav lovel=24   hivel=29  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_06 Var_1.wav lovel=30   hivel=35  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_07 Var_1.wav lovel=36   hivel=41  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_08 Var_1.wav lovel=42   hivel=47  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_09 Var_1.wav lovel=48   hivel=53  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_10 Var_1.wav lovel=54   hivel=59  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_11 Var_1.wav lovel=60   hivel=65  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_12 Var_1.wav lovel=66   hivel=71  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_13 Var_1.wav lovel=72   hivel=77  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_14 Var_1.wav lovel=78   hivel=83  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_15 Var_1.wav lovel=84   hivel=89  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_16 Var_1.wav lovel=90   hivel=95  seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_17 Var_1.wav lovel=96   hivel=101 seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_18 Var_1.wav lovel=102  hivel=107 seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_19 Var_1.wav lovel=108  hivel=113 seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_20 Var_1.wav lovel=114  hivel=119 seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_21 Var_1.wav lovel=120  hivel=125 seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_22 Var_1.wav lovel=126  hivel=127 seq_position=1
+<region> sample=NID_B DirBot Snare1 CenterR Vel_01 Var_2.wav lovel=0    hivel=5   seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_02 Var_2.wav lovel=6    hivel=11  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_03 Var_2.wav lovel=12   hivel=17  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_04 Var_2.wav lovel=18   hivel=23  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_05 Var_2.wav lovel=24   hivel=29  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_06 Var_2.wav lovel=30   hivel=35  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_07 Var_2.wav lovel=36   hivel=41  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_08 Var_2.wav lovel=42   hivel=47  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_09 Var_2.wav lovel=48   hivel=53  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_10 Var_2.wav lovel=54   hivel=59  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_11 Var_2.wav lovel=60   hivel=65  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_12 Var_2.wav lovel=66   hivel=71  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_13 Var_2.wav lovel=72   hivel=77  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_14 Var_2.wav lovel=78   hivel=83  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_15 Var_2.wav lovel=84   hivel=89  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_16 Var_2.wav lovel=90   hivel=95  seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_17 Var_2.wav lovel=96   hivel=101 seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_18 Var_2.wav lovel=102  hivel=107 seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_19 Var_2.wav lovel=108  hivel=113 seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_20 Var_2.wav lovel=114  hivel=119 seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_21 Var_2.wav lovel=120  hivel=125 seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_22 Var_2.wav lovel=126  hivel=127 seq_position=2
+<region> sample=NID_B DirBot Snare1 CenterR Vel_01 Var_3.wav lovel=0    hivel=5   seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_02 Var_3.wav lovel=6    hivel=11  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_03 Var_3.wav lovel=12   hivel=17  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_04 Var_3.wav lovel=18   hivel=23  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_05 Var_3.wav lovel=24   hivel=29  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_06 Var_3.wav lovel=30   hivel=35  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_07 Var_3.wav lovel=36   hivel=41  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_08 Var_3.wav lovel=42   hivel=47  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_09 Var_3.wav lovel=48   hivel=53  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_10 Var_3.wav lovel=54   hivel=59  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_11 Var_3.wav lovel=60   hivel=65  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_12 Var_3.wav lovel=66   hivel=71  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_13 Var_3.wav lovel=72   hivel=77  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_14 Var_3.wav lovel=78   hivel=83  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_15 Var_3.wav lovel=84   hivel=89  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_16 Var_3.wav lovel=90   hivel=95  seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_17 Var_3.wav lovel=96   hivel=101 seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_18 Var_3.wav lovel=102  hivel=107 seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_19 Var_3.wav lovel=108  hivel=113 seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_20 Var_3.wav lovel=114  hivel=119 seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_21 Var_3.wav lovel=120  hivel=125 seq_position=3
+<region> sample=NID_B DirBot Snare1 CenterR Vel_22 Var_3.wav lovel=126  hivel=127 seq_position=3
+
+
+
+
+
+
+
+
+
+
+<group> key=42 lokey=42 hikey=42 seq_length=3 group=1 volume=-6.0
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_02 Var_1.wav lovel=10   hivel=19  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_03 Var_1.wav lovel=20   hivel=29  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_04 Var_1.wav lovel=30   hivel=39  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_05 Var_1.wav lovel=40   hivel=49  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_06 Var_1.wav lovel=50   hivel=59  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_07 Var_1.wav lovel=60   hivel=69  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_08 Var_1.wav lovel=70   hivel=79  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_09 Var_1.wav lovel=80   hivel=89  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_10 Var_1.wav lovel=90   hivel=99  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_11 Var_1.wav lovel=100  hivel=109 seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_12 Var_1.wav lovel=110  hivel=119 seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_13 Var_1.wav lovel=120  hivel=127 seq_position=1
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_01 Var_2.wav lovel=0    hivel=9   seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_02 Var_2.wav lovel=10   hivel=19  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_03 Var_2.wav lovel=20   hivel=29  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_04 Var_2.wav lovel=30   hivel=39  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_05 Var_2.wav lovel=40   hivel=49  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_06 Var_2.wav lovel=50   hivel=59  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_07 Var_2.wav lovel=60   hivel=69  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_08 Var_2.wav lovel=70   hivel=79  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_09 Var_2.wav lovel=80   hivel=89  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_10 Var_2.wav lovel=90   hivel=99  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_11 Var_2.wav lovel=100  hivel=109 seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_12 Var_2.wav lovel=110  hivel=119 seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_13 Var_2.wav lovel=120  hivel=127 seq_position=2
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_01 Var_3.wav lovel=0    hivel=9   seq_position=3
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_02 Var_3.wav lovel=10   hivel=19  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_03 Var_3.wav lovel=20   hivel=29  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_04 Var_3.wav lovel=30   hivel=39  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_05 Var_3.wav lovel=40   hivel=49  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_06 Var_3.wav lovel=50   hivel=59  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_07 Var_3.wav lovel=60   hivel=69  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_08 Var_3.wav lovel=70   hivel=79  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_09 Var_3.wav lovel=80   hivel=89  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_10 Var_3.wav lovel=90   hivel=99  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_11 Var_3.wav lovel=100  hivel=109 seq_position=3
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_12 Var_3.wav lovel=110  hivel=119 seq_position=3
+<region> sample=NID_B Dir Hihat ClosedShankR Vel_13 Var_3.wav lovel=120  hivel=127 seq_position=3
+
+<group> key=44 lokey=44 hikey=44 seq_length=3 group=1 volume=-6.0
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_01 Var_1.wav lovel=0    hivel=10  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_02 Var_1.wav lovel=11   hivel=21  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_03 Var_1.wav lovel=22   hivel=32  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_04 Var_1.wav lovel=33   hivel=43  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_05 Var_1.wav lovel=44   hivel=54  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_06 Var_1.wav lovel=55   hivel=65  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_07 Var_1.wav lovel=66   hivel=76  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_08 Var_1.wav lovel=77   hivel=87  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_09 Var_1.wav lovel=88   hivel=98  seq_position=1
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_10 Var_1.wav lovel=99   hivel=109 seq_position=1
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_11 Var_1.wav lovel=110  hivel=119 seq_position=1
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_12 Var_1.wav lovel=120  hivel=127 seq_position=1
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_01 Var_2.wav lovel=0    hivel=10  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_02 Var_2.wav lovel=11   hivel=21  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_03 Var_2.wav lovel=22   hivel=32  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_04 Var_2.wav lovel=33   hivel=43  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_05 Var_2.wav lovel=44   hivel=54  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_06 Var_2.wav lovel=55   hivel=65  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_07 Var_2.wav lovel=66   hivel=76  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_08 Var_2.wav lovel=77   hivel=87  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_09 Var_2.wav lovel=88   hivel=98  seq_position=2
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_10 Var_2.wav lovel=99   hivel=109 seq_position=2
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_11 Var_2.wav lovel=110  hivel=119 seq_position=2
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_12 Var_2.wav lovel=120  hivel=127 seq_position=2
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_01 Var_3.wav lovel=0    hivel=10  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_02 Var_3.wav lovel=11   hivel=21  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_03 Var_3.wav lovel=22   hivel=32  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_04 Var_3.wav lovel=33   hivel=43  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_05 Var_3.wav lovel=44   hivel=54  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_06 Var_3.wav lovel=55   hivel=65  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_07 Var_3.wav lovel=66   hivel=76  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_08 Var_3.wav lovel=77   hivel=87  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_09 Var_3.wav lovel=88   hivel=98  seq_position=3
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_10 Var_3.wav lovel=99   hivel=109 seq_position=3
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_11 Var_3.wav lovel=110  hivel=119 seq_position=3
+<region> sample=NID_B Dir Hihat ClosedPedal Vel_12 Var_3.wav lovel=120  hivel=127 seq_position=3
+
+<group> key=46 lokey=46 hikey=46 seq_length=3 off_by=1 volume=-6.0
+<region> sample=NID_B Dir Hihat OpenFull Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_02 Var_1.wav lovel=10   hivel=19  seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_03 Var_1.wav lovel=20   hivel=29  seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_04 Var_1.wav lovel=30   hivel=39  seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_05 Var_1.wav lovel=40   hivel=49  seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_06 Var_1.wav lovel=50   hivel=59  seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_07 Var_1.wav lovel=60   hivel=69  seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_08 Var_1.wav lovel=70   hivel=79  seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_09 Var_1.wav lovel=80   hivel=89  seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_10 Var_1.wav lovel=90   hivel=99  seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_11 Var_1.wav lovel=100  hivel=109 seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_12 Var_1.wav lovel=110  hivel=119 seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_13 Var_1.wav lovel=120  hivel=127 seq_position=1
+<region> sample=NID_B Dir Hihat OpenFull Vel_01 Var_2.wav lovel=0    hivel=9   seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_02 Var_2.wav lovel=10   hivel=19  seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_03 Var_2.wav lovel=20   hivel=29  seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_04 Var_2.wav lovel=30   hivel=39  seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_05 Var_2.wav lovel=40   hivel=49  seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_06 Var_2.wav lovel=50   hivel=59  seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_07 Var_2.wav lovel=60   hivel=69  seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_08 Var_2.wav lovel=70   hivel=79  seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_09 Var_2.wav lovel=80   hivel=89  seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_10 Var_2.wav lovel=90   hivel=99  seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_11 Var_2.wav lovel=100  hivel=109 seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_12 Var_2.wav lovel=110  hivel=119 seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_13 Var_2.wav lovel=120  hivel=127 seq_position=2
+<region> sample=NID_B Dir Hihat OpenFull Vel_01 Var_3.wav lovel=0    hivel=9   seq_position=3
+<region> sample=NID_B Dir Hihat OpenFull Vel_02 Var_3.wav lovel=10   hivel=19  seq_position=3
+<region> sample=NID_B Dir Hihat OpenFull Vel_03 Var_3.wav lovel=20   hivel=29  seq_position=3
+<region> sample=NID_B Dir Hihat OpenFull Vel_04 Var_3.wav lovel=30   hivel=39  seq_position=3
+<region> sample=NID_B Dir Hihat OpenFull Vel_05 Var_3.wav lovel=40   hivel=49  seq_position=3
+<region> sample=NID_B Dir Hihat OpenFull Vel_06 Var_3.wav lovel=50   hivel=59  seq_position=3
+<region> sample=NID_B Dir Hihat OpenFull Vel_07 Var_3.wav lovel=60   hivel=69  seq_position=3
+<region> sample=NID_B Dir Hihat OpenFull Vel_08 Var_3.wav lovel=70   hivel=79  seq_position=3
+<region> sample=NID_B Dir Hihat OpenFull Vel_09 Var_3.wav lovel=80   hivel=89  seq_position=3
+<region> sample=NID_B Dir Hihat OpenFull Vel_10 Var_3.wav lovel=90   hivel=99  seq_position=3
+<region> sample=NID_B Dir Hihat OpenFull Vel_11 Var_3.wav lovel=100  hivel=109 seq_position=3
+<region> sample=NID_B Dir Hihat OpenFull Vel_12 Var_3.wav lovel=110  hivel=119 seq_position=3
+<region> sample=NID_B Dir Hihat OpenFull Vel_13 Var_3.wav lovel=120  hivel=127 seq_position=3
+
+
+
+
+
+
+
+
+
+
+<group> key=47 lokey=47 hikey=47 seq_length=3 volume=-3.0
+<region> sample=NID_B Dir Tom1 CenterR Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_02 Var_1.wav lovel=10   hivel=18  seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_03 Var_1.wav lovel=19   hivel=27  seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_04 Var_1.wav lovel=28   hivel=36  seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_05 Var_1.wav lovel=37   hivel=45  seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_06 Var_1.wav lovel=46   hivel=54  seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_07 Var_1.wav lovel=55   hivel=63  seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_08 Var_1.wav lovel=64   hivel=72  seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_09 Var_1.wav lovel=73   hivel=81  seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_10 Var_1.wav lovel=82   hivel=90  seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_11 Var_1.wav lovel=91   hivel=99  seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_12 Var_1.wav lovel=100  hivel=108 seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_13 Var_1.wav lovel=109  hivel=117 seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_14 Var_1.wav lovel=118  hivel=127 seq_position=1
+<region> sample=NID_B Dir Tom1 CenterR Vel_01 Var_2.wav lovel=0    hivel=9   seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_02 Var_2.wav lovel=10   hivel=18  seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_03 Var_2.wav lovel=19   hivel=27  seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_04 Var_2.wav lovel=28   hivel=36  seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_05 Var_2.wav lovel=37   hivel=45  seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_06 Var_2.wav lovel=46   hivel=54  seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_07 Var_2.wav lovel=55   hivel=63  seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_08 Var_2.wav lovel=64   hivel=72  seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_09 Var_2.wav lovel=73   hivel=81  seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_10 Var_2.wav lovel=82   hivel=90  seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_11 Var_2.wav lovel=91   hivel=99  seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_12 Var_2.wav lovel=100  hivel=108 seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_13 Var_2.wav lovel=109  hivel=117 seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_14 Var_2.wav lovel=118  hivel=127 seq_position=2
+<region> sample=NID_B Dir Tom1 CenterR Vel_01 Var_3.wav lovel=0    hivel=9   seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_02 Var_3.wav lovel=10   hivel=18  seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_03 Var_3.wav lovel=19   hivel=27  seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_04 Var_3.wav lovel=28   hivel=36  seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_05 Var_3.wav lovel=37   hivel=45  seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_06 Var_3.wav lovel=46   hivel=54  seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_07 Var_3.wav lovel=55   hivel=63  seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_08 Var_3.wav lovel=64   hivel=72  seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_09 Var_3.wav lovel=73   hivel=81  seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_10 Var_3.wav lovel=82   hivel=90  seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_11 Var_3.wav lovel=91   hivel=99  seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_12 Var_3.wav lovel=100  hivel=108 seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_13 Var_3.wav lovel=109  hivel=117 seq_position=3
+<region> sample=NID_B Dir Tom1 CenterR Vel_14 Var_3.wav lovel=118  hivel=127 seq_position=3
+
+<group> key=45 lokey=45 hikey=45 seq_length=3 volume=-3.0
+<region> sample=NID_B Dir Tom2 CenterR Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_02 Var_1.wav lovel=10   hivel=18  seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_03 Var_1.wav lovel=19   hivel=27  seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_04 Var_1.wav lovel=28   hivel=36  seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_05 Var_1.wav lovel=37   hivel=45  seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_06 Var_1.wav lovel=46   hivel=54  seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_07 Var_1.wav lovel=55   hivel=63  seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_08 Var_1.wav lovel=64   hivel=72  seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_09 Var_1.wav lovel=73   hivel=81  seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_10 Var_1.wav lovel=82   hivel=90  seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_11 Var_1.wav lovel=91   hivel=99  seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_12 Var_1.wav lovel=100  hivel=108 seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_13 Var_1.wav lovel=109  hivel=117 seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_14 Var_1.wav lovel=118  hivel=127 seq_position=1
+<region> sample=NID_B Dir Tom2 CenterR Vel_01 Var_2.wav lovel=0    hivel=9   seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_02 Var_2.wav lovel=10   hivel=18  seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_03 Var_2.wav lovel=19   hivel=27  seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_04 Var_2.wav lovel=28   hivel=36  seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_05 Var_2.wav lovel=37   hivel=45  seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_06 Var_2.wav lovel=46   hivel=54  seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_07 Var_2.wav lovel=55   hivel=63  seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_08 Var_2.wav lovel=64   hivel=72  seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_09 Var_2.wav lovel=73   hivel=81  seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_10 Var_2.wav lovel=82   hivel=90  seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_11 Var_2.wav lovel=91   hivel=99  seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_12 Var_2.wav lovel=100  hivel=108 seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_13 Var_2.wav lovel=109  hivel=117 seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_14 Var_2.wav lovel=118  hivel=127 seq_position=2
+<region> sample=NID_B Dir Tom2 CenterR Vel_01 Var_3.wav lovel=0    hivel=9   seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_02 Var_3.wav lovel=10   hivel=18  seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_03 Var_3.wav lovel=19   hivel=27  seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_04 Var_3.wav lovel=28   hivel=36  seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_05 Var_3.wav lovel=37   hivel=45  seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_06 Var_3.wav lovel=46   hivel=54  seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_07 Var_3.wav lovel=55   hivel=63  seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_08 Var_3.wav lovel=64   hivel=72  seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_09 Var_3.wav lovel=73   hivel=81  seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_10 Var_3.wav lovel=82   hivel=90  seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_11 Var_3.wav lovel=91   hivel=99  seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_12 Var_3.wav lovel=100  hivel=108 seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_13 Var_3.wav lovel=109  hivel=117 seq_position=3
+<region> sample=NID_B Dir Tom2 CenterR Vel_14 Var_3.wav lovel=118  hivel=127 seq_position=3
+
+<group> key=43 lokey=43 hikey=43 seq_length=3 volume=-3.0
+<region> sample=NID_B Dir Tom3 CenterR Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_02 Var_1.wav lovel=10   hivel=18  seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_03 Var_1.wav lovel=19   hivel=27  seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_04 Var_1.wav lovel=28   hivel=36  seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_05 Var_1.wav lovel=37   hivel=45  seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_06 Var_1.wav lovel=46   hivel=54  seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_07 Var_1.wav lovel=55   hivel=63  seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_08 Var_1.wav lovel=64   hivel=72  seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_09 Var_1.wav lovel=73   hivel=81  seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_10 Var_1.wav lovel=82   hivel=90  seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_11 Var_1.wav lovel=91   hivel=99  seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_12 Var_1.wav lovel=100  hivel=108 seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_13 Var_1.wav lovel=109  hivel=117 seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_14 Var_1.wav lovel=118  hivel=127 seq_position=1
+<region> sample=NID_B Dir Tom3 CenterR Vel_01 Var_2.wav lovel=0    hivel=9   seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_02 Var_2.wav lovel=10   hivel=18  seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_03 Var_2.wav lovel=19   hivel=27  seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_04 Var_2.wav lovel=28   hivel=36  seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_05 Var_2.wav lovel=37   hivel=45  seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_06 Var_2.wav lovel=46   hivel=54  seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_07 Var_2.wav lovel=55   hivel=63  seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_08 Var_2.wav lovel=64   hivel=72  seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_09 Var_2.wav lovel=73   hivel=81  seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_10 Var_2.wav lovel=82   hivel=90  seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_11 Var_2.wav lovel=91   hivel=99  seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_12 Var_2.wav lovel=100  hivel=108 seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_13 Var_2.wav lovel=109  hivel=117 seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_14 Var_2.wav lovel=118  hivel=127 seq_position=2
+<region> sample=NID_B Dir Tom3 CenterR Vel_01 Var_3.wav lovel=0    hivel=9   seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_02 Var_3.wav lovel=10   hivel=18  seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_03 Var_3.wav lovel=19   hivel=27  seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_04 Var_3.wav lovel=28   hivel=36  seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_05 Var_3.wav lovel=37   hivel=45  seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_06 Var_3.wav lovel=46   hivel=54  seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_07 Var_3.wav lovel=55   hivel=63  seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_08 Var_3.wav lovel=64   hivel=72  seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_09 Var_3.wav lovel=73   hivel=81  seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_10 Var_3.wav lovel=82   hivel=90  seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_11 Var_3.wav lovel=91   hivel=99  seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_12 Var_3.wav lovel=100  hivel=108 seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_13 Var_3.wav lovel=109  hivel=117 seq_position=3
+<region> sample=NID_B Dir Tom3 CenterR Vel_14 Var_3.wav lovel=118  hivel=127 seq_position=3
+
+<group> key=41 lokey=41 hikey=41 seq_length=3 volume=-3.0
+<region> sample=NID_B Dir Tom4 CenterR Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_02 Var_1.wav lovel=10   hivel=18  seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_03 Var_1.wav lovel=19   hivel=27  seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_04 Var_1.wav lovel=28   hivel=36  seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_05 Var_1.wav lovel=37   hivel=45  seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_06 Var_1.wav lovel=46   hivel=54  seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_07 Var_1.wav lovel=55   hivel=63  seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_08 Var_1.wav lovel=64   hivel=72  seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_09 Var_1.wav lovel=73   hivel=81  seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_10 Var_1.wav lovel=82   hivel=90  seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_11 Var_1.wav lovel=91   hivel=99  seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_12 Var_1.wav lovel=100  hivel=108 seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_13 Var_1.wav lovel=109  hivel=117 seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_14 Var_1.wav lovel=118  hivel=127 seq_position=1
+<region> sample=NID_B Dir Tom4 CenterR Vel_01 Var_2.wav lovel=0    hivel=9   seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_02 Var_2.wav lovel=10   hivel=18  seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_03 Var_2.wav lovel=19   hivel=27  seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_04 Var_2.wav lovel=28   hivel=36  seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_05 Var_2.wav lovel=37   hivel=45  seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_06 Var_2.wav lovel=46   hivel=54  seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_07 Var_2.wav lovel=55   hivel=63  seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_08 Var_2.wav lovel=64   hivel=72  seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_09 Var_2.wav lovel=73   hivel=81  seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_10 Var_2.wav lovel=82   hivel=90  seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_11 Var_2.wav lovel=91   hivel=99  seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_12 Var_2.wav lovel=100  hivel=108 seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_13 Var_2.wav lovel=109  hivel=117 seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_14 Var_2.wav lovel=118  hivel=127 seq_position=2
+<region> sample=NID_B Dir Tom4 CenterR Vel_01 Var_3.wav lovel=0    hivel=9   seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_02 Var_3.wav lovel=10   hivel=18  seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_03 Var_3.wav lovel=19   hivel=27  seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_04 Var_3.wav lovel=28   hivel=36  seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_05 Var_3.wav lovel=37   hivel=45  seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_06 Var_3.wav lovel=46   hivel=54  seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_07 Var_3.wav lovel=55   hivel=63  seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_08 Var_3.wav lovel=64   hivel=72  seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_09 Var_3.wav lovel=73   hivel=81  seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_10 Var_3.wav lovel=82   hivel=90  seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_11 Var_3.wav lovel=91   hivel=99  seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_12 Var_3.wav lovel=100  hivel=108 seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_13 Var_3.wav lovel=109  hivel=117 seq_position=3
+<region> sample=NID_B Dir Tom4 CenterR Vel_14 Var_3.wav lovel=118  hivel=127 seq_position=3
+
+
+
+
+
+
+
+
+
+
+<group> key=49 lokey=49 hikey=49 seq_length=3 volume=1.5
+<region> sample=NID_B OH Crash1 Edge Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_02 Var_1.wav lovel=10   hivel=19  seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_03 Var_1.wav lovel=20   hivel=29  seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_04 Var_1.wav lovel=30   hivel=39  seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_05 Var_1.wav lovel=40   hivel=49  seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_06 Var_1.wav lovel=50   hivel=59  seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_07 Var_1.wav lovel=60   hivel=69  seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_08 Var_1.wav lovel=70   hivel=79  seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_09 Var_1.wav lovel=80   hivel=89  seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_10 Var_1.wav lovel=90   hivel=99  seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_11 Var_1.wav lovel=100  hivel=109 seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_12 Var_1.wav lovel=110  hivel=119 seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_13 Var_1.wav lovel=120  hivel=127 seq_position=1
+<region> sample=NID_B OH Crash1 Edge Vel_01 Var_2.wav lovel=0    hivel=9   seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_02 Var_2.wav lovel=10   hivel=19  seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_03 Var_2.wav lovel=20   hivel=29  seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_04 Var_2.wav lovel=30   hivel=39  seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_05 Var_2.wav lovel=40   hivel=49  seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_06 Var_2.wav lovel=50   hivel=59  seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_07 Var_2.wav lovel=60   hivel=69  seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_08 Var_2.wav lovel=70   hivel=79  seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_09 Var_2.wav lovel=80   hivel=89  seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_10 Var_2.wav lovel=90   hivel=99  seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_11 Var_2.wav lovel=100  hivel=109 seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_12 Var_2.wav lovel=110  hivel=119 seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_13 Var_2.wav lovel=120  hivel=127 seq_position=2
+<region> sample=NID_B OH Crash1 Edge Vel_01 Var_3.wav lovel=0    hivel=9   seq_position=3
+<region> sample=NID_B OH Crash1 Edge Vel_02 Var_3.wav lovel=10   hivel=19  seq_position=3
+<region> sample=NID_B OH Crash1 Edge Vel_03 Var_3.wav lovel=20   hivel=29  seq_position=3
+<region> sample=NID_B OH Crash1 Edge Vel_04 Var_3.wav lovel=30   hivel=39  seq_position=3
+<region> sample=NID_B OH Crash1 Edge Vel_05 Var_3.wav lovel=40   hivel=49  seq_position=3
+<region> sample=NID_B OH Crash1 Edge Vel_06 Var_3.wav lovel=50   hivel=59  seq_position=3
+<region> sample=NID_B OH Crash1 Edge Vel_07 Var_3.wav lovel=60   hivel=69  seq_position=3
+<region> sample=NID_B OH Crash1 Edge Vel_08 Var_3.wav lovel=70   hivel=79  seq_position=3
+<region> sample=NID_B OH Crash1 Edge Vel_09 Var_3.wav lovel=80   hivel=89  seq_position=3
+<region> sample=NID_B OH Crash1 Edge Vel_10 Var_3.wav lovel=90   hivel=99  seq_position=3
+<region> sample=NID_B OH Crash1 Edge Vel_11 Var_3.wav lovel=100  hivel=109 seq_position=3
+<region> sample=NID_B OH Crash1 Edge Vel_12 Var_3.wav lovel=110  hivel=119 seq_position=3
+<region> sample=NID_B OH Crash1 Edge Vel_13 Var_3.wav lovel=120  hivel=127 seq_position=3
+
+<group> key=57 lokey=57 hikey=57 seq_length=3 volume=1.5
+<region> sample=NID_B OH Crash2 Edge Vel_01 Var_1.wav lovel=0    hivel=10  seq_position=1
+<region> sample=NID_B OH Crash2 Edge Vel_02 Var_1.wav lovel=11   hivel=21  seq_position=1
+<region> sample=NID_B OH Crash2 Edge Vel_03 Var_1.wav lovel=22   hivel=32  seq_position=1
+<region> sample=NID_B OH Crash2 Edge Vel_04 Var_1.wav lovel=33   hivel=43  seq_position=1
+<region> sample=NID_B OH Crash2 Edge Vel_05 Var_1.wav lovel=44   hivel=54  seq_position=1
+<region> sample=NID_B OH Crash2 Edge Vel_06 Var_1.wav lovel=55   hivel=65  seq_position=1
+<region> sample=NID_B OH Crash2 Edge Vel_07 Var_1.wav lovel=66   hivel=76  seq_position=1
+<region> sample=NID_B OH Crash2 Edge Vel_08 Var_1.wav lovel=77   hivel=87  seq_position=1
+<region> sample=NID_B OH Crash2 Edge Vel_09 Var_1.wav lovel=88   hivel=98  seq_position=1
+<region> sample=NID_B OH Crash2 Edge Vel_10 Var_1.wav lovel=99   hivel=109 seq_position=1
+<region> sample=NID_B OH Crash2 Edge Vel_11 Var_1.wav lovel=110  hivel=119 seq_position=1
+<region> sample=NID_B OH Crash2 Edge Vel_12 Var_1.wav lovel=120  hivel=127 seq_position=1
+<region> sample=NID_B OH Crash2 Edge Vel_01 Var_2.wav lovel=0    hivel=10  seq_position=2
+<region> sample=NID_B OH Crash2 Edge Vel_02 Var_2.wav lovel=11   hivel=21  seq_position=2
+<region> sample=NID_B OH Crash2 Edge Vel_03 Var_2.wav lovel=22   hivel=32  seq_position=2
+<region> sample=NID_B OH Crash2 Edge Vel_04 Var_2.wav lovel=33   hivel=43  seq_position=2
+<region> sample=NID_B OH Crash2 Edge Vel_05 Var_2.wav lovel=44   hivel=54  seq_position=2
+<region> sample=NID_B OH Crash2 Edge Vel_06 Var_2.wav lovel=55   hivel=65  seq_position=2
+<region> sample=NID_B OH Crash2 Edge Vel_07 Var_2.wav lovel=66   hivel=76  seq_position=2
+<region> sample=NID_B OH Crash2 Edge Vel_08 Var_2.wav lovel=77   hivel=87  seq_position=2
+<region> sample=NID_B OH Crash2 Edge Vel_09 Var_2.wav lovel=88   hivel=98  seq_position=2
+<region> sample=NID_B OH Crash2 Edge Vel_10 Var_2.wav lovel=99   hivel=109 seq_position=2
+<region> sample=NID_B OH Crash2 Edge Vel_11 Var_2.wav lovel=110  hivel=119 seq_position=2
+<region> sample=NID_B OH Crash2 Edge Vel_12 Var_2.wav lovel=120  hivel=127 seq_position=2
+<region> sample=NID_B OH Crash2 Edge Vel_01 Var_3.wav lovel=0    hivel=10  seq_position=3
+<region> sample=NID_B OH Crash2 Edge Vel_02 Var_3.wav lovel=11   hivel=21  seq_position=3
+<region> sample=NID_B OH Crash2 Edge Vel_03 Var_3.wav lovel=22   hivel=32  seq_position=3
+<region> sample=NID_B OH Crash2 Edge Vel_04 Var_3.wav lovel=33   hivel=43  seq_position=3
+<region> sample=NID_B OH Crash2 Edge Vel_05 Var_3.wav lovel=44   hivel=54  seq_position=3
+<region> sample=NID_B OH Crash2 Edge Vel_06 Var_3.wav lovel=55   hivel=65  seq_position=3
+<region> sample=NID_B OH Crash2 Edge Vel_07 Var_3.wav lovel=66   hivel=76  seq_position=3
+<region> sample=NID_B OH Crash2 Edge Vel_08 Var_3.wav lovel=77   hivel=87  seq_position=3
+<region> sample=NID_B OH Crash2 Edge Vel_09 Var_3.wav lovel=88   hivel=98  seq_position=3
+<region> sample=NID_B OH Crash2 Edge Vel_10 Var_3.wav lovel=99   hivel=109 seq_position=3
+<region> sample=NID_B OH Crash2 Edge Vel_11 Var_3.wav lovel=110  hivel=119 seq_position=3
+<region> sample=NID_B OH Crash2 Edge Vel_12 Var_3.wav lovel=120  hivel=127 seq_position=3
+
+<group> key=52 lokey=52 hikey=52 seq_length=3 volume=0.0
+<region> sample=NID_B OH China Edge Vel_01 Var_1.wav lovel=0    hivel=12  seq_position=1
+<region> sample=NID_B OH China Edge Vel_02 Var_1.wav lovel=13   hivel=25  seq_position=1
+<region> sample=NID_B OH China Edge Vel_03 Var_1.wav lovel=26   hivel=38  seq_position=1
+<region> sample=NID_B OH China Edge Vel_04 Var_1.wav lovel=39   hivel=51  seq_position=1
+<region> sample=NID_B OH China Edge Vel_05 Var_1.wav lovel=52   hivel=64  seq_position=1
+<region> sample=NID_B OH China Edge Vel_06 Var_1.wav lovel=65   hivel=77  seq_position=1
+<region> sample=NID_B OH China Edge Vel_07 Var_1.wav lovel=78   hivel=90  seq_position=1
+<region> sample=NID_B OH China Edge Vel_08 Var_1.wav lovel=91   hivel=103 seq_position=1
+<region> sample=NID_B OH China Edge Vel_09 Var_1.wav lovel=104  hivel=116 seq_position=1
+<region> sample=NID_B OH China Edge Vel_10 Var_1.wav lovel=117  hivel=127 seq_position=1
+<region> sample=NID_B OH China Edge Vel_01 Var_2.wav lovel=0    hivel=12  seq_position=2
+<region> sample=NID_B OH China Edge Vel_02 Var_2.wav lovel=13   hivel=25  seq_position=2
+<region> sample=NID_B OH China Edge Vel_03 Var_2.wav lovel=26   hivel=38  seq_position=2
+<region> sample=NID_B OH China Edge Vel_04 Var_2.wav lovel=39   hivel=51  seq_position=2
+<region> sample=NID_B OH China Edge Vel_05 Var_2.wav lovel=52   hivel=64  seq_position=2
+<region> sample=NID_B OH China Edge Vel_06 Var_2.wav lovel=65   hivel=77  seq_position=2
+<region> sample=NID_B OH China Edge Vel_07 Var_2.wav lovel=78   hivel=90  seq_position=2
+<region> sample=NID_B OH China Edge Vel_08 Var_2.wav lovel=91   hivel=103 seq_position=2
+<region> sample=NID_B OH China Edge Vel_09 Var_2.wav lovel=104  hivel=116 seq_position=2
+<region> sample=NID_B OH China Edge Vel_10 Var_2.wav lovel=117  hivel=127 seq_position=2
+<region> sample=NID_B OH China Edge Vel_01 Var_3.wav lovel=0    hivel=12  seq_position=3
+<region> sample=NID_B OH China Edge Vel_02 Var_3.wav lovel=13   hivel=25  seq_position=3
+<region> sample=NID_B OH China Edge Vel_03 Var_3.wav lovel=26   hivel=38  seq_position=3
+<region> sample=NID_B OH China Edge Vel_04 Var_3.wav lovel=39   hivel=51  seq_position=3
+<region> sample=NID_B OH China Edge Vel_05 Var_3.wav lovel=52   hivel=64  seq_position=3
+<region> sample=NID_B OH China Edge Vel_06 Var_3.wav lovel=65   hivel=77  seq_position=3
+<region> sample=NID_B OH China Edge Vel_07 Var_3.wav lovel=78   hivel=90  seq_position=3
+<region> sample=NID_B OH China Edge Vel_08 Var_3.wav lovel=91   hivel=103 seq_position=3
+<region> sample=NID_B OH China Edge Vel_09 Var_3.wav lovel=104  hivel=116 seq_position=3
+<region> sample=NID_B OH China Edge Vel_10 Var_3.wav lovel=117  hivel=127 seq_position=3
+
+<group> key=55 lokey=55 hikey=55 seq_length=3 volume=1.5
+<region> sample=NID_B OH Splash Edge Vel_01 Var_1.wav lovel=0    hivel=12  seq_position=1
+<region> sample=NID_B OH Splash Edge Vel_02 Var_1.wav lovel=13   hivel=25  seq_position=1
+<region> sample=NID_B OH Splash Edge Vel_03 Var_1.wav lovel=26   hivel=38  seq_position=1
+<region> sample=NID_B OH Splash Edge Vel_04 Var_1.wav lovel=39   hivel=51  seq_position=1
+<region> sample=NID_B OH Splash Edge Vel_05 Var_1.wav lovel=52   hivel=64  seq_position=1
+<region> sample=NID_B OH Splash Edge Vel_06 Var_1.wav lovel=65   hivel=77  seq_position=1
+<region> sample=NID_B OH Splash Edge Vel_07 Var_1.wav lovel=78   hivel=90  seq_position=1
+<region> sample=NID_B OH Splash Edge Vel_08 Var_1.wav lovel=91   hivel=103 seq_position=1
+<region> sample=NID_B OH Splash Edge Vel_09 Var_1.wav lovel=104  hivel=116 seq_position=1
+<region> sample=NID_B OH Splash Edge Vel_10 Var_1.wav lovel=117  hivel=127 seq_position=1
+<region> sample=NID_B OH Splash Edge Vel_01 Var_2.wav lovel=0    hivel=12  seq_position=2
+<region> sample=NID_B OH Splash Edge Vel_02 Var_2.wav lovel=13   hivel=25  seq_position=2
+<region> sample=NID_B OH Splash Edge Vel_03 Var_2.wav lovel=26   hivel=38  seq_position=2
+<region> sample=NID_B OH Splash Edge Vel_04 Var_2.wav lovel=39   hivel=51  seq_position=2
+<region> sample=NID_B OH Splash Edge Vel_05 Var_2.wav lovel=52   hivel=64  seq_position=2
+<region> sample=NID_B OH Splash Edge Vel_06 Var_2.wav lovel=65   hivel=77  seq_position=2
+<region> sample=NID_B OH Splash Edge Vel_07 Var_2.wav lovel=78   hivel=90  seq_position=2
+<region> sample=NID_B OH Splash Edge Vel_08 Var_2.wav lovel=91   hivel=103 seq_position=2
+<region> sample=NID_B OH Splash Edge Vel_09 Var_2.wav lovel=104  hivel=116 seq_position=2
+<region> sample=NID_B OH Splash Edge Vel_10 Var_2.wav lovel=117  hivel=127 seq_position=2
+<region> sample=NID_B OH Splash Edge Vel_01 Var_3.wav lovel=0    hivel=12  seq_position=3
+<region> sample=NID_B OH Splash Edge Vel_02 Var_3.wav lovel=13   hivel=25  seq_position=3
+<region> sample=NID_B OH Splash Edge Vel_03 Var_3.wav lovel=26   hivel=38  seq_position=3
+<region> sample=NID_B OH Splash Edge Vel_04 Var_3.wav lovel=39   hivel=51  seq_position=3
+<region> sample=NID_B OH Splash Edge Vel_05 Var_3.wav lovel=52   hivel=64  seq_position=3
+<region> sample=NID_B OH Splash Edge Vel_06 Var_3.wav lovel=65   hivel=77  seq_position=3
+<region> sample=NID_B OH Splash Edge Vel_07 Var_3.wav lovel=78   hivel=90  seq_position=3
+<region> sample=NID_B OH Splash Edge Vel_08 Var_3.wav lovel=91   hivel=103 seq_position=3
+<region> sample=NID_B OH Splash Edge Vel_09 Var_3.wav lovel=104  hivel=116 seq_position=3
+<region> sample=NID_B OH Splash Edge Vel_10 Var_3.wav lovel=117  hivel=127 seq_position=3
+
+
+
+
+
+
+
+
+
+
+<group> key=51 lokey=51 hikey=51 seq_length=3 volume=3.0
+<region> sample=NID_B OH Ride Tip Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_02 Var_1.wav lovel=10   hivel=18  seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_03 Var_1.wav lovel=19   hivel=27  seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_04 Var_1.wav lovel=28   hivel=36  seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_05 Var_1.wav lovel=37   hivel=45  seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_06 Var_1.wav lovel=46   hivel=54  seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_07 Var_1.wav lovel=55   hivel=63  seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_08 Var_1.wav lovel=64   hivel=72  seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_09 Var_1.wav lovel=73   hivel=81  seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_10 Var_1.wav lovel=82   hivel=90  seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_11 Var_1.wav lovel=91   hivel=99  seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_12 Var_1.wav lovel=100  hivel=108 seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_13 Var_1.wav lovel=109  hivel=117 seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_14 Var_1.wav lovel=118  hivel=127 seq_position=1
+<region> sample=NID_B OH Ride Tip Vel_01 Var_2.wav lovel=0    hivel=9   seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_02 Var_2.wav lovel=10   hivel=18  seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_03 Var_2.wav lovel=19   hivel=27  seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_04 Var_2.wav lovel=28   hivel=36  seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_05 Var_2.wav lovel=37   hivel=45  seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_06 Var_2.wav lovel=46   hivel=54  seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_07 Var_2.wav lovel=55   hivel=63  seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_08 Var_2.wav lovel=64   hivel=72  seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_09 Var_2.wav lovel=73   hivel=81  seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_10 Var_2.wav lovel=82   hivel=90  seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_11 Var_2.wav lovel=91   hivel=99  seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_12 Var_2.wav lovel=100  hivel=108 seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_13 Var_2.wav lovel=109  hivel=117 seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_14 Var_2.wav lovel=118  hivel=127 seq_position=2
+<region> sample=NID_B OH Ride Tip Vel_01 Var_3.wav lovel=0    hivel=9   seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_02 Var_3.wav lovel=10   hivel=18  seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_03 Var_3.wav lovel=19   hivel=27  seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_04 Var_3.wav lovel=28   hivel=36  seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_05 Var_3.wav lovel=37   hivel=45  seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_06 Var_3.wav lovel=46   hivel=54  seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_07 Var_3.wav lovel=55   hivel=63  seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_08 Var_3.wav lovel=64   hivel=72  seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_09 Var_3.wav lovel=73   hivel=81  seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_10 Var_3.wav lovel=82   hivel=90  seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_11 Var_3.wav lovel=91   hivel=99  seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_12 Var_3.wav lovel=100  hivel=108 seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_13 Var_3.wav lovel=109  hivel=117 seq_position=3
+<region> sample=NID_B OH Ride Tip Vel_14 Var_3.wav lovel=118  hivel=127 seq_position=3
+
+<group> key=53 lokey=53 hikey=53 seq_length=3 volume=3.0
+<region> sample=NID_B OH Ride Bell Vel_01 Var_1.wav lovel=0    hivel=11  seq_position=1
+<region> sample=NID_B OH Ride Bell Vel_02 Var_1.wav lovel=12   hivel=22  seq_position=1
+<region> sample=NID_B OH Ride Bell Vel_03 Var_1.wav lovel=23   hivel=33  seq_position=1
+<region> sample=NID_B OH Ride Bell Vel_04 Var_1.wav lovel=34   hivel=44  seq_position=1
+<region> sample=NID_B OH Ride Bell Vel_05 Var_1.wav lovel=45   hivel=55  seq_position=1
+<region> sample=NID_B OH Ride Bell Vel_06 Var_1.wav lovel=56   hivel=66  seq_position=1
+<region> sample=NID_B OH Ride Bell Vel_07 Var_1.wav lovel=67   hivel=77  seq_position=1
+<region> sample=NID_B OH Ride Bell Vel_08 Var_1.wav lovel=78   hivel=88  seq_position=1
+<region> sample=NID_B OH Ride Bell Vel_09 Var_1.wav lovel=89   hivel=99  seq_position=1
+<region> sample=NID_B OH Ride Bell Vel_10 Var_1.wav lovel=100  hivel=110 seq_position=1
+<region> sample=NID_B OH Ride Bell Vel_11 Var_1.wav lovel=111  hivel=127 seq_position=1
+<region> sample=NID_B OH Ride Bell Vel_01 Var_2.wav lovel=0    hivel=11  seq_position=2
+<region> sample=NID_B OH Ride Bell Vel_02 Var_2.wav lovel=12   hivel=22  seq_position=2
+<region> sample=NID_B OH Ride Bell Vel_03 Var_2.wav lovel=23   hivel=33  seq_position=2
+<region> sample=NID_B OH Ride Bell Vel_04 Var_2.wav lovel=34   hivel=44  seq_position=2
+<region> sample=NID_B OH Ride Bell Vel_05 Var_2.wav lovel=45   hivel=55  seq_position=2
+<region> sample=NID_B OH Ride Bell Vel_06 Var_2.wav lovel=56   hivel=66  seq_position=2
+<region> sample=NID_B OH Ride Bell Vel_07 Var_2.wav lovel=67   hivel=77  seq_position=2
+<region> sample=NID_B OH Ride Bell Vel_08 Var_2.wav lovel=78   hivel=88  seq_position=2
+<region> sample=NID_B OH Ride Bell Vel_09 Var_2.wav lovel=89   hivel=99  seq_position=2
+<region> sample=NID_B OH Ride Bell Vel_10 Var_2.wav lovel=100  hivel=110 seq_position=2
+<region> sample=NID_B OH Ride Bell Vel_11 Var_2.wav lovel=111  hivel=127 seq_position=2
+<region> sample=NID_B OH Ride Bell Vel_01 Var_3.wav lovel=0    hivel=11  seq_position=3
+<region> sample=NID_B OH Ride Bell Vel_02 Var_3.wav lovel=12   hivel=22  seq_position=3
+<region> sample=NID_B OH Ride Bell Vel_03 Var_3.wav lovel=23   hivel=33  seq_position=3
+<region> sample=NID_B OH Ride Bell Vel_04 Var_3.wav lovel=34   hivel=44  seq_position=3
+<region> sample=NID_B OH Ride Bell Vel_05 Var_3.wav lovel=45   hivel=55  seq_position=3
+<region> sample=NID_B OH Ride Bell Vel_06 Var_3.wav lovel=56   hivel=66  seq_position=3
+<region> sample=NID_B OH Ride Bell Vel_07 Var_3.wav lovel=67   hivel=77  seq_position=3
+<region> sample=NID_B OH Ride Bell Vel_08 Var_3.wav lovel=78   hivel=88  seq_position=3
+<region> sample=NID_B OH Ride Bell Vel_09 Var_3.wav lovel=89   hivel=99  seq_position=3
+<region> sample=NID_B OH Ride Bell Vel_10 Var_3.wav lovel=100  hivel=110 seq_position=3
+<region> sample=NID_B OH Ride Bell Vel_11 Var_3.wav lovel=111  hivel=127 seq_position=3
+
+<group> key=59 lokey=59 hikey=59 seq_length=2 volume=3.0
+<region> sample=NID_B OH Ride Edge Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_02 Var_1.wav lovel=10   hivel=19  seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_03 Var_1.wav lovel=20   hivel=29  seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_04 Var_1.wav lovel=30   hivel=39  seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_05 Var_1.wav lovel=40   hivel=49  seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_06 Var_1.wav lovel=50   hivel=59  seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_07 Var_1.wav lovel=60   hivel=69  seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_08 Var_1.wav lovel=70   hivel=79  seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_09 Var_1.wav lovel=80   hivel=89  seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_10 Var_1.wav lovel=90   hivel=99  seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_11 Var_1.wav lovel=100  hivel=109 seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_12 Var_1.wav lovel=110  hivel=119 seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_13 Var_1.wav lovel=120  hivel=127 seq_position=1
+<region> sample=NID_B OH Ride Edge Vel_01 Var_2.wav lovel=0    hivel=9   seq_position=2
+<region> sample=NID_B OH Ride Edge Vel_02 Var_2.wav lovel=10   hivel=19  seq_position=2
+<region> sample=NID_B OH Ride Edge Vel_03 Var_2.wav lovel=20   hivel=29  seq_position=2
+<region> sample=NID_B OH Ride Edge Vel_04 Var_2.wav lovel=30   hivel=39  seq_position=2
+<region> sample=NID_B OH Ride Edge Vel_05 Var_2.wav lovel=40   hivel=49  seq_position=2
+<region> sample=NID_B OH Ride Edge Vel_06 Var_2.wav lovel=50   hivel=59  seq_position=2
+<region> sample=NID_B OH Ride Edge Vel_07 Var_2.wav lovel=60   hivel=69  seq_position=2
+<region> sample=NID_B OH Ride Edge Vel_08 Var_2.wav lovel=70   hivel=79  seq_position=2
+<region> sample=NID_B OH Ride Edge Vel_09 Var_2.wav lovel=80   hivel=89  seq_position=2
+<region> sample=NID_B OH Ride Edge Vel_10 Var_2.wav lovel=90   hivel=99  seq_position=2
+<region> sample=NID_B OH Ride Edge Vel_11 Var_2.wav lovel=100  hivel=109 seq_position=2
+<region> sample=NID_B OH Ride Edge Vel_12 Var_2.wav lovel=110  hivel=119 seq_position=2
+<region> sample=NID_B OH Ride Edge Vel_13 Var_2.wav lovel=120  hivel=127 seq_position=2
