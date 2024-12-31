@@ -31,7 +31,7 @@ an expandable collection of virtual instruments in **SFZ format**, compatible wi
 ## Source
 
 - [Native Instruments Session Guitarist Picked Acoustic](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-picked-acoustic/)
-- - [Native Instruments Session Guitarist Picked Nylon](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-picked-nylon/)
+- [Native Instruments Session Guitarist Picked Nylon](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-picked-nylon/)
 - [Native Instruments Session Bassist Upright Bass](https://www.native-instruments.com/en/products/komplete/guitar/session-bassist-upright-bass/)
 - [Native Instruments Session Bassist Icon Bass](https://www.native-instruments.com/en/products/komplete/guitar/session-bassist-icon-bass/)
 - [Native Instruments Studio Drummer](https://www.native-instruments.com/en/products/komplete/drums/studio-drummer/)
