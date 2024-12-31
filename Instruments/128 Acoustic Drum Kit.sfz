@@ -845,7 +845,7 @@ label_key62=Mute High Conga
 
 
 
-<group> key=49 lokey=49 hikey=49 seq_length=3 volume=1.5
+<group> key=49 lokey=49 hikey=49 seq_length=3 volume=0.0
 <region> sample=NID_B OH Crash1 Edge Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
 <region> sample=NID_B OH Crash1 Edge Vel_02 Var_1.wav lovel=10   hivel=19  seq_position=1
 <region> sample=NID_B OH Crash1 Edge Vel_03 Var_1.wav lovel=20   hivel=29  seq_position=1
@@ -886,7 +886,7 @@ label_key62=Mute High Conga
 <region> sample=NID_B OH Crash1 Edge Vel_12 Var_3.wav lovel=110  hivel=119 seq_position=3
 <region> sample=NID_B OH Crash1 Edge Vel_13 Var_3.wav lovel=120  hivel=127 seq_position=3
 
-<group> key=57 lokey=57 hikey=57 seq_length=3 volume=1.5
+<group> key=57 lokey=57 hikey=57 seq_length=3 volume=0.0
 <region> sample=NID_B OH Crash2 Edge Vel_01 Var_1.wav lovel=0    hivel=10  seq_position=1
 <region> sample=NID_B OH Crash2 Edge Vel_02 Var_1.wav lovel=11   hivel=21  seq_position=1
 <region> sample=NID_B OH Crash2 Edge Vel_03 Var_1.wav lovel=22   hivel=32  seq_position=1
@@ -956,7 +956,7 @@ label_key62=Mute High Conga
 <region> sample=NID_B OH China Edge Vel_09 Var_3.wav lovel=104  hivel=116 seq_position=3
 <region> sample=NID_B OH China Edge Vel_10 Var_3.wav lovel=117  hivel=127 seq_position=3
 
-<group> key=55 lokey=55 hikey=55 seq_length=3 volume=1.5
+<group> key=55 lokey=55 hikey=55 seq_length=3 volume=0.0
 <region> sample=NID_B OH Splash Edge Vel_01 Var_1.wav lovel=0    hivel=12  seq_position=1
 <region> sample=NID_B OH Splash Edge Vel_02 Var_1.wav lovel=13   hivel=25  seq_position=1
 <region> sample=NID_B OH Splash Edge Vel_03 Var_1.wav lovel=26   hivel=38  seq_position=1

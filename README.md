@@ -19,17 +19,19 @@ an expandable collection of virtual instruments in **SFZ format**, compatible wi
 
 ## Instruments List
 
-|Number|Instrument            |
-|------|----------------------|
-|025   |Acoustic Guitar       |
-|032   |Upright Bass          |
-|033   |Electric Bass (finger)|
-|036   |Electric Bass (Slap)  |
-|128   |Acoustic Drum Kit     |
+|Number|Instrument             |
+|------|-----------------------|
+|024   |Acoustic Guitar (Nylon)|
+|025   |Acoustic Guitar (Steel)|
+|032   |Upright Bass           |
+|033   |Electric Bass (finger) |
+|036   |Electric Bass (Slap)   |
+|128   |Acoustic Drum Kit      |
 
 ## Source
 
 - [Native Instruments Session Guitarist Picked Acoustic](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-picked-acoustic/)
+- - [Native Instruments Session Guitarist Picked Nylon](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-picked-nylon/)
 - [Native Instruments Session Bassist Upright Bass](https://www.native-instruments.com/en/products/komplete/guitar/session-bassist-upright-bass/)
 - [Native Instruments Session Bassist Icon Bass](https://www.native-instruments.com/en/products/komplete/guitar/session-bassist-icon-bass/)
 - [Native Instruments Studio Drummer](https://www.native-instruments.com/en/products/komplete/drums/studio-drummer/)
