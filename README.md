@@ -8,10 +8,12 @@ an expandable collection of virtual instruments in **SFZ format**, compatible wi
 
 - [Sfizz](https://sfztools.github.io/sfizz/downloads/)
 
-## Samples
+## Details
 
 - 10 to 22 velocity layers
 - 2 to 3 round robin
+- wav stereo
+- MIDI Drum folder
 
 ## Instruments List
 
