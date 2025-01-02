@@ -1,24 +1,28 @@
 # General Midi SFZ
 
 ## About
-
 an expandable collection of virtual instruments in **SFZ format**, compatible with the **General MIDI (GM)** standard. This project is dedicated to providing a diverse and up-to-date library of sounds for musicians, composers and producers.
 
 ## Player
-
 - [Sfizz](https://sfztools.github.io/sfizz/downloads/)
 
 ## Details
-
 - 10 to 22 velocity layers
 - 2 to 3 round robin
-- wav stereo
-- MIDI Drum folder
+- wav stereo 44,1 kHz
+
+## MIDI Drum folder
+- 01 Pop
+- 02 Funk
+- 03 Jazz
+- 04 Hard Rock
+- 05 Metal
+- 08 Ballad
+
 
 ## Instruments List
-
 |Number|Instrument                |
-|------|--------------------------|
+|:-----|:-------------------------|
 |024   |Acoustic Guitar (Nylon)   |
 |025   |Acoustic Guitar (Steel)   |
 |026   |Electric Guitar (Les Paul)|
@@ -28,7 +32,6 @@ an expandable collection of virtual instruments in **SFZ format**, compatible wi
 |128   |Acoustic Drum Kit         |
 
 ## Source
-
 - [Native Instruments Session Guitarist Picked Nylon](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-picked-nylon/)
 - [Native Instruments Session Guitarist Picked Acoustic](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-picked-acoustic/)
 - [Native Instruments Session Guitarist Electric Sunburst Deluxe](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-electric-sunburst-deluxe/)
