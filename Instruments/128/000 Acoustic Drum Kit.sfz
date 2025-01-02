@@ -15,21 +15,32 @@ label_key47=Tom 1
 label_key45=Tom 2
 label_key43=Tom 3
 label_key41=Tom 4
-label_cc49=Crash 1
-label_cc57=Crash 2
-label_cc51=Ride Tip
-label_cc53=Ride Bell
-label_cc59=Ride Edge
-label_cc52=China
-label_cc55=Splash
+label_key49=Crash 1
+label_key57=Crash 2
+label_key51=Ride Tip
+label_key53=Ride Bell
+label_key59=Ride Edge
+label_key52=China
+label_key55=Splash
 
-label_key31=Sticks
-label_key39=Clap
-label_key64=Low Conga
-label_key63=High Conga
-label_key62=Mute High Conga
+// label_key31=Sticks
+// label_key39=Clap
+// label_key64=Low Conga
+// label_key63=High Conga
+// label_key62=Mute High Conga
 
-<global> global_label=Acoustic Drum Kit amp_veltrack=0 loop_mode=one_shot
+label_output0=Kick
+label_output1=Snare
+label_output2=Hihat
+label_output3=Tom1
+label_output4=Tom2
+label_output5=Tom3
+label_output6=Tom4
+label_output7=Overhead
+
+<global> global_label=Acoustic Drum Kit amp_veltrack=25 loop_mode=one_shot
+
+<master> output=0
 
 <group> key=36 lokey=36 hikey=36 seq_length=3 volume=-3.0 tune=$TUNE
 <region> sample=NID_B DirIn Kick Open Vel_01 Var_1.wav lovel=0    hivel=6   seq_position=1
@@ -161,6 +172,7 @@ label_key62=Mute High Conga
 <region> sample=NID_B DirOut Kick Open Vel_20 Var_3.wav lovel=115  hivel=120 seq_position=3
 <region> sample=NID_B DirOut Kick Open Vel_21 Var_3.wav lovel=121  hivel=127 seq_position=3
 
+<master> output=7
 <group> key=36 lokey=36 hikey=36 seq_length=3 volume=-3.0 tune=$TUNE
 <region> sample=NID_B OH Kick Open Vel_01 Var_1.wav lovel=0    hivel=6   seq_position=1
 <region> sample=NID_B OH Kick Open Vel_02 Var_1.wav lovel=7    hivel=12  seq_position=1
@@ -235,6 +247,7 @@ label_key62=Mute High Conga
 
 
 
+<master> output=1
 <group> key=37 lokey=37 hikey=37 seq_length=3 volume=0.0 tune=$TUNE
 <region> sample=NID_B DirTop Snare1 Sidestick Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
 <region> sample=NID_B DirTop Snare1 Sidestick Vel_02 Var_1.wav lovel=10   hivel=19  seq_position=1
@@ -589,6 +602,7 @@ label_key62=Mute High Conga
 <region> sample=NID_B DirBot Snare1 CenterR Vel_21 Var_3.wav lovel=120  hivel=125 seq_position=3
 <region> sample=NID_B DirBot Snare1 CenterR Vel_22 Var_3.wav lovel=126  hivel=127 seq_position=3
 
+<master> output=7
 <group> key=37 lokey=37 hikey=37 seq_length=3 volume=-3.0 tune=$TUNE
 <region> sample=NID_B OH Snare1 Sidestick Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
 <region> sample=NID_B OH Snare1 Sidestick Vel_02 Var_1.wav lovel=10   hivel=19  seq_position=1
@@ -775,6 +789,7 @@ label_key62=Mute High Conga
 
 
 
+<master> output=2
 <group> key=42 lokey=42 hikey=42 seq_length=3 group=1 volume=-6.0
 <region> sample=NID_B Dir Hihat ClosedShankR Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
 <region> sample=NID_B Dir Hihat ClosedShankR Vel_02 Var_1.wav lovel=10   hivel=19  seq_position=1
@@ -904,6 +919,7 @@ label_key62=Mute High Conga
 
 
 
+<master> output=3
 <group> key=47 lokey=47 hikey=47 seq_length=3 volume=-3.0 tune=$TUNE
 <region> sample=NID_B Dir Tom1 CenterR Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
 <region> sample=NID_B Dir Tom1 CenterR Vel_02 Var_1.wav lovel=10   hivel=18  seq_position=1
@@ -948,6 +964,7 @@ label_key62=Mute High Conga
 <region> sample=NID_B Dir Tom1 CenterR Vel_13 Var_3.wav lovel=109  hivel=117 seq_position=3
 <region> sample=NID_B Dir Tom1 CenterR Vel_14 Var_3.wav lovel=118  hivel=127 seq_position=3
 
+<master> output=4
 <group> key=45 lokey=45 hikey=45 seq_length=3 volume=-3.0 tune=$TUNE
 <region> sample=NID_B Dir Tom2 CenterR Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
 <region> sample=NID_B Dir Tom2 CenterR Vel_02 Var_1.wav lovel=10   hivel=18  seq_position=1
@@ -992,6 +1009,7 @@ label_key62=Mute High Conga
 <region> sample=NID_B Dir Tom2 CenterR Vel_13 Var_3.wav lovel=109  hivel=117 seq_position=3
 <region> sample=NID_B Dir Tom2 CenterR Vel_14 Var_3.wav lovel=118  hivel=127 seq_position=3
 
+<master> output=05
 <group> key=43 lokey=43 hikey=43 seq_length=3 volume=-3.0 tune=$TUNE
 <region> sample=NID_B Dir Tom3 CenterR Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
 <region> sample=NID_B Dir Tom3 CenterR Vel_02 Var_1.wav lovel=10   hivel=18  seq_position=1
@@ -1036,6 +1054,7 @@ label_key62=Mute High Conga
 <region> sample=NID_B Dir Tom3 CenterR Vel_13 Var_3.wav lovel=109  hivel=117 seq_position=3
 <region> sample=NID_B Dir Tom3 CenterR Vel_14 Var_3.wav lovel=118  hivel=127 seq_position=3
 
+<master> output=06
 <group> key=41 lokey=41 hikey=41 seq_length=3 volume=-3.0 tune=$TUNE
 <region> sample=NID_B Dir Tom4 CenterR Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
 <region> sample=NID_B Dir Tom4 CenterR Vel_02 Var_1.wav lovel=10   hivel=18  seq_position=1
@@ -1080,6 +1099,7 @@ label_key62=Mute High Conga
 <region> sample=NID_B Dir Tom4 CenterR Vel_13 Var_3.wav lovel=109  hivel=117 seq_position=3
 <region> sample=NID_B Dir Tom4 CenterR Vel_14 Var_3.wav lovel=118  hivel=127 seq_position=3
 
+<master> output=7
 <group> key=47 lokey=47 hikey=47 seq_length=3 volume=-6.0 tune=$TUNE
 <region> sample=NID_B OH Tom1 CenterR Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
 <region> sample=NID_B OH Tom1 CenterR Vel_02 Var_1.wav lovel=10   hivel=18  seq_position=1
@@ -1263,6 +1283,7 @@ label_key62=Mute High Conga
 
 
 
+<master> output=7
 <group> key=49 lokey=49 hikey=49 seq_length=3 volume=0.0
 <region> sample=NID_B OH Crash1 Edge Vel_01 Var_1.wav lovel=0    hivel=9   seq_position=1
 <region> sample=NID_B OH Crash1 Edge Vel_02 Var_1.wav lovel=10   hivel=19  seq_position=1
