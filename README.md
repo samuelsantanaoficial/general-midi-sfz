@@ -31,6 +31,22 @@ an expandable collection of virtual instruments in **SFZ format**, compatible wi
 |036   |Electric Bass (Slap)      |
 |128   |Acoustic Drum Kit         |
 
+## Development
+- [x] Add Electric Bass (finger)
+- [x] Add Electric Bass (Slap)
+- [x] Add Acoustic Drum Kit
+- [x] 3 round robin
+- [x] Add Acoustic Guitar (Steel)
+- [x] multiple outputs on the drum kit
+- [x] Add Upright Bass
+- [x] separate microphones for drum kit: kick In, Kick Out, Snare Top, Snare Bot, Dir, OH
+- [x] Add Acoustic Guitar (Nylon)
+- [x] Add Electric Guitar (Les Paul)
+- [x] separate midi cc tune knob for kick, snare and toms
+- [ ] kick snare tom and hihat samples for overhead
+- [ ] separete midi cc volume for drum kit
+- [ ] customize pitch bend and vibrato for guitars and basses
+
 ## Source
 - [Native Instruments Session Guitarist Picked Nylon](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-picked-nylon/)
 - [Native Instruments Session Guitarist Picked Acoustic](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-picked-acoustic/)
