@@ -9,9 +9,10 @@ an expandable collection of virtual instruments in **SFZ format**, compatible wi
 ## Details
 - 10 to 22 velocity layers
 - 2 to 3 round robin
-- wav stereo 44,1 kHz
+- wav stereo 44,1 kHz and 48 kHz
 
 ## MIDI Drum folder
+All files edited for channel 10, and with the general midi drum map.
 - 01 Pop
 - 02 Funk
 - 03 Jazz
@@ -21,15 +22,15 @@ an expandable collection of virtual instruments in **SFZ format**, compatible wi
 
 
 ## Instruments List
-|Number|Instrument                |
-|:-----|:-------------------------|
-|024   |Acoustic Guitar (Nylon)   |
-|025   |Acoustic Guitar (Steel)   |
-|026   |Electric Guitar (Les Paul)|
-|032   |Upright Bass              |
-|033   |Electric Bass (finger)    |
-|036   |Electric Bass (Slap)      |
-|128   |Acoustic Drum Kit         |
+|Bank  |Preset|Instrument                |
+|:-----|:-----|:-------------------------|
+|000   |024   |Acoustic Guitar (Nylon)   |
+|000   |025   |Acoustic Guitar (Steel)   |
+|000   |026   |Electric Guitar (Les Paul)|
+|000   |032   |Acoustic Upright Bass     |
+|000   |033   |Electric Bass (finger)    |
+|000   |036   |Electric Bass (Slap)      |
+|128   |000   |Acoustic Drum Kit         |
 
 ## Development
 - [x] Add Electric Bass (finger)
