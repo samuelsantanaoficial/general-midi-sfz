@@ -18,6 +18,8 @@ All files edited for channel 10, and with the general midi drum map.
 - 03 Jazz
 - 04 Hard Rock
 - 05 Metal
+- 06 Blues & Country
+- 07 Blues Rock
 - 08 Ballad
 
 
