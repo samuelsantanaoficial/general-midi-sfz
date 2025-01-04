@@ -24,15 +24,16 @@ All files edited for channel 10, and with the general midi drum map.
 
 
 ## Instruments List
-|Bank  |Preset|Instrument                |
-|:-----|:-----|:-------------------------|
-|000   |024   |Acoustic Guitar (Nylon)   |
-|000   |025   |Acoustic Guitar (Steel)   |
-|000   |026   |Electric Guitar (Les Paul)|
-|000   |032   |Acoustic Upright Bass     |
-|000   |033   |Electric Bass (finger)    |
-|000   |036   |Electric Bass (Slap)      |
-|128   |000   |Acoustic Drum Kit         |
+|Bank  |Preset|Instrument                    |
+|:-----|:-----|:-----------------------------|
+|000   |024   |Acoustic Guitar (Nylon)       |
+|000   |025   |Acoustic Guitar (Steel)       |
+|000   |026   |Electric Guitar (Les Paul)    |
+|000   |027   |Electric Guitar (Stratocaster)|
+|000   |032   |Acoustic Upright Bass         |
+|000   |033   |Electric Bass (finger)        |
+|000   |036   |Electric Bass (Slap)          |
+|128   |000   |Acoustic Drum Kit             |
 
 ## Development
 - [x] Add Electric Bass (finger)
@@ -45,9 +46,10 @@ All files edited for channel 10, and with the general midi drum map.
 - [x] separate microphones for drum kit: kick In, Kick Out, Snare Top, Snare Bot, Dir, OH
 - [x] Add Acoustic Guitar (Nylon)
 - [x] Add Electric Guitar (Les Paul)
-- [x] separate midi cc tune knob for kick, snare and toms
+- [x] separate midi cc tune knob for kick, snare and toms set
 - [x] standardize all audio samples in wav 48000 Hz, mono, s16, 768 kb/s
 - [x] Add kick, snare, toms and hihat samples for overhead
+- [x] Add Electric Guitar (Stratocaster)
 - [ ] Add Sticks and Claps samples
 - [ ] separete mics midi cc volume for drum kit
 - [ ] customize pitch bend and vibrato for guitars and basses
