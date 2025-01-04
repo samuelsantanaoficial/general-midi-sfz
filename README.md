@@ -9,7 +9,7 @@ an expandable collection of virtual instruments in **SFZ format**, compatible wi
 ## Details
 - 10 to 22 velocity layers
 - 2 to 3 round robin
-- wav stereo 44,1 kHz and 48 kHz
+- wav 48000 Hz, mono, s16, 768 kb/s
 
 ## MIDI Drum folder
 All files edited for channel 10, and with the general midi drum map.
@@ -44,14 +44,7 @@ All files edited for channel 10, and with the general midi drum map.
 - [x] Add Acoustic Guitar (Nylon)
 - [x] Add Electric Guitar (Les Paul)
 - [x] separate midi cc tune knob for kick, snare and toms
+- [x] standardize all audio samples in wav 48000 Hz, mono, s16, 768 kb/s
 - [ ] kick snare tom and hihat samples for overhead
 - [ ] separete midi cc volume for drum kit
 - [ ] customize pitch bend and vibrato for guitars and basses
-
-## Source
-- [Native Instruments Session Guitarist Picked Nylon](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-picked-nylon/)
-- [Native Instruments Session Guitarist Picked Acoustic](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-picked-acoustic/)
-- [Native Instruments Session Guitarist Electric Sunburst Deluxe](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-electric-sunburst-deluxe/)
-- [Native Instruments Session Bassist Upright Bass](https://www.native-instruments.com/en/products/komplete/guitar/session-bassist-upright-bass/)
-- [Native Instruments Session Bassist Icon Bass](https://www.native-instruments.com/en/products/komplete/guitar/session-bassist-icon-bass/)
-- [Native Instruments Studio Drummer](https://www.native-instruments.com/en/products/komplete/drums/studio-drummer/)
