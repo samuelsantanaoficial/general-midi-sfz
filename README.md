@@ -45,6 +45,7 @@ All files edited for channel 10, and with the general midi drum map.
 - [x] Add Electric Guitar (Les Paul)
 - [x] separate midi cc tune knob for kick, snare and toms
 - [x] standardize all audio samples in wav 48000 Hz, mono, s16, 768 kb/s
-- [x] kick snare toms and hihat samples for overhead
+- [x] Add kick, snare, toms and hihat samples for overhead
+- [ ] Add Sticks and Claps samples
 - [ ] separete mics midi cc volume for drum kit
 - [ ] customize pitch bend and vibrato for guitars and basses
