@@ -1,0 +1,261 @@
+// https://github.com/samuelsantanaoficial/general-midi-sfz
+
+<control> default_path=../../Samples/000/027 Electric Guitar (Stratocaster)/
+
+#define $v12out 127
+#define $v12in  118
+#define $v11out 117
+#define $v11in  108
+#define $v10out 107
+#define $v10in  98
+#define $v9out  97
+#define $v9in   88
+#define $v8out  87
+#define $v8in   78
+#define $v7out  77
+#define $v7in   68
+#define $v6out  67
+#define $v6in   58
+#define $v5out  57
+#define $v5in   48
+#define $v4out  47
+#define $v4in   38
+#define $v3out  37
+#define $v3in   28
+#define $v2out  27
+#define $v2in   18
+#define $v1out  17
+#define $v1in   0
+
+<global> global_label=Electric Guitar (Stratocaster) amp_veltrack=75 ampeg_attack=0.005 ampeg_release=0.07 offset=3000 volume=-6.0
+
+<group> key=40 lokey=40 hikey=42 seq_length=3
+<region> sample=40 electric guitar stratocaster 1 01.wav lovel=$v1in  hivel=$v1out  seq_position=1
+<region> sample=40 electric guitar stratocaster 1 02.wav lovel=$v2in  hivel=$v2out  seq_position=1
+<region> sample=40 electric guitar stratocaster 1 03.wav lovel=$v3in  hivel=$v3out  seq_position=1
+<region> sample=40 electric guitar stratocaster 1 04.wav lovel=$v4in  hivel=$v4out  seq_position=1
+<region> sample=40 electric guitar stratocaster 1 05.wav lovel=$v5in  hivel=$v5out  seq_position=1
+<region> sample=40 electric guitar stratocaster 1 06.wav lovel=$v6in  hivel=$v6out  seq_position=1
+<region> sample=40 electric guitar stratocaster 1 07.wav lovel=$v7in  hivel=$v7out  seq_position=1
+<region> sample=40 electric guitar stratocaster 1 08.wav lovel=$v8in  hivel=$v8out  seq_position=1
+<region> sample=40 electric guitar stratocaster 1 09.wav lovel=$v9in  hivel=$v9out  seq_position=1
+<region> sample=40 electric guitar stratocaster 1 10.wav lovel=$v10in hivel=$v10out seq_position=1
+<region> sample=40 electric guitar stratocaster 1 11.wav lovel=$v11in hivel=$v11out seq_position=1
+<region> sample=40 electric guitar stratocaster 1 12.wav lovel=$v12in hivel=$v12out seq_position=1
+<region> sample=40 electric guitar stratocaster 2 01.wav lovel=$v1in  hivel=$v1out  seq_position=2
+<region> sample=40 electric guitar stratocaster 2 02.wav lovel=$v2in  hivel=$v2out  seq_position=2
+<region> sample=40 electric guitar stratocaster 2 03.wav lovel=$v3in  hivel=$v3out  seq_position=2
+<region> sample=40 electric guitar stratocaster 2 04.wav lovel=$v4in  hivel=$v4out  seq_position=2
+<region> sample=40 electric guitar stratocaster 2 05.wav lovel=$v5in  hivel=$v5out  seq_position=2
+<region> sample=40 electric guitar stratocaster 2 06.wav lovel=$v6in  hivel=$v6out  seq_position=2
+<region> sample=40 electric guitar stratocaster 2 07.wav lovel=$v7in  hivel=$v7out  seq_position=2
+<region> sample=40 electric guitar stratocaster 2 08.wav lovel=$v8in  hivel=$v8out  seq_position=2
+<region> sample=40 electric guitar stratocaster 2 09.wav lovel=$v9in  hivel=$v9out  seq_position=2
+<region> sample=40 electric guitar stratocaster 2 10.wav lovel=$v10in hivel=$v10out seq_position=2
+<region> sample=40 electric guitar stratocaster 2 11.wav lovel=$v11in hivel=$v11out seq_position=2
+<region> sample=40 electric guitar stratocaster 2 12.wav lovel=$v12in hivel=$v12out seq_position=2
+<region> sample=40 electric guitar stratocaster 3 01.wav lovel=$v1in  hivel=$v1out  seq_position=3
+<region> sample=40 electric guitar stratocaster 3 02.wav lovel=$v2in  hivel=$v2out  seq_position=3
+<region> sample=40 electric guitar stratocaster 3 03.wav lovel=$v3in  hivel=$v3out  seq_position=3
+<region> sample=40 electric guitar stratocaster 3 04.wav lovel=$v4in  hivel=$v4out  seq_position=3
+<region> sample=40 electric guitar stratocaster 3 05.wav lovel=$v5in  hivel=$v5out  seq_position=3
+<region> sample=40 electric guitar stratocaster 3 06.wav lovel=$v6in  hivel=$v6out  seq_position=3
+<region> sample=40 electric guitar stratocaster 3 07.wav lovel=$v7in  hivel=$v7out  seq_position=3
+<region> sample=40 electric guitar stratocaster 3 08.wav lovel=$v8in  hivel=$v8out  seq_position=3
+<region> sample=40 electric guitar stratocaster 3 09.wav lovel=$v9in  hivel=$v9out  seq_position=3
+<region> sample=40 electric guitar stratocaster 3 10.wav lovel=$v10in hivel=$v10out seq_position=3
+<region> sample=40 electric guitar stratocaster 3 11.wav lovel=$v11in hivel=$v11out seq_position=3
+<region> sample=40 electric guitar stratocaster 3 12.wav lovel=$v12in hivel=$v12out seq_position=3
+
+
+<group> key=45 lokey=43 hikey=47 seq_length=3
+
+<region> sample=45 electric guitar stratocaster 1 01.wav lovel=$v1in  hivel=$v1out  seq_position=1
+<region> sample=45 electric guitar stratocaster 1 02.wav lovel=$v2in  hivel=$v2out  seq_position=1
+<region> sample=45 electric guitar stratocaster 1 03.wav lovel=$v3in  hivel=$v3out  seq_position=1
+<region> sample=45 electric guitar stratocaster 1 04.wav lovel=$v4in  hivel=$v4out  seq_position=1
+<region> sample=45 electric guitar stratocaster 1 05.wav lovel=$v5in  hivel=$v5out  seq_position=1
+<region> sample=45 electric guitar stratocaster 1 06.wav lovel=$v6in  hivel=$v6out  seq_position=1
+<region> sample=45 electric guitar stratocaster 1 07.wav lovel=$v7in  hivel=$v7out  seq_position=1
+<region> sample=45 electric guitar stratocaster 1 08.wav lovel=$v8in  hivel=$v8out  seq_position=1
+<region> sample=45 electric guitar stratocaster 1 09.wav lovel=$v9in  hivel=$v9out  seq_position=1
+<region> sample=45 electric guitar stratocaster 1 10.wav lovel=$v10in hivel=$v10out seq_position=1
+<region> sample=45 electric guitar stratocaster 1 11.wav lovel=$v11in hivel=$v11out seq_position=1
+<region> sample=45 electric guitar stratocaster 1 12.wav lovel=$v12in hivel=$v12out seq_position=1
+<region> sample=45 electric guitar stratocaster 2 01.wav lovel=$v1in  hivel=$v1out  seq_position=2
+<region> sample=45 electric guitar stratocaster 2 02.wav lovel=$v2in  hivel=$v2out  seq_position=2
+<region> sample=45 electric guitar stratocaster 2 03.wav lovel=$v3in  hivel=$v3out  seq_position=2
+<region> sample=45 electric guitar stratocaster 2 04.wav lovel=$v4in  hivel=$v4out  seq_position=2
+<region> sample=45 electric guitar stratocaster 2 05.wav lovel=$v5in  hivel=$v5out  seq_position=2
+<region> sample=45 electric guitar stratocaster 2 06.wav lovel=$v6in  hivel=$v6out  seq_position=2
+<region> sample=45 electric guitar stratocaster 2 07.wav lovel=$v7in  hivel=$v7out  seq_position=2
+<region> sample=45 electric guitar stratocaster 2 08.wav lovel=$v8in  hivel=$v8out  seq_position=2
+<region> sample=45 electric guitar stratocaster 2 09.wav lovel=$v9in  hivel=$v9out  seq_position=2
+<region> sample=45 electric guitar stratocaster 2 10.wav lovel=$v10in hivel=$v10out seq_position=2
+<region> sample=45 electric guitar stratocaster 2 11.wav lovel=$v11in hivel=$v11out seq_position=2
+<region> sample=45 electric guitar stratocaster 2 12.wav lovel=$v12in hivel=$v12out seq_position=2
+<region> sample=45 electric guitar stratocaster 3 01.wav lovel=$v1in  hivel=$v1out  seq_position=3
+<region> sample=45 electric guitar stratocaster 3 02.wav lovel=$v2in  hivel=$v2out  seq_position=3
+<region> sample=45 electric guitar stratocaster 3 03.wav lovel=$v3in  hivel=$v3out  seq_position=3
+<region> sample=45 electric guitar stratocaster 3 04.wav lovel=$v4in  hivel=$v4out  seq_position=3
+<region> sample=45 electric guitar stratocaster 3 05.wav lovel=$v5in  hivel=$v5out  seq_position=3
+<region> sample=45 electric guitar stratocaster 3 06.wav lovel=$v6in  hivel=$v6out  seq_position=3
+<region> sample=45 electric guitar stratocaster 3 07.wav lovel=$v7in  hivel=$v7out  seq_position=3
+<region> sample=45 electric guitar stratocaster 3 08.wav lovel=$v8in  hivel=$v8out  seq_position=3
+<region> sample=45 electric guitar stratocaster 3 09.wav lovel=$v9in  hivel=$v9out  seq_position=3
+<region> sample=45 electric guitar stratocaster 3 10.wav lovel=$v10in hivel=$v10out seq_position=3
+<region> sample=45 electric guitar stratocaster 3 11.wav lovel=$v11in hivel=$v11out seq_position=3
+<region> sample=45 electric guitar stratocaster 3 12.wav lovel=$v12in hivel=$v12out seq_position=3
+
+
+<group> key=50 lokey=48 hikey=52 seq_length=3
+<region> sample=50 electric guitar stratocaster 1 01.wav lovel=$v1in  hivel=$v1out  seq_position=1
+<region> sample=50 electric guitar stratocaster 1 02.wav lovel=$v2in  hivel=$v2out  seq_position=1
+<region> sample=50 electric guitar stratocaster 1 03.wav lovel=$v3in  hivel=$v3out  seq_position=1
+<region> sample=50 electric guitar stratocaster 1 04.wav lovel=$v4in  hivel=$v4out  seq_position=1
+<region> sample=50 electric guitar stratocaster 1 05.wav lovel=$v5in  hivel=$v5out  seq_position=1
+<region> sample=50 electric guitar stratocaster 1 06.wav lovel=$v6in  hivel=$v6out  seq_position=1
+<region> sample=50 electric guitar stratocaster 1 07.wav lovel=$v7in  hivel=$v7out  seq_position=1
+<region> sample=50 electric guitar stratocaster 1 08.wav lovel=$v8in  hivel=$v8out  seq_position=1
+<region> sample=50 electric guitar stratocaster 1 09.wav lovel=$v9in  hivel=$v9out  seq_position=1
+<region> sample=50 electric guitar stratocaster 1 10.wav lovel=$v10in hivel=$v10out seq_position=1
+<region> sample=50 electric guitar stratocaster 1 11.wav lovel=$v11in hivel=$v11out seq_position=1
+<region> sample=50 electric guitar stratocaster 1 12.wav lovel=$v12in hivel=$v12out seq_position=1
+<region> sample=50 electric guitar stratocaster 2 01.wav lovel=$v1in  hivel=$v1out  seq_position=2
+<region> sample=50 electric guitar stratocaster 2 02.wav lovel=$v2in  hivel=$v2out  seq_position=2
+<region> sample=50 electric guitar stratocaster 2 03.wav lovel=$v3in  hivel=$v3out  seq_position=2
+<region> sample=50 electric guitar stratocaster 2 04.wav lovel=$v4in  hivel=$v4out  seq_position=2
+<region> sample=50 electric guitar stratocaster 2 05.wav lovel=$v5in  hivel=$v5out  seq_position=2
+<region> sample=50 electric guitar stratocaster 2 06.wav lovel=$v6in  hivel=$v6out  seq_position=2
+<region> sample=50 electric guitar stratocaster 2 07.wav lovel=$v7in  hivel=$v7out  seq_position=2
+<region> sample=50 electric guitar stratocaster 2 08.wav lovel=$v8in  hivel=$v8out  seq_position=2
+<region> sample=50 electric guitar stratocaster 2 09.wav lovel=$v9in  hivel=$v9out  seq_position=2
+<region> sample=50 electric guitar stratocaster 2 10.wav lovel=$v10in hivel=$v10out seq_position=2
+<region> sample=50 electric guitar stratocaster 2 11.wav lovel=$v11in hivel=$v11out seq_position=2
+<region> sample=50 electric guitar stratocaster 2 12.wav lovel=$v12in hivel=$v12out seq_position=2
+<region> sample=50 electric guitar stratocaster 3 01.wav lovel=$v1in  hivel=$v1out  seq_position=3
+<region> sample=50 electric guitar stratocaster 3 02.wav lovel=$v2in  hivel=$v2out  seq_position=3
+<region> sample=50 electric guitar stratocaster 3 03.wav lovel=$v3in  hivel=$v3out  seq_position=3
+<region> sample=50 electric guitar stratocaster 3 04.wav lovel=$v4in  hivel=$v4out  seq_position=3
+<region> sample=50 electric guitar stratocaster 3 05.wav lovel=$v5in  hivel=$v5out  seq_position=3
+<region> sample=50 electric guitar stratocaster 3 06.wav lovel=$v6in  hivel=$v6out  seq_position=3
+<region> sample=50 electric guitar stratocaster 3 07.wav lovel=$v7in  hivel=$v7out  seq_position=3
+<region> sample=50 electric guitar stratocaster 3 08.wav lovel=$v8in  hivel=$v8out  seq_position=3
+<region> sample=50 electric guitar stratocaster 3 09.wav lovel=$v9in  hivel=$v9out  seq_position=3
+<region> sample=50 electric guitar stratocaster 3 10.wav lovel=$v10in hivel=$v10out seq_position=3
+<region> sample=50 electric guitar stratocaster 3 11.wav lovel=$v11in hivel=$v11out seq_position=3
+<region> sample=50 electric guitar stratocaster 3 12.wav lovel=$v12in hivel=$v12out seq_position=3
+
+<group> key=55 lokey=53 hikey=57 seq_length=3
+<region> sample=55 electric guitar stratocaster 1 01.wav lovel=$v1in  hivel=$v1out  seq_position=1
+<region> sample=55 electric guitar stratocaster 1 02.wav lovel=$v2in  hivel=$v2out  seq_position=1
+<region> sample=55 electric guitar stratocaster 1 03.wav lovel=$v3in  hivel=$v3out  seq_position=1
+<region> sample=55 electric guitar stratocaster 1 04.wav lovel=$v4in  hivel=$v4out  seq_position=1
+<region> sample=55 electric guitar stratocaster 1 05.wav lovel=$v5in  hivel=$v5out  seq_position=1
+<region> sample=55 electric guitar stratocaster 1 06.wav lovel=$v6in  hivel=$v6out  seq_position=1
+<region> sample=55 electric guitar stratocaster 1 07.wav lovel=$v7in  hivel=$v7out  seq_position=1
+<region> sample=55 electric guitar stratocaster 1 08.wav lovel=$v8in  hivel=$v8out  seq_position=1
+<region> sample=55 electric guitar stratocaster 1 09.wav lovel=$v9in  hivel=$v9out  seq_position=1
+<region> sample=55 electric guitar stratocaster 1 10.wav lovel=$v10in hivel=$v10out seq_position=1
+<region> sample=55 electric guitar stratocaster 1 11.wav lovel=$v11in hivel=$v11out seq_position=1
+<region> sample=55 electric guitar stratocaster 1 12.wav lovel=$v12in hivel=$v12out seq_position=1
+<region> sample=55 electric guitar stratocaster 2 01.wav lovel=$v1in  hivel=$v1out  seq_position=2
+<region> sample=55 electric guitar stratocaster 2 02.wav lovel=$v2in  hivel=$v2out  seq_position=2
+<region> sample=55 electric guitar stratocaster 2 03.wav lovel=$v3in  hivel=$v3out  seq_position=2
+<region> sample=55 electric guitar stratocaster 2 04.wav lovel=$v4in  hivel=$v4out  seq_position=2
+<region> sample=55 electric guitar stratocaster 2 05.wav lovel=$v5in  hivel=$v5out  seq_position=2
+<region> sample=55 electric guitar stratocaster 2 06.wav lovel=$v6in  hivel=$v6out  seq_position=2
+<region> sample=55 electric guitar stratocaster 2 07.wav lovel=$v7in  hivel=$v7out  seq_position=2
+<region> sample=55 electric guitar stratocaster 2 08.wav lovel=$v8in  hivel=$v8out  seq_position=2
+<region> sample=55 electric guitar stratocaster 2 09.wav lovel=$v9in  hivel=$v9out  seq_position=2
+<region> sample=55 electric guitar stratocaster 2 10.wav lovel=$v10in hivel=$v10out seq_position=2
+<region> sample=55 electric guitar stratocaster 2 11.wav lovel=$v11in hivel=$v11out seq_position=2
+<region> sample=55 electric guitar stratocaster 2 12.wav lovel=$v12in hivel=$v12out seq_position=2
+<region> sample=55 electric guitar stratocaster 3 01.wav lovel=$v1in  hivel=$v1out  seq_position=3
+<region> sample=55 electric guitar stratocaster 3 02.wav lovel=$v2in  hivel=$v2out  seq_position=3
+<region> sample=55 electric guitar stratocaster 3 03.wav lovel=$v3in  hivel=$v3out  seq_position=3
+<region> sample=55 electric guitar stratocaster 3 04.wav lovel=$v4in  hivel=$v4out  seq_position=3
+<region> sample=55 electric guitar stratocaster 3 05.wav lovel=$v5in  hivel=$v5out  seq_position=3
+<region> sample=55 electric guitar stratocaster 3 06.wav lovel=$v6in  hivel=$v6out  seq_position=3
+<region> sample=55 electric guitar stratocaster 3 07.wav lovel=$v7in  hivel=$v7out  seq_position=3
+<region> sample=55 electric guitar stratocaster 3 08.wav lovel=$v8in  hivel=$v8out  seq_position=3
+<region> sample=55 electric guitar stratocaster 3 09.wav lovel=$v9in  hivel=$v9out  seq_position=3
+<region> sample=55 electric guitar stratocaster 3 10.wav lovel=$v10in hivel=$v10out seq_position=3
+<region> sample=55 electric guitar stratocaster 3 11.wav lovel=$v11in hivel=$v11out seq_position=3
+<region> sample=55 electric guitar stratocaster 3 12.wav lovel=$v12in hivel=$v12out seq_position=3
+
+<group> key=59 lokey=58 hikey=61 seq_length=3
+<region> sample=59 electric guitar stratocaster 1 01.wav lovel=$v1in  hivel=$v1out  seq_position=1
+<region> sample=59 electric guitar stratocaster 1 02.wav lovel=$v2in  hivel=$v2out  seq_position=1
+<region> sample=59 electric guitar stratocaster 1 03.wav lovel=$v3in  hivel=$v3out  seq_position=1
+<region> sample=59 electric guitar stratocaster 1 04.wav lovel=$v4in  hivel=$v4out  seq_position=1
+<region> sample=59 electric guitar stratocaster 1 05.wav lovel=$v5in  hivel=$v5out  seq_position=1
+<region> sample=59 electric guitar stratocaster 1 06.wav lovel=$v6in  hivel=$v6out  seq_position=1
+<region> sample=59 electric guitar stratocaster 1 07.wav lovel=$v7in  hivel=$v7out  seq_position=1
+<region> sample=59 electric guitar stratocaster 1 08.wav lovel=$v8in  hivel=$v8out  seq_position=1
+<region> sample=59 electric guitar stratocaster 1 09.wav lovel=$v9in  hivel=$v9out  seq_position=1
+<region> sample=59 electric guitar stratocaster 1 10.wav lovel=$v10in hivel=$v10out seq_position=1
+<region> sample=59 electric guitar stratocaster 1 11.wav lovel=$v11in hivel=$v11out seq_position=1
+<region> sample=59 electric guitar stratocaster 1 12.wav lovel=$v12in hivel=$v12out seq_position=1
+<region> sample=59 electric guitar stratocaster 2 01.wav lovel=$v1in  hivel=$v1out  seq_position=2
+<region> sample=59 electric guitar stratocaster 2 02.wav lovel=$v2in  hivel=$v2out  seq_position=2
+<region> sample=59 electric guitar stratocaster 2 03.wav lovel=$v3in  hivel=$v3out  seq_position=2
+<region> sample=59 electric guitar stratocaster 2 04.wav lovel=$v4in  hivel=$v4out  seq_position=2
+<region> sample=59 electric guitar stratocaster 2 05.wav lovel=$v5in  hivel=$v5out  seq_position=2
+<region> sample=59 electric guitar stratocaster 2 06.wav lovel=$v6in  hivel=$v6out  seq_position=2
+<region> sample=59 electric guitar stratocaster 2 07.wav lovel=$v7in  hivel=$v7out  seq_position=2
+<region> sample=59 electric guitar stratocaster 2 08.wav lovel=$v8in  hivel=$v8out  seq_position=2
+<region> sample=59 electric guitar stratocaster 2 09.wav lovel=$v9in  hivel=$v9out  seq_position=2
+<region> sample=59 electric guitar stratocaster 2 10.wav lovel=$v10in hivel=$v10out seq_position=2
+<region> sample=59 electric guitar stratocaster 2 11.wav lovel=$v11in hivel=$v11out seq_position=2
+<region> sample=59 electric guitar stratocaster 2 12.wav lovel=$v12in hivel=$v12out seq_position=2
+<region> sample=59 electric guitar stratocaster 3 01.wav lovel=$v1in  hivel=$v1out  seq_position=3
+<region> sample=59 electric guitar stratocaster 3 02.wav lovel=$v2in  hivel=$v2out  seq_position=3
+<region> sample=59 electric guitar stratocaster 3 03.wav lovel=$v3in  hivel=$v3out  seq_position=3
+<region> sample=59 electric guitar stratocaster 3 04.wav lovel=$v4in  hivel=$v4out  seq_position=3
+<region> sample=59 electric guitar stratocaster 3 05.wav lovel=$v5in  hivel=$v5out  seq_position=3
+<region> sample=59 electric guitar stratocaster 3 06.wav lovel=$v6in  hivel=$v6out  seq_position=3
+<region> sample=59 electric guitar stratocaster 3 07.wav lovel=$v7in  hivel=$v7out  seq_position=3
+<region> sample=59 electric guitar stratocaster 3 08.wav lovel=$v8in  hivel=$v8out  seq_position=3
+<region> sample=59 electric guitar stratocaster 3 09.wav lovel=$v9in  hivel=$v9out  seq_position=3
+<region> sample=59 electric guitar stratocaster 3 10.wav lovel=$v10in hivel=$v10out seq_position=3
+<region> sample=59 electric guitar stratocaster 3 11.wav lovel=$v11in hivel=$v11out seq_position=3
+<region> sample=59 electric guitar stratocaster 3 12.wav lovel=$v12in hivel=$v12out seq_position=3
+
+<group> key=64 lokey=62 hikey=72 seq_length=3
+<region> sample=64 electric guitar stratocaster 1 01.wav lovel=$v1in  hivel=$v1out  seq_position=1
+<region> sample=64 electric guitar stratocaster 1 02.wav lovel=$v2in  hivel=$v2out  seq_position=1
+<region> sample=64 electric guitar stratocaster 1 03.wav lovel=$v3in  hivel=$v3out  seq_position=1
+<region> sample=64 electric guitar stratocaster 1 04.wav lovel=$v4in  hivel=$v4out  seq_position=1
+<region> sample=64 electric guitar stratocaster 1 05.wav lovel=$v5in  hivel=$v5out  seq_position=1
+<region> sample=64 electric guitar stratocaster 1 06.wav lovel=$v6in  hivel=$v6out  seq_position=1
+<region> sample=64 electric guitar stratocaster 1 07.wav lovel=$v7in  hivel=$v7out  seq_position=1
+<region> sample=64 electric guitar stratocaster 1 08.wav lovel=$v8in  hivel=$v8out  seq_position=1
+<region> sample=64 electric guitar stratocaster 1 09.wav lovel=$v9in  hivel=$v9out  seq_position=1
+<region> sample=64 electric guitar stratocaster 1 10.wav lovel=$v10in hivel=$v10out seq_position=1
+<region> sample=64 electric guitar stratocaster 1 11.wav lovel=$v11in hivel=$v11out seq_position=1
+<region> sample=64 electric guitar stratocaster 1 12.wav lovel=$v12in hivel=$v12out seq_position=1
+<region> sample=64 electric guitar stratocaster 2 01.wav lovel=$v1in  hivel=$v1out  seq_position=2
+<region> sample=64 electric guitar stratocaster 2 02.wav lovel=$v2in  hivel=$v2out  seq_position=2
+<region> sample=64 electric guitar stratocaster 2 03.wav lovel=$v3in  hivel=$v3out  seq_position=2
+<region> sample=64 electric guitar stratocaster 2 04.wav lovel=$v4in  hivel=$v4out  seq_position=2
+<region> sample=64 electric guitar stratocaster 2 05.wav lovel=$v5in  hivel=$v5out  seq_position=2
+<region> sample=64 electric guitar stratocaster 2 06.wav lovel=$v6in  hivel=$v6out  seq_position=2
+<region> sample=64 electric guitar stratocaster 2 07.wav lovel=$v7in  hivel=$v7out  seq_position=2
+<region> sample=64 electric guitar stratocaster 2 08.wav lovel=$v8in  hivel=$v8out  seq_position=2
+<region> sample=64 electric guitar stratocaster 2 09.wav lovel=$v9in  hivel=$v9out  seq_position=2
+<region> sample=64 electric guitar stratocaster 2 10.wav lovel=$v10in hivel=$v10out seq_position=2
+<region> sample=64 electric guitar stratocaster 2 11.wav lovel=$v11in hivel=$v11out seq_position=2
+<region> sample=64 electric guitar stratocaster 2 12.wav lovel=$v12in hivel=$v12out seq_position=2
+<region> sample=64 electric guitar stratocaster 3 01.wav lovel=$v1in  hivel=$v1out  seq_position=3
+<region> sample=64 electric guitar stratocaster 3 02.wav lovel=$v2in  hivel=$v2out  seq_position=3
+<region> sample=64 electric guitar stratocaster 3 03.wav lovel=$v3in  hivel=$v3out  seq_position=3
+<region> sample=64 electric guitar stratocaster 3 04.wav lovel=$v4in  hivel=$v4out  seq_position=3
+<region> sample=64 electric guitar stratocaster 3 05.wav lovel=$v5in  hivel=$v5out  seq_position=3
+<region> sample=64 electric guitar stratocaster 3 06.wav lovel=$v6in  hivel=$v6out  seq_position=3
+<region> sample=64 electric guitar stratocaster 3 07.wav lovel=$v7in  hivel=$v7out  seq_position=3
+<region> sample=64 electric guitar stratocaster 3 08.wav lovel=$v8in  hivel=$v8out  seq_position=3
+<region> sample=64 electric guitar stratocaster 3 09.wav lovel=$v9in  hivel=$v9out  seq_position=3
+<region> sample=64 electric guitar stratocaster 3 10.wav lovel=$v10in hivel=$v10out seq_position=3
+<region> sample=64 electric guitar stratocaster 3 11.wav lovel=$v11in hivel=$v11out seq_position=3
+<region> sample=64 electric guitar stratocaster 3 12.wav lovel=$v12in hivel=$v12out seq_position=3
