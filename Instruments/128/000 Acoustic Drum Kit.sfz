@@ -922,6 +922,128 @@ label_cc103=Toms Tune
 <region> sample=46 dir hihat 3 12.wav lovel=110  hivel=119 seq_position=3
 <region> sample=46 dir hihat 3 13.wav lovel=120  hivel=127 seq_position=3
 
+<master> output=7
+
+<group> key=42 lokey=42 hikey=42 seq_length=3 group=1 volume=-12.0
+<region> sample=42 oh hihat 1 01.wav lovel=0    hivel=9   seq_position=1
+<region> sample=42 oh hihat 1 02.wav lovel=10   hivel=19  seq_position=1
+<region> sample=42 oh hihat 1 03.wav lovel=20   hivel=29  seq_position=1
+<region> sample=42 oh hihat 1 04.wav lovel=30   hivel=39  seq_position=1
+<region> sample=42 oh hihat 1 05.wav lovel=40   hivel=49  seq_position=1
+<region> sample=42 oh hihat 1 06.wav lovel=50   hivel=59  seq_position=1
+<region> sample=42 oh hihat 1 07.wav lovel=60   hivel=69  seq_position=1
+<region> sample=42 oh hihat 1 08.wav lovel=70   hivel=79  seq_position=1
+<region> sample=42 oh hihat 1 09.wav lovel=80   hivel=89  seq_position=1
+<region> sample=42 oh hihat 1 10.wav lovel=90   hivel=99  seq_position=1
+<region> sample=42 oh hihat 1 11.wav lovel=100  hivel=109 seq_position=1
+<region> sample=42 oh hihat 1 12.wav lovel=110  hivel=119 seq_position=1
+<region> sample=42 oh hihat 1 13.wav lovel=120  hivel=127 seq_position=1
+<region> sample=42 oh hihat 2 01.wav lovel=0    hivel=9   seq_position=2
+<region> sample=42 oh hihat 2 02.wav lovel=10   hivel=19  seq_position=2
+<region> sample=42 oh hihat 2 03.wav lovel=20   hivel=29  seq_position=2
+<region> sample=42 oh hihat 2 04.wav lovel=30   hivel=39  seq_position=2
+<region> sample=42 oh hihat 2 05.wav lovel=40   hivel=49  seq_position=2
+<region> sample=42 oh hihat 2 06.wav lovel=50   hivel=59  seq_position=2
+<region> sample=42 oh hihat 2 07.wav lovel=60   hivel=69  seq_position=2
+<region> sample=42 oh hihat 2 08.wav lovel=70   hivel=79  seq_position=2
+<region> sample=42 oh hihat 2 09.wav lovel=80   hivel=89  seq_position=2
+<region> sample=42 oh hihat 2 10.wav lovel=90   hivel=99  seq_position=2
+<region> sample=42 oh hihat 2 11.wav lovel=100  hivel=109 seq_position=2
+<region> sample=42 oh hihat 2 12.wav lovel=110  hivel=119 seq_position=2
+<region> sample=42 oh hihat 2 13.wav lovel=120  hivel=127 seq_position=2
+<region> sample=42 oh hihat 3 01.wav lovel=0    hivel=9   seq_position=3
+<region> sample=42 oh hihat 3 02.wav lovel=10   hivel=19  seq_position=3
+<region> sample=42 oh hihat 3 03.wav lovel=20   hivel=29  seq_position=3
+<region> sample=42 oh hihat 3 04.wav lovel=30   hivel=39  seq_position=3
+<region> sample=42 oh hihat 3 05.wav lovel=40   hivel=49  seq_position=3
+<region> sample=42 oh hihat 3 06.wav lovel=50   hivel=59  seq_position=3
+<region> sample=42 oh hihat 3 07.wav lovel=60   hivel=69  seq_position=3
+<region> sample=42 oh hihat 3 08.wav lovel=70   hivel=79  seq_position=3
+<region> sample=42 oh hihat 3 09.wav lovel=80   hivel=89  seq_position=3
+<region> sample=42 oh hihat 3 10.wav lovel=90   hivel=99  seq_position=3
+<region> sample=42 oh hihat 3 11.wav lovel=100  hivel=109 seq_position=3
+<region> sample=42 oh hihat 3 12.wav lovel=110  hivel=119 seq_position=3
+<region> sample=42 oh hihat 3 13.wav lovel=120  hivel=127 seq_position=3
+
+<group> key=44 lokey=44 hikey=44 seq_length=3 group=1 volume=-12.0
+<region> sample=44 oh hihat 1 01.wav lovel=0    hivel=10  seq_position=1
+<region> sample=44 oh hihat 1 02.wav lovel=11   hivel=21  seq_position=1
+<region> sample=44 oh hihat 1 03.wav lovel=22   hivel=32  seq_position=1
+<region> sample=44 oh hihat 1 04.wav lovel=33   hivel=43  seq_position=1
+<region> sample=44 oh hihat 1 05.wav lovel=44   hivel=54  seq_position=1
+<region> sample=44 oh hihat 1 06.wav lovel=55   hivel=65  seq_position=1
+<region> sample=44 oh hihat 1 07.wav lovel=66   hivel=76  seq_position=1
+<region> sample=44 oh hihat 1 08.wav lovel=77   hivel=87  seq_position=1
+<region> sample=44 oh hihat 1 09.wav lovel=88   hivel=98  seq_position=1
+<region> sample=44 oh hihat 1 10.wav lovel=99   hivel=109 seq_position=1
+<region> sample=44 oh hihat 1 11.wav lovel=110  hivel=119 seq_position=1
+<region> sample=44 oh hihat 1 12.wav lovel=120  hivel=127 seq_position=1
+<region> sample=44 oh hihat 2 01.wav lovel=0    hivel=10  seq_position=2
+<region> sample=44 oh hihat 2 02.wav lovel=11   hivel=21  seq_position=2
+<region> sample=44 oh hihat 2 03.wav lovel=22   hivel=32  seq_position=2
+<region> sample=44 oh hihat 2 04.wav lovel=33   hivel=43  seq_position=2
+<region> sample=44 oh hihat 2 05.wav lovel=44   hivel=54  seq_position=2
+<region> sample=44 oh hihat 2 06.wav lovel=55   hivel=65  seq_position=2
+<region> sample=44 oh hihat 2 07.wav lovel=66   hivel=76  seq_position=2
+<region> sample=44 oh hihat 2 08.wav lovel=77   hivel=87  seq_position=2
+<region> sample=44 oh hihat 2 09.wav lovel=88   hivel=98  seq_position=2
+<region> sample=44 oh hihat 2 10.wav lovel=99   hivel=109 seq_position=2
+<region> sample=44 oh hihat 2 11.wav lovel=110  hivel=119 seq_position=2
+<region> sample=44 oh hihat 2 12.wav lovel=120  hivel=127 seq_position=2
+<region> sample=44 oh hihat 3 01.wav lovel=0    hivel=10  seq_position=3
+<region> sample=44 oh hihat 3 02.wav lovel=11   hivel=21  seq_position=3
+<region> sample=44 oh hihat 3 03.wav lovel=22   hivel=32  seq_position=3
+<region> sample=44 oh hihat 3 04.wav lovel=33   hivel=43  seq_position=3
+<region> sample=44 oh hihat 3 05.wav lovel=44   hivel=54  seq_position=3
+<region> sample=44 oh hihat 3 06.wav lovel=55   hivel=65  seq_position=3
+<region> sample=44 oh hihat 3 07.wav lovel=66   hivel=76  seq_position=3
+<region> sample=44 oh hihat 3 08.wav lovel=77   hivel=87  seq_position=3
+<region> sample=44 oh hihat 3 09.wav lovel=88   hivel=98  seq_position=3
+<region> sample=44 oh hihat 3 10.wav lovel=99   hivel=109 seq_position=3
+<region> sample=44 oh hihat 3 11.wav lovel=110  hivel=119 seq_position=3
+<region> sample=44 oh hihat 3 12.wav lovel=120  hivel=127 seq_position=3
+
+<group> key=46 lokey=46 hikey=46 seq_length=3 off_by=1 volume=-12.0
+<region> sample=46 oh hihat 1 01.wav lovel=0    hivel=9   seq_position=1
+<region> sample=46 oh hihat 1 02.wav lovel=10   hivel=19  seq_position=1
+<region> sample=46 oh hihat 1 03.wav lovel=20   hivel=29  seq_position=1
+<region> sample=46 oh hihat 1 04.wav lovel=30   hivel=39  seq_position=1
+<region> sample=46 oh hihat 1 05.wav lovel=40   hivel=49  seq_position=1
+<region> sample=46 oh hihat 1 06.wav lovel=50   hivel=59  seq_position=1
+<region> sample=46 oh hihat 1 07.wav lovel=60   hivel=69  seq_position=1
+<region> sample=46 oh hihat 1 08.wav lovel=70   hivel=79  seq_position=1
+<region> sample=46 oh hihat 1 09.wav lovel=80   hivel=89  seq_position=1
+<region> sample=46 oh hihat 1 10.wav lovel=90   hivel=99  seq_position=1
+<region> sample=46 oh hihat 1 11.wav lovel=100  hivel=109 seq_position=1
+<region> sample=46 oh hihat 1 12.wav lovel=110  hivel=119 seq_position=1
+<region> sample=46 oh hihat 1 13.wav lovel=120  hivel=127 seq_position=1
+<region> sample=46 oh hihat 2 01.wav lovel=0    hivel=9   seq_position=2
+<region> sample=46 oh hihat 2 02.wav lovel=10   hivel=19  seq_position=2
+<region> sample=46 oh hihat 2 03.wav lovel=20   hivel=29  seq_position=2
+<region> sample=46 oh hihat 2 04.wav lovel=30   hivel=39  seq_position=2
+<region> sample=46 oh hihat 2 05.wav lovel=40   hivel=49  seq_position=2
+<region> sample=46 oh hihat 2 06.wav lovel=50   hivel=59  seq_position=2
+<region> sample=46 oh hihat 2 07.wav lovel=60   hivel=69  seq_position=2
+<region> sample=46 oh hihat 2 08.wav lovel=70   hivel=79  seq_position=2
+<region> sample=46 oh hihat 2 09.wav lovel=80   hivel=89  seq_position=2
+<region> sample=46 oh hihat 2 10.wav lovel=90   hivel=99  seq_position=2
+<region> sample=46 oh hihat 2 11.wav lovel=100  hivel=109 seq_position=2
+<region> sample=46 oh hihat 2 12.wav lovel=110  hivel=119 seq_position=2
+<region> sample=46 oh hihat 2 13.wav lovel=120  hivel=127 seq_position=2
+<region> sample=46 oh hihat 3 01.wav lovel=0    hivel=9   seq_position=3
+<region> sample=46 oh hihat 3 02.wav lovel=10   hivel=19  seq_position=3
+<region> sample=46 oh hihat 3 03.wav lovel=20   hivel=29  seq_position=3
+<region> sample=46 oh hihat 3 04.wav lovel=30   hivel=39  seq_position=3
+<region> sample=46 oh hihat 3 05.wav lovel=40   hivel=49  seq_position=3
+<region> sample=46 oh hihat 3 06.wav lovel=50   hivel=59  seq_position=3
+<region> sample=46 oh hihat 3 07.wav lovel=60   hivel=69  seq_position=3
+<region> sample=46 oh hihat 3 08.wav lovel=70   hivel=79  seq_position=3
+<region> sample=46 oh hihat 3 09.wav lovel=80   hivel=89  seq_position=3
+<region> sample=46 oh hihat 3 10.wav lovel=90   hivel=99  seq_position=3
+<region> sample=46 oh hihat 3 11.wav lovel=100  hivel=109 seq_position=3
+<region> sample=46 oh hihat 3 12.wav lovel=110  hivel=119 seq_position=3
+<region> sample=46 oh hihat 3 13.wav lovel=120  hivel=127 seq_position=3
+
 
 
 
