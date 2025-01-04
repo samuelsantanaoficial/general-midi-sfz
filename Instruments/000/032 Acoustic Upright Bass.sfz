@@ -1,0 +1,98 @@
+// https://github.com/samuelsantanaoficial/general-midi-sfz
+
+<control> default_path=../../Samples/000/032 Acoustic Upright Bass/
+
+#define $v6out 127
+#define $v6in  106
+#define $v5out 105
+#define $v5in  85
+#define $v4out 84
+#define $v4in  64
+#define $v3out 63
+#define $v3in  43
+#define $v2out 42
+#define $v2in  22
+#define $v1out 21
+#define $v1in  0
+
+<global> global_label=Acoustic Upright Bass amp_veltrack=75 ampeg_attack=0.005 ampeg_release=0.07 offset=3000 volume=-6.0
+
+<group> key=28 lokey=28 hikey=30 seq_length=3
+<region> sample=28 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=28 acoustic bass upright 1 02.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=28 acoustic bass upright 1 03.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=28 acoustic bass upright 1 04.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=28 acoustic bass upright 1 05.wav lovel=$v5in hivel=$v5out seq_position=1
+<region> sample=28 acoustic bass upright 1 06.wav lovel=$v6in hivel=$v6out seq_position=1
+<region> sample=28 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=28 acoustic bass upright 1 02.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=28 acoustic bass upright 1 03.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=28 acoustic bass upright 1 04.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=28 acoustic bass upright 1 05.wav lovel=$v5in hivel=$v5out seq_position=2
+<region> sample=28 acoustic bass upright 1 06.wav lovel=$v6in hivel=$v6out seq_position=2
+<region> sample=28 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=3
+<region> sample=28 acoustic bass upright 1 02.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=28 acoustic bass upright 1 03.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=28 acoustic bass upright 1 04.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=28 acoustic bass upright 1 05.wav lovel=$v5in hivel=$v5out seq_position=3
+<region> sample=28 acoustic bass upright 1 06.wav lovel=$v6in hivel=$v6out seq_position=3
+
+<group> key=33 lokey=30 hikey=35 seq_length=3
+<region> sample=33 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=33 acoustic bass upright 1 02.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=33 acoustic bass upright 1 03.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=33 acoustic bass upright 1 04.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=33 acoustic bass upright 1 05.wav lovel=$v5in hivel=$v5out seq_position=1
+<region> sample=33 acoustic bass upright 1 06.wav lovel=$v6in hivel=$v6out seq_position=1
+<region> sample=33 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=33 acoustic bass upright 1 02.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=33 acoustic bass upright 1 03.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=33 acoustic bass upright 1 04.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=33 acoustic bass upright 1 05.wav lovel=$v5in hivel=$v5out seq_position=2
+<region> sample=33 acoustic bass upright 1 06.wav lovel=$v6in hivel=$v6out seq_position=2
+<region> sample=33 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=3
+<region> sample=33 acoustic bass upright 1 02.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=33 acoustic bass upright 1 03.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=33 acoustic bass upright 1 04.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=33 acoustic bass upright 1 05.wav lovel=$v5in hivel=$v5out seq_position=3
+<region> sample=33 acoustic bass upright 1 06.wav lovel=$v6in hivel=$v6out seq_position=3
+
+<group> key=38 lokey=35 hikey=40 seq_length=3
+<region> sample=38 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=38 acoustic bass upright 1 02.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=38 acoustic bass upright 1 03.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=38 acoustic bass upright 1 04.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=38 acoustic bass upright 1 05.wav lovel=$v5in hivel=$v5out seq_position=1
+<region> sample=38 acoustic bass upright 1 06.wav lovel=$v6in hivel=$v6out seq_position=1
+<region> sample=38 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=38 acoustic bass upright 1 02.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=38 acoustic bass upright 1 03.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=38 acoustic bass upright 1 04.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=38 acoustic bass upright 1 05.wav lovel=$v5in hivel=$v5out seq_position=2
+<region> sample=38 acoustic bass upright 1 06.wav lovel=$v6in hivel=$v6out seq_position=2
+<region> sample=38 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=3
+<region> sample=38 acoustic bass upright 1 02.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=38 acoustic bass upright 1 03.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=38 acoustic bass upright 1 04.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=38 acoustic bass upright 1 05.wav lovel=$v5in hivel=$v5out seq_position=3
+<region> sample=38 acoustic bass upright 1 06.wav lovel=$v6in hivel=$v6out seq_position=3
+
+<group> key=43 lokey=40 hikey=60 seq_length=3
+<region> sample=43 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=43 acoustic bass upright 1 02.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=43 acoustic bass upright 1 03.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=43 acoustic bass upright 1 04.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=43 acoustic bass upright 1 05.wav lovel=$v5in hivel=$v5out seq_position=1
+<region> sample=43 acoustic bass upright 1 06.wav lovel=$v6in hivel=$v6out seq_position=1
+<region> sample=43 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=43 acoustic bass upright 1 02.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=43 acoustic bass upright 1 03.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=43 acoustic bass upright 1 04.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=43 acoustic bass upright 1 05.wav lovel=$v5in hivel=$v5out seq_position=2
+<region> sample=43 acoustic bass upright 1 06.wav lovel=$v6in hivel=$v6out seq_position=2
+<region> sample=43 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=3
+<region> sample=43 acoustic bass upright 1 02.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=43 acoustic bass upright 1 03.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=43 acoustic bass upright 1 04.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=43 acoustic bass upright 1 05.wav lovel=$v5in hivel=$v5out seq_position=3
+<region> sample=43 acoustic bass upright 1 06.wav lovel=$v6in hivel=$v6out seq_position=3

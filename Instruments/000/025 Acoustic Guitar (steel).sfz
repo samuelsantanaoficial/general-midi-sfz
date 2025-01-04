@@ -22,157 +22,157 @@
 <global> global_label=Acoustic Guitar (steel) amp_veltrack=75 ampeg_attack=0.005 ampeg_release=0.07 offset=3000 volume=-12.0
 
 <group> key=40 lokey=40 hikey=42 seq_length=3
-<region> sample=A3_SN02_STRe_PIe0_4_1_S2.wav  lovel=$v1in hivel=$v1out seq_position=1
-<region> sample=A3_SN02_STRe_PIe0_4_2_S2.wav  lovel=$v2in hivel=$v2out seq_position=1
-<region> sample=A3_SN02_STRe_PIe0_4_3_S2.wav  lovel=$v3in hivel=$v3out seq_position=1
-<region> sample=A3_SN02_STRe_PIe0_4_4_S2.wav  lovel=$v4in hivel=$v4out seq_position=1
-<region> sample=A3_SN02_STRe_PIe0_4_5_S2.wav  lovel=$v5in hivel=$v5out seq_position=1
-<region> sample=A3_SN02_STRe_PIe0_4_6_S2.wav  lovel=$v6in hivel=$v6out seq_position=1
-<region> sample=A3_SN02_STRe_PIe0_4_7_S2.wav  lovel=$v7in hivel=$v7out seq_position=1
-<region> sample=A3_SN02_STRe_PIe0_4_8_S2.wav  lovel=$v8in hivel=$v8out seq_position=1
-<region> sample=A3_SN02_STRe_PIe0_4_14_S2.wav lovel=$v1in hivel=$v1out seq_position=2
-<region> sample=A3_SN02_STRe_PIe0_4_15_S2.wav lovel=$v2in hivel=$v2out seq_position=2
-<region> sample=A3_SN02_STRe_PIe0_4_16_S2.wav lovel=$v3in hivel=$v3out seq_position=2
-<region> sample=A3_SN02_STRe_PIe0_4_17_S2.wav lovel=$v4in hivel=$v4out seq_position=2
-<region> sample=A3_SN02_STRe_PIe0_4_18_S2.wav lovel=$v5in hivel=$v5out seq_position=2
-<region> sample=A3_SN02_STRe_PIe0_4_19_S2.wav lovel=$v6in hivel=$v6out seq_position=2
-<region> sample=A3_SN02_STRe_PIe0_4_20_S2.wav lovel=$v7in hivel=$v7out seq_position=2
-<region> sample=A3_SN02_STRe_PIe0_4_21_S2.wav lovel=$v8in hivel=$v8out seq_position=2
-<region> sample=A3_SN02_STRe_PIe0_4_27_S2.wav lovel=$v1in hivel=$v1out seq_position=3
-<region> sample=A3_SN02_STRe_PIe0_4_28_S2.wav lovel=$v2in hivel=$v2out seq_position=3
-<region> sample=A3_SN02_STRe_PIe0_4_29_S2.wav lovel=$v3in hivel=$v3out seq_position=3
-<region> sample=A3_SN02_STRe_PIe0_4_30_S2.wav lovel=$v4in hivel=$v4out seq_position=3
-<region> sample=A3_SN02_STRe_PIe0_4_31_S2.wav lovel=$v5in hivel=$v5out seq_position=3
-<region> sample=A3_SN02_STRe_PIe0_4_32_S2.wav lovel=$v6in hivel=$v6out seq_position=3
-<region> sample=A3_SN02_STRe_PIe0_4_33_S2.wav lovel=$v7in hivel=$v7out seq_position=3
-<region> sample=A3_SN02_STRe_PIe0_4_34_S2.wav lovel=$v8in hivel=$v8out seq_position=3
+<region> sample=40 acoustic guitar steel 1 01.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=40 acoustic guitar steel 1 02.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=40 acoustic guitar steel 1 03.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=40 acoustic guitar steel 1 04.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=40 acoustic guitar steel 1 05.wav lovel=$v5in hivel=$v5out seq_position=1
+<region> sample=40 acoustic guitar steel 1 06.wav lovel=$v6in hivel=$v6out seq_position=1
+<region> sample=40 acoustic guitar steel 1 07.wav lovel=$v7in hivel=$v7out seq_position=1
+<region> sample=40 acoustic guitar steel 1 08.wav lovel=$v8in hivel=$v8out seq_position=1
+<region> sample=40 acoustic guitar steel 2 01.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=40 acoustic guitar steel 2 02.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=40 acoustic guitar steel 2 03.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=40 acoustic guitar steel 2 04.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=40 acoustic guitar steel 2 05.wav lovel=$v5in hivel=$v5out seq_position=2
+<region> sample=40 acoustic guitar steel 2 06.wav lovel=$v6in hivel=$v6out seq_position=2
+<region> sample=40 acoustic guitar steel 2 07.wav lovel=$v7in hivel=$v7out seq_position=2
+<region> sample=40 acoustic guitar steel 2 08.wav lovel=$v8in hivel=$v8out seq_position=2
+<region> sample=40 acoustic guitar steel 3 01.wav lovel=$v1in hivel=$v1out seq_position=3
+<region> sample=40 acoustic guitar steel 3 02.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=40 acoustic guitar steel 3 03.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=40 acoustic guitar steel 3 04.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=40 acoustic guitar steel 3 05.wav lovel=$v5in hivel=$v5out seq_position=3
+<region> sample=40 acoustic guitar steel 3 06.wav lovel=$v6in hivel=$v6out seq_position=3
+<region> sample=40 acoustic guitar steel 3 07.wav lovel=$v7in hivel=$v7out seq_position=3
+<region> sample=40 acoustic guitar steel 3 08.wav lovel=$v8in hivel=$v8out seq_position=3
 
 <group> key=45 lokey=43 hikey=47 seq_length=3
-<region> sample=A3_SN02_STRa_PIa0_24_1_S2.wav  lovel=$v1in hivel=$v1out seq_position=1
-<region> sample=A3_SN02_STRa_PIa0_24_2_S2.wav  lovel=$v2in hivel=$v2out seq_position=1
-<region> sample=A3_SN02_STRa_PIa0_24_3_S2.wav  lovel=$v3in hivel=$v3out seq_position=1
-<region> sample=A3_SN02_STRa_PIa0_24_4_S2.wav  lovel=$v4in hivel=$v4out seq_position=1
-<region> sample=A3_SN02_STRa_PIa0_24_5_S2.wav  lovel=$v5in hivel=$v5out seq_position=1
-<region> sample=A3_SN02_STRa_PIa0_24_6_S2.wav  lovel=$v6in hivel=$v6out seq_position=1
-<region> sample=A3_SN02_STRa_PIa0_24_7_S2.wav  lovel=$v7in hivel=$v7out seq_position=1
-<region> sample=A3_SN02_STRa_PIa0_24_8_S2.wav  lovel=$v8in hivel=$v8out seq_position=1
-<region> sample=A3_SN02_STRa_PIa0_24_14_S2.wav lovel=$v1in hivel=$v1out seq_position=2
-<region> sample=A3_SN02_STRa_PIa0_24_15_S2.wav lovel=$v2in hivel=$v2out seq_position=2
-<region> sample=A3_SN02_STRa_PIa0_24_16_S2.wav lovel=$v3in hivel=$v3out seq_position=2
-<region> sample=A3_SN02_STRa_PIa0_24_17_S2.wav lovel=$v4in hivel=$v4out seq_position=2
-<region> sample=A3_SN02_STRa_PIa0_24_18_S2.wav lovel=$v5in hivel=$v5out seq_position=2
-<region> sample=A3_SN02_STRa_PIa0_24_19_S2.wav lovel=$v6in hivel=$v6out seq_position=2
-<region> sample=A3_SN02_STRa_PIa0_24_20_S2.wav lovel=$v7in hivel=$v7out seq_position=2
-<region> sample=A3_SN02_STRa_PIa0_24_21_S2.wav lovel=$v8in hivel=$v8out seq_position=2
-<region> sample=A3_SN02_STRa_PIa0_24_27_S2.wav lovel=$v1in hivel=$v1out seq_position=3
-<region> sample=A3_SN02_STRa_PIa0_24_28_S2.wav lovel=$v2in hivel=$v2out seq_position=3
-<region> sample=A3_SN02_STRa_PIa0_24_29_S2.wav lovel=$v3in hivel=$v3out seq_position=3
-<region> sample=A3_SN02_STRa_PIa0_24_30_S2.wav lovel=$v4in hivel=$v4out seq_position=3
-<region> sample=A3_SN02_STRa_PIa0_24_31_S2.wav lovel=$v5in hivel=$v5out seq_position=3
-<region> sample=A3_SN02_STRa_PIa0_24_32_S2.wav lovel=$v6in hivel=$v6out seq_position=3
-<region> sample=A3_SN02_STRa_PIa0_24_33_S2.wav lovel=$v7in hivel=$v7out seq_position=3
-<region> sample=A3_SN02_STRa_PIa0_24_34_S2.wav lovel=$v8in hivel=$v8out seq_position=3
+<region> sample=45 acoustic guitar steel 1 01.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=45 acoustic guitar steel 1 02.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=45 acoustic guitar steel 1 03.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=45 acoustic guitar steel 1 04.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=45 acoustic guitar steel 1 05.wav lovel=$v5in hivel=$v5out seq_position=1
+<region> sample=45 acoustic guitar steel 1 06.wav lovel=$v6in hivel=$v6out seq_position=1
+<region> sample=45 acoustic guitar steel 1 07.wav lovel=$v7in hivel=$v7out seq_position=1
+<region> sample=45 acoustic guitar steel 1 08.wav lovel=$v8in hivel=$v8out seq_position=1
+<region> sample=45 acoustic guitar steel 2 01.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=45 acoustic guitar steel 2 02.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=45 acoustic guitar steel 2 03.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=45 acoustic guitar steel 2 04.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=45 acoustic guitar steel 2 05.wav lovel=$v5in hivel=$v5out seq_position=2
+<region> sample=45 acoustic guitar steel 2 06.wav lovel=$v6in hivel=$v6out seq_position=2
+<region> sample=45 acoustic guitar steel 2 07.wav lovel=$v7in hivel=$v7out seq_position=2
+<region> sample=45 acoustic guitar steel 2 08.wav lovel=$v8in hivel=$v8out seq_position=2
+<region> sample=45 acoustic guitar steel 3 01.wav lovel=$v1in hivel=$v1out seq_position=3
+<region> sample=45 acoustic guitar steel 3 02.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=45 acoustic guitar steel 3 03.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=45 acoustic guitar steel 3 04.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=45 acoustic guitar steel 3 05.wav lovel=$v5in hivel=$v5out seq_position=3
+<region> sample=45 acoustic guitar steel 3 06.wav lovel=$v6in hivel=$v6out seq_position=3
+<region> sample=45 acoustic guitar steel 3 07.wav lovel=$v7in hivel=$v7out seq_position=3
+<region> sample=45 acoustic guitar steel 3 08.wav lovel=$v8in hivel=$v8out seq_position=3
 
 <group> key=50 lokey=48 hikey=52 seq_length=3
-<region> sample=A3_SN02_STRd_PId1_44_1_S2.wav  lovel=$v1in hivel=$v1out seq_position=1
-<region> sample=A3_SN02_STRd_PId1_44_2_S2.wav  lovel=$v2in hivel=$v2out seq_position=1
-<region> sample=A3_SN02_STRd_PId1_44_3_S2.wav  lovel=$v3in hivel=$v3out seq_position=1
-<region> sample=A3_SN02_STRd_PId1_44_4_S2.wav  lovel=$v4in hivel=$v4out seq_position=1
-<region> sample=A3_SN02_STRd_PId1_44_5_S2.wav  lovel=$v5in hivel=$v5out seq_position=1
-<region> sample=A3_SN02_STRd_PId1_44_6_S2.wav  lovel=$v6in hivel=$v6out seq_position=1
-<region> sample=A3_SN02_STRd_PId1_44_7_S2.wav  lovel=$v7in hivel=$v7out seq_position=1
-<region> sample=A3_SN02_STRd_PId1_44_8_S2.wav  lovel=$v8in hivel=$v8out seq_position=1
-<region> sample=A3_SN02_STRd_PId1_44_14_S2.wav lovel=$v1in hivel=$v1out seq_position=2
-<region> sample=A3_SN02_STRd_PId1_44_15_S2.wav lovel=$v2in hivel=$v2out seq_position=2
-<region> sample=A3_SN02_STRd_PId1_44_16_S2.wav lovel=$v3in hivel=$v3out seq_position=2
-<region> sample=A3_SN02_STRd_PId1_44_17_S2.wav lovel=$v4in hivel=$v4out seq_position=2
-<region> sample=A3_SN02_STRd_PId1_44_18_S2.wav lovel=$v5in hivel=$v5out seq_position=2
-<region> sample=A3_SN02_STRd_PId1_44_19_S2.wav lovel=$v6in hivel=$v6out seq_position=2
-<region> sample=A3_SN02_STRd_PId1_44_20_S2.wav lovel=$v7in hivel=$v7out seq_position=2
-<region> sample=A3_SN02_STRd_PId1_44_21_S2.wav lovel=$v8in hivel=$v8out seq_position=2
-<region> sample=A3_SN02_STRd_PId1_44_27_S2.wav lovel=$v1in hivel=$v1out seq_position=3
-<region> sample=A3_SN02_STRd_PId1_44_28_S2.wav lovel=$v2in hivel=$v2out seq_position=3
-<region> sample=A3_SN02_STRd_PId1_44_29_S2.wav lovel=$v3in hivel=$v3out seq_position=3
-<region> sample=A3_SN02_STRd_PId1_44_30_S2.wav lovel=$v4in hivel=$v4out seq_position=3
-<region> sample=A3_SN02_STRd_PId1_44_31_S2.wav lovel=$v5in hivel=$v5out seq_position=3
-<region> sample=A3_SN02_STRd_PId1_44_32_S2.wav lovel=$v6in hivel=$v6out seq_position=3
-<region> sample=A3_SN02_STRd_PId1_44_33_S2.wav lovel=$v7in hivel=$v7out seq_position=3
-<region> sample=A3_SN02_STRd_PId1_44_34_S2.wav lovel=$v8in hivel=$v8out seq_position=3
+<region> sample=50 acoustic guitar steel 1 01.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=50 acoustic guitar steel 1 02.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=50 acoustic guitar steel 1 03.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=50 acoustic guitar steel 1 04.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=50 acoustic guitar steel 1 05.wav lovel=$v5in hivel=$v5out seq_position=1
+<region> sample=50 acoustic guitar steel 1 06.wav lovel=$v6in hivel=$v6out seq_position=1
+<region> sample=50 acoustic guitar steel 1 07.wav lovel=$v7in hivel=$v7out seq_position=1
+<region> sample=50 acoustic guitar steel 1 08.wav lovel=$v8in hivel=$v8out seq_position=1
+<region> sample=50 acoustic guitar steel 2 01.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=50 acoustic guitar steel 2 02.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=50 acoustic guitar steel 2 03.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=50 acoustic guitar steel 2 04.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=50 acoustic guitar steel 2 05.wav lovel=$v5in hivel=$v5out seq_position=2
+<region> sample=50 acoustic guitar steel 2 06.wav lovel=$v6in hivel=$v6out seq_position=2
+<region> sample=50 acoustic guitar steel 2 07.wav lovel=$v7in hivel=$v7out seq_position=2
+<region> sample=50 acoustic guitar steel 2 08.wav lovel=$v8in hivel=$v8out seq_position=2
+<region> sample=50 acoustic guitar steel 3 01.wav lovel=$v1in hivel=$v1out seq_position=3
+<region> sample=50 acoustic guitar steel 3 02.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=50 acoustic guitar steel 3 03.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=50 acoustic guitar steel 3 04.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=50 acoustic guitar steel 3 05.wav lovel=$v5in hivel=$v5out seq_position=3
+<region> sample=50 acoustic guitar steel 3 06.wav lovel=$v6in hivel=$v6out seq_position=3
+<region> sample=50 acoustic guitar steel 3 07.wav lovel=$v7in hivel=$v7out seq_position=3
+<region> sample=50 acoustic guitar steel 3 08.wav lovel=$v8in hivel=$v8out seq_position=3
 
 <group> key=55 lokey=53 hikey=57 seq_length=3
-<region> sample=A3_SN02_STRg_PIg1_64_1_S2.wav  lovel=$v1in hivel=$v1out seq_position=1
-<region> sample=A3_SN02_STRg_PIg1_64_2_S2.wav  lovel=$v2in hivel=$v2out seq_position=1
-<region> sample=A3_SN02_STRg_PIg1_64_3_S2.wav  lovel=$v3in hivel=$v3out seq_position=1
-<region> sample=A3_SN02_STRg_PIg1_64_4_S2.wav  lovel=$v4in hivel=$v4out seq_position=1
-<region> sample=A3_SN02_STRg_PIg1_64_5_S2.wav  lovel=$v5in hivel=$v5out seq_position=1
-<region> sample=A3_SN02_STRg_PIg1_64_6_S2.wav  lovel=$v6in hivel=$v6out seq_position=1
-<region> sample=A3_SN02_STRg_PIg1_64_7_S2.wav  lovel=$v7in hivel=$v7out seq_position=1
-<region> sample=A3_SN02_STRg_PIg1_64_8_S2.wav  lovel=$v8in hivel=$v8out seq_position=1
-<region> sample=A3_SN02_STRg_PIg1_64_14_S2.wav lovel=$v1in hivel=$v1out seq_position=2
-<region> sample=A3_SN02_STRg_PIg1_64_15_S2.wav lovel=$v2in hivel=$v2out seq_position=2
-<region> sample=A3_SN02_STRg_PIg1_64_16_S2.wav lovel=$v3in hivel=$v3out seq_position=2
-<region> sample=A3_SN02_STRg_PIg1_64_17_S2.wav lovel=$v4in hivel=$v4out seq_position=2
-<region> sample=A3_SN02_STRg_PIg1_64_18_S2.wav lovel=$v5in hivel=$v5out seq_position=2
-<region> sample=A3_SN02_STRg_PIg1_64_19_S2.wav lovel=$v6in hivel=$v6out seq_position=2
-<region> sample=A3_SN02_STRg_PIg1_64_20_S2.wav lovel=$v7in hivel=$v7out seq_position=2
-<region> sample=A3_SN02_STRg_PIg1_64_21_S2.wav lovel=$v8in hivel=$v8out seq_position=2
-<region> sample=A3_SN02_STRg_PIg1_64_27_S2.wav lovel=$v1in hivel=$v1out seq_position=3
-<region> sample=A3_SN02_STRg_PIg1_64_28_S2.wav lovel=$v2in hivel=$v2out seq_position=3
-<region> sample=A3_SN02_STRg_PIg1_64_29_S2.wav lovel=$v3in hivel=$v3out seq_position=3
-<region> sample=A3_SN02_STRg_PIg1_64_30_S2.wav lovel=$v4in hivel=$v4out seq_position=3
-<region> sample=A3_SN02_STRg_PIg1_64_31_S2.wav lovel=$v5in hivel=$v5out seq_position=3
-<region> sample=A3_SN02_STRg_PIg1_64_32_S2.wav lovel=$v6in hivel=$v6out seq_position=3
-<region> sample=A3_SN02_STRg_PIg1_64_33_S2.wav lovel=$v7in hivel=$v7out seq_position=3
-<region> sample=A3_SN02_STRg_PIg1_64_34_S2.wav lovel=$v8in hivel=$v8out seq_position=3
+<region> sample=55 acoustic guitar steel 1 01.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=55 acoustic guitar steel 1 02.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=55 acoustic guitar steel 1 03.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=55 acoustic guitar steel 1 04.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=55 acoustic guitar steel 1 05.wav lovel=$v5in hivel=$v5out seq_position=1
+<region> sample=55 acoustic guitar steel 1 06.wav lovel=$v6in hivel=$v6out seq_position=1
+<region> sample=55 acoustic guitar steel 1 07.wav lovel=$v7in hivel=$v7out seq_position=1
+<region> sample=55 acoustic guitar steel 1 08.wav lovel=$v8in hivel=$v8out seq_position=1
+<region> sample=55 acoustic guitar steel 2 01.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=55 acoustic guitar steel 2 02.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=55 acoustic guitar steel 2 03.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=55 acoustic guitar steel 2 04.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=55 acoustic guitar steel 2 05.wav lovel=$v5in hivel=$v5out seq_position=2
+<region> sample=55 acoustic guitar steel 2 06.wav lovel=$v6in hivel=$v6out seq_position=2
+<region> sample=55 acoustic guitar steel 2 07.wav lovel=$v7in hivel=$v7out seq_position=2
+<region> sample=55 acoustic guitar steel 2 08.wav lovel=$v8in hivel=$v8out seq_position=2
+<region> sample=55 acoustic guitar steel 3 01.wav lovel=$v1in hivel=$v1out seq_position=3
+<region> sample=55 acoustic guitar steel 3 02.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=55 acoustic guitar steel 3 03.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=55 acoustic guitar steel 3 04.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=55 acoustic guitar steel 3 05.wav lovel=$v5in hivel=$v5out seq_position=3
+<region> sample=55 acoustic guitar steel 3 06.wav lovel=$v6in hivel=$v6out seq_position=3
+<region> sample=55 acoustic guitar steel 3 07.wav lovel=$v7in hivel=$v7out seq_position=3
+<region> sample=55 acoustic guitar steel 3 08.wav lovel=$v8in hivel=$v8out seq_position=3
 
 <group> key=59 lokey=58 hikey=61 seq_length=3
-<region> sample=A3_SN02_STRh_PIh1_84_1_S2.wav  lovel=$v1in hivel=$v1out seq_position=1
-<region> sample=A3_SN02_STRh_PIh1_84_2_S2.wav  lovel=$v2in hivel=$v2out seq_position=1
-<region> sample=A3_SN02_STRh_PIh1_84_3_S2.wav  lovel=$v3in hivel=$v3out seq_position=1
-<region> sample=A3_SN02_STRh_PIh1_84_4_S2.wav  lovel=$v4in hivel=$v4out seq_position=1
-<region> sample=A3_SN02_STRh_PIh1_84_5_S2.wav  lovel=$v5in hivel=$v5out seq_position=1
-<region> sample=A3_SN02_STRh_PIh1_84_6_S2.wav  lovel=$v6in hivel=$v6out seq_position=1
-<region> sample=A3_SN02_STRh_PIh1_84_7_S2.wav  lovel=$v7in hivel=$v7out seq_position=1
-<region> sample=A3_SN02_STRh_PIh1_84_8_S2.wav  lovel=$v8in hivel=$v8out seq_position=1
-<region> sample=A3_SN02_STRh_PIh1_84_14_S2.wav lovel=$v1in hivel=$v1out seq_position=2
-<region> sample=A3_SN02_STRh_PIh1_84_15_S2.wav lovel=$v2in hivel=$v2out seq_position=2
-<region> sample=A3_SN02_STRh_PIh1_84_16_S2.wav lovel=$v3in hivel=$v3out seq_position=2
-<region> sample=A3_SN02_STRh_PIh1_84_17_S2.wav lovel=$v4in hivel=$v4out seq_position=2
-<region> sample=A3_SN02_STRh_PIh1_84_18_S2.wav lovel=$v5in hivel=$v5out seq_position=2
-<region> sample=A3_SN02_STRh_PIh1_84_19_S2.wav lovel=$v6in hivel=$v6out seq_position=2
-<region> sample=A3_SN02_STRh_PIh1_84_20_S2.wav lovel=$v7in hivel=$v7out seq_position=2
-<region> sample=A3_SN02_STRh_PIh1_84_21_S2.wav lovel=$v8in hivel=$v8out seq_position=2
-<region> sample=A3_SN02_STRh_PIh1_84_27_S2.wav lovel=$v1in hivel=$v1out seq_position=3
-<region> sample=A3_SN02_STRh_PIh1_84_28_S2.wav lovel=$v2in hivel=$v2out seq_position=3
-<region> sample=A3_SN02_STRh_PIh1_84_29_S2.wav lovel=$v3in hivel=$v3out seq_position=3
-<region> sample=A3_SN02_STRh_PIh1_84_30_S2.wav lovel=$v4in hivel=$v4out seq_position=3
-<region> sample=A3_SN02_STRh_PIh1_84_31_S2.wav lovel=$v5in hivel=$v5out seq_position=3
-<region> sample=A3_SN02_STRh_PIh1_84_32_S2.wav lovel=$v6in hivel=$v6out seq_position=3
-<region> sample=A3_SN02_STRh_PIh1_84_33_S2.wav lovel=$v7in hivel=$v7out seq_position=3
-<region> sample=A3_SN02_STRh_PIh1_84_34_S2.wav lovel=$v8in hivel=$v8out seq_position=3
+<region> sample=59 acoustic guitar steel 1 01.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=59 acoustic guitar steel 1 02.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=59 acoustic guitar steel 1 03.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=59 acoustic guitar steel 1 04.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=59 acoustic guitar steel 1 05.wav lovel=$v5in hivel=$v5out seq_position=1
+<region> sample=59 acoustic guitar steel 1 06.wav lovel=$v6in hivel=$v6out seq_position=1
+<region> sample=59 acoustic guitar steel 1 07.wav lovel=$v7in hivel=$v7out seq_position=1
+<region> sample=59 acoustic guitar steel 1 08.wav lovel=$v8in hivel=$v8out seq_position=1
+<region> sample=59 acoustic guitar steel 2 01.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=59 acoustic guitar steel 2 02.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=59 acoustic guitar steel 2 03.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=59 acoustic guitar steel 2 04.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=59 acoustic guitar steel 2 05.wav lovel=$v5in hivel=$v5out seq_position=2
+<region> sample=59 acoustic guitar steel 2 06.wav lovel=$v6in hivel=$v6out seq_position=2
+<region> sample=59 acoustic guitar steel 2 07.wav lovel=$v7in hivel=$v7out seq_position=2
+<region> sample=59 acoustic guitar steel 2 08.wav lovel=$v8in hivel=$v8out seq_position=2
+<region> sample=59 acoustic guitar steel 3 01.wav lovel=$v1in hivel=$v1out seq_position=3
+<region> sample=59 acoustic guitar steel 3 02.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=59 acoustic guitar steel 3 03.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=59 acoustic guitar steel 3 04.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=59 acoustic guitar steel 3 05.wav lovel=$v5in hivel=$v5out seq_position=3
+<region> sample=59 acoustic guitar steel 3 06.wav lovel=$v6in hivel=$v6out seq_position=3
+<region> sample=59 acoustic guitar steel 3 07.wav lovel=$v7in hivel=$v7out seq_position=3
+<region> sample=59 acoustic guitar steel 3 08.wav lovel=$v8in hivel=$v8out seq_position=3
 
 <group> key=64 lokey=62 hikey=72 seq_length=3
-<region> sample=A3_SN02_STRi_PIe2_104_1_S2.wav  lovel=$v1in hivel=$v1out seq_position=1
-<region> sample=A3_SN02_STRi_PIe2_104_2_S2.wav  lovel=$v2in hivel=$v2out seq_position=1
-<region> sample=A3_SN02_STRi_PIe2_104_3_S2.wav  lovel=$v3in hivel=$v3out seq_position=1
-<region> sample=A3_SN02_STRi_PIe2_104_4_S2.wav  lovel=$v4in hivel=$v4out seq_position=1
-<region> sample=A3_SN02_STRi_PIe2_104_5_S2.wav  lovel=$v5in hivel=$v5out seq_position=1
-<region> sample=A3_SN02_STRi_PIe2_104_6_S2.wav  lovel=$v6in hivel=$v6out seq_position=1
-<region> sample=A3_SN02_STRi_PIe2_104_7_S2.wav  lovel=$v7in hivel=$v7out seq_position=1
-<region> sample=A3_SN02_STRi_PIe2_104_8_S2.wav  lovel=$v8in hivel=$v8out seq_position=1
-<region> sample=A3_SN02_STRi_PIe2_104_14_S2.wav lovel=$v1in hivel=$v1out seq_position=2
-<region> sample=A3_SN02_STRi_PIe2_104_15_S2.wav lovel=$v2in hivel=$v2out seq_position=2
-<region> sample=A3_SN02_STRi_PIe2_104_16_S2.wav lovel=$v3in hivel=$v3out seq_position=2
-<region> sample=A3_SN02_STRi_PIe2_104_17_S2.wav lovel=$v4in hivel=$v4out seq_position=2
-<region> sample=A3_SN02_STRi_PIe2_104_18_S2.wav lovel=$v5in hivel=$v5out seq_position=2
-<region> sample=A3_SN02_STRi_PIe2_104_19_S2.wav lovel=$v6in hivel=$v6out seq_position=2
-<region> sample=A3_SN02_STRi_PIe2_104_20_S2.wav lovel=$v7in hivel=$v7out seq_position=2
-<region> sample=A3_SN02_STRi_PIe2_104_21_S2.wav lovel=$v8in hivel=$v8out seq_position=2
-<region> sample=A3_SN02_STRi_PIe2_104_27_S2.wav lovel=$v1in hivel=$v1out seq_position=3
-<region> sample=A3_SN02_STRi_PIe2_104_28_S2.wav lovel=$v2in hivel=$v2out seq_position=3
-<region> sample=A3_SN02_STRi_PIe2_104_29_S2.wav lovel=$v3in hivel=$v3out seq_position=3
-<region> sample=A3_SN02_STRi_PIe2_104_30_S2.wav lovel=$v4in hivel=$v4out seq_position=3
-<region> sample=A3_SN02_STRi_PIe2_104_31_S2.wav lovel=$v5in hivel=$v5out seq_position=3
-<region> sample=A3_SN02_STRi_PIe2_104_32_S2.wav lovel=$v6in hivel=$v6out seq_position=3
-<region> sample=A3_SN02_STRi_PIe2_104_33_S2.wav lovel=$v7in hivel=$v7out seq_position=3
-<region> sample=A3_SN02_STRi_PIe2_104_34_S2.wav lovel=$v8in hivel=$v8out seq_position=3
+<region> sample=64 acoustic guitar steel 1 01.wav lovel=$v1in hivel=$v1out seq_position=1
+<region> sample=64 acoustic guitar steel 1 02.wav lovel=$v2in hivel=$v2out seq_position=1
+<region> sample=64 acoustic guitar steel 1 03.wav lovel=$v3in hivel=$v3out seq_position=1
+<region> sample=64 acoustic guitar steel 1 04.wav lovel=$v4in hivel=$v4out seq_position=1
+<region> sample=64 acoustic guitar steel 1 05.wav lovel=$v5in hivel=$v5out seq_position=1
+<region> sample=64 acoustic guitar steel 1 06.wav lovel=$v6in hivel=$v6out seq_position=1
+<region> sample=64 acoustic guitar steel 1 07.wav lovel=$v7in hivel=$v7out seq_position=1
+<region> sample=64 acoustic guitar steel 1 08.wav lovel=$v8in hivel=$v8out seq_position=1
+<region> sample=64 acoustic guitar steel 2 01.wav lovel=$v1in hivel=$v1out seq_position=2
+<region> sample=64 acoustic guitar steel 2 02.wav lovel=$v2in hivel=$v2out seq_position=2
+<region> sample=64 acoustic guitar steel 2 03.wav lovel=$v3in hivel=$v3out seq_position=2
+<region> sample=64 acoustic guitar steel 2 04.wav lovel=$v4in hivel=$v4out seq_position=2
+<region> sample=64 acoustic guitar steel 2 05.wav lovel=$v5in hivel=$v5out seq_position=2
+<region> sample=64 acoustic guitar steel 2 06.wav lovel=$v6in hivel=$v6out seq_position=2
+<region> sample=64 acoustic guitar steel 2 07.wav lovel=$v7in hivel=$v7out seq_position=2
+<region> sample=64 acoustic guitar steel 2 08.wav lovel=$v8in hivel=$v8out seq_position=2
+<region> sample=64 acoustic guitar steel 3 01.wav lovel=$v1in hivel=$v1out seq_position=3
+<region> sample=64 acoustic guitar steel 3 02.wav lovel=$v2in hivel=$v2out seq_position=3
+<region> sample=64 acoustic guitar steel 3 03.wav lovel=$v3in hivel=$v3out seq_position=3
+<region> sample=64 acoustic guitar steel 3 04.wav lovel=$v4in hivel=$v4out seq_position=3
+<region> sample=64 acoustic guitar steel 3 05.wav lovel=$v5in hivel=$v5out seq_position=3
+<region> sample=64 acoustic guitar steel 3 06.wav lovel=$v6in hivel=$v6out seq_position=3
+<region> sample=64 acoustic guitar steel 3 07.wav lovel=$v7in hivel=$v7out seq_position=3
+<region> sample=64 acoustic guitar steel 3 08.wav lovel=$v8in hivel=$v8out seq_position=3

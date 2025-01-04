@@ -30,232 +30,232 @@
 <global> global_label=Electric Guitar (Les Paul) amp_veltrack=75 ampeg_attack=0.005 ampeg_release=0.07 offset=3000 volume=-6.0
 
 <group> key=40 lokey=40 hikey=42 seq_length=3
-<region> sample=E1_SN01OpP_STRe_PIe0_4_1_S2.wav  lovel=$v1in  hivel=$v1out  seq_position=1
-<region> sample=E1_SN01OpP_STRe_PIe0_4_2_S2.wav  lovel=$v2in  hivel=$v2out  seq_position=1
-<region> sample=E1_SN01OpP_STRe_PIe0_4_3_S2.wav  lovel=$v3in  hivel=$v3out  seq_position=1
-<region> sample=E1_SN01OpP_STRe_PIe0_4_4_S2.wav  lovel=$v4in  hivel=$v4out  seq_position=1
-<region> sample=E1_SN01OpP_STRe_PIe0_4_5_S2.wav  lovel=$v5in  hivel=$v5out  seq_position=1
-<region> sample=E1_SN01OpP_STRe_PIe0_4_6_S2.wav  lovel=$v6in  hivel=$v6out  seq_position=1
-<region> sample=E1_SN01OpP_STRe_PIe0_4_7_S2.wav  lovel=$v7in  hivel=$v7out  seq_position=1
-<region> sample=E1_SN01OpP_STRe_PIe0_4_8_S2.wav  lovel=$v8in  hivel=$v8out  seq_position=1
-<region> sample=E1_SN01OpP_STRe_PIe0_4_9_S2.wav  lovel=$v9in  hivel=$v9out  seq_position=1
-<region> sample=E1_SN01OpP_STRe_PIe0_4_10_S2.wav lovel=$v10in hivel=$v10out seq_position=1
-<region> sample=E1_SN01OpP_STRe_PIe0_4_11_S2.wav lovel=$v11in hivel=$v11out seq_position=1
-<region> sample=E1_SN01OpP_STRe_PIe0_4_12_S2.wav lovel=$v12in hivel=$v12out seq_position=1
-<region> sample=E1_SN01OpP_STRe_PIe0_4_26_S2.wav lovel=$v1in  hivel=$v1out  seq_position=2
-<region> sample=E1_SN01OpP_STRe_PIe0_4_27_S2.wav lovel=$v2in  hivel=$v2out  seq_position=2
-<region> sample=E1_SN01OpP_STRe_PIe0_4_28_S2.wav lovel=$v3in  hivel=$v3out  seq_position=2
-<region> sample=E1_SN01OpP_STRe_PIe0_4_29_S2.wav lovel=$v4in  hivel=$v4out  seq_position=2
-<region> sample=E1_SN01OpP_STRe_PIe0_4_30_S2.wav lovel=$v5in  hivel=$v5out  seq_position=2
-<region> sample=E1_SN01OpP_STRe_PIe0_4_31_S2.wav lovel=$v6in  hivel=$v6out  seq_position=2
-<region> sample=E1_SN01OpP_STRe_PIe0_4_32_S2.wav lovel=$v7in  hivel=$v7out  seq_position=2
-<region> sample=E1_SN01OpP_STRe_PIe0_4_33_S2.wav lovel=$v8in  hivel=$v8out  seq_position=2
-<region> sample=E1_SN01OpP_STRe_PIe0_4_34_S2.wav lovel=$v9in  hivel=$v9out  seq_position=2
-<region> sample=E1_SN01OpP_STRe_PIe0_4_35_S2.wav lovel=$v10in hivel=$v10out seq_position=2
-<region> sample=E1_SN01OpP_STRe_PIe0_4_36_S2.wav lovel=$v11in hivel=$v11out seq_position=2
-<region> sample=E1_SN01OpP_STRe_PIe0_4_37_S2.wav lovel=$v12in hivel=$v12out seq_position=2
-<region> sample=E1_SN01OpP_STRe_PIe0_4_51_S2.wav lovel=$v1in  hivel=$v1out  seq_position=3
-<region> sample=E1_SN01OpP_STRe_PIe0_4_52_S2.wav lovel=$v2in  hivel=$v2out  seq_position=3
-<region> sample=E1_SN01OpP_STRe_PIe0_4_53_S2.wav lovel=$v3in  hivel=$v3out  seq_position=3
-<region> sample=E1_SN01OpP_STRe_PIe0_4_54_S2.wav lovel=$v4in  hivel=$v4out  seq_position=3
-<region> sample=E1_SN01OpP_STRe_PIe0_4_55_S2.wav lovel=$v5in  hivel=$v5out  seq_position=3
-<region> sample=E1_SN01OpP_STRe_PIe0_4_56_S2.wav lovel=$v6in  hivel=$v6out  seq_position=3
-<region> sample=E1_SN01OpP_STRe_PIe0_4_57_S2.wav lovel=$v7in  hivel=$v7out  seq_position=3
-<region> sample=E1_SN01OpP_STRe_PIe0_4_58_S2.wav lovel=$v8in  hivel=$v8out  seq_position=3
-<region> sample=E1_SN01OpP_STRe_PIe0_4_59_S2.wav lovel=$v9in  hivel=$v9out  seq_position=3
-<region> sample=E1_SN01OpP_STRe_PIe0_4_60_S2.wav lovel=$v10in hivel=$v10out seq_position=3
-<region> sample=E1_SN01OpP_STRe_PIe0_4_61_S2.wav lovel=$v11in hivel=$v11out seq_position=3
-<region> sample=E1_SN01OpP_STRe_PIe0_4_62_S2.wav lovel=$v12in hivel=$v12out seq_position=3
+<region> sample=40 electric guitar les paul 1 01.wav lovel=$v1in  hivel=$v1out  seq_position=1
+<region> sample=40 electric guitar les paul 1 02.wav lovel=$v2in  hivel=$v2out  seq_position=1
+<region> sample=40 electric guitar les paul 1 03.wav lovel=$v3in  hivel=$v3out  seq_position=1
+<region> sample=40 electric guitar les paul 1 04.wav lovel=$v4in  hivel=$v4out  seq_position=1
+<region> sample=40 electric guitar les paul 1 05.wav lovel=$v5in  hivel=$v5out  seq_position=1
+<region> sample=40 electric guitar les paul 1 06.wav lovel=$v6in  hivel=$v6out  seq_position=1
+<region> sample=40 electric guitar les paul 1 07.wav lovel=$v7in  hivel=$v7out  seq_position=1
+<region> sample=40 electric guitar les paul 1 08.wav lovel=$v8in  hivel=$v8out  seq_position=1
+<region> sample=40 electric guitar les paul 1 09.wav lovel=$v9in  hivel=$v9out  seq_position=1
+<region> sample=40 electric guitar les paul 1 10.wav lovel=$v10in hivel=$v10out seq_position=1
+<region> sample=40 electric guitar les paul 1 11.wav lovel=$v11in hivel=$v11out seq_position=1
+<region> sample=40 electric guitar les paul 1 12.wav lovel=$v12in hivel=$v12out seq_position=1
+<region> sample=40 electric guitar les paul 2 01.wav lovel=$v1in  hivel=$v1out  seq_position=2
+<region> sample=40 electric guitar les paul 2 02.wav lovel=$v2in  hivel=$v2out  seq_position=2
+<region> sample=40 electric guitar les paul 2 03.wav lovel=$v3in  hivel=$v3out  seq_position=2
+<region> sample=40 electric guitar les paul 2 04.wav lovel=$v4in  hivel=$v4out  seq_position=2
+<region> sample=40 electric guitar les paul 2 05.wav lovel=$v5in  hivel=$v5out  seq_position=2
+<region> sample=40 electric guitar les paul 2 06.wav lovel=$v6in  hivel=$v6out  seq_position=2
+<region> sample=40 electric guitar les paul 2 07.wav lovel=$v7in  hivel=$v7out  seq_position=2
+<region> sample=40 electric guitar les paul 2 08.wav lovel=$v8in  hivel=$v8out  seq_position=2
+<region> sample=40 electric guitar les paul 2 09.wav lovel=$v9in  hivel=$v9out  seq_position=2
+<region> sample=40 electric guitar les paul 2 10.wav lovel=$v10in hivel=$v10out seq_position=2
+<region> sample=40 electric guitar les paul 2 11.wav lovel=$v11in hivel=$v11out seq_position=2
+<region> sample=40 electric guitar les paul 2 12.wav lovel=$v12in hivel=$v12out seq_position=2
+<region> sample=40 electric guitar les paul 3 01.wav lovel=$v1in  hivel=$v1out  seq_position=3
+<region> sample=40 electric guitar les paul 3 02.wav lovel=$v2in  hivel=$v2out  seq_position=3
+<region> sample=40 electric guitar les paul 3 03.wav lovel=$v3in  hivel=$v3out  seq_position=3
+<region> sample=40 electric guitar les paul 3 04.wav lovel=$v4in  hivel=$v4out  seq_position=3
+<region> sample=40 electric guitar les paul 3 05.wav lovel=$v5in  hivel=$v5out  seq_position=3
+<region> sample=40 electric guitar les paul 3 06.wav lovel=$v6in  hivel=$v6out  seq_position=3
+<region> sample=40 electric guitar les paul 3 07.wav lovel=$v7in  hivel=$v7out  seq_position=3
+<region> sample=40 electric guitar les paul 3 08.wav lovel=$v8in  hivel=$v8out  seq_position=3
+<region> sample=40 electric guitar les paul 3 09.wav lovel=$v9in  hivel=$v9out  seq_position=3
+<region> sample=40 electric guitar les paul 3 10.wav lovel=$v10in hivel=$v10out seq_position=3
+<region> sample=40 electric guitar les paul 3 11.wav lovel=$v11in hivel=$v11out seq_position=3
+<region> sample=40 electric guitar les paul 3 12.wav lovel=$v12in hivel=$v12out seq_position=3
 
 
 <group> key=45 lokey=43 hikey=47 seq_length=3
 
-<region> sample=E1_SN01OpP_STRa_PIa0_24_1_S2.wav  lovel=$v1in  hivel=$v1out  seq_position=1
-<region> sample=E1_SN01OpP_STRa_PIa0_24_2_S2.wav  lovel=$v2in  hivel=$v2out  seq_position=1
-<region> sample=E1_SN01OpP_STRa_PIa0_24_3_S2.wav  lovel=$v3in  hivel=$v3out  seq_position=1
-<region> sample=E1_SN01OpP_STRa_PIa0_24_4_S2.wav  lovel=$v4in  hivel=$v4out  seq_position=1
-<region> sample=E1_SN01OpP_STRa_PIa0_24_5_S2.wav  lovel=$v5in  hivel=$v5out  seq_position=1
-<region> sample=E1_SN01OpP_STRa_PIa0_24_6_S2.wav  lovel=$v6in  hivel=$v6out  seq_position=1
-<region> sample=E1_SN01OpP_STRa_PIa0_24_7_S2.wav  lovel=$v7in  hivel=$v7out  seq_position=1
-<region> sample=E1_SN01OpP_STRa_PIa0_24_8_S2.wav  lovel=$v8in  hivel=$v8out  seq_position=1
-<region> sample=E1_SN01OpP_STRa_PIa0_24_9_S2.wav  lovel=$v9in  hivel=$v9out  seq_position=1
-<region> sample=E1_SN01OpP_STRa_PIa0_24_10_S2.wav lovel=$v10in hivel=$v10out seq_position=1
-<region> sample=E1_SN01OpP_STRa_PIa0_24_11_S2.wav lovel=$v11in hivel=$v11out seq_position=1
-<region> sample=E1_SN01OpP_STRa_PIa0_24_12_S2.wav lovel=$v12in hivel=$v12out seq_position=1
-<region> sample=E1_SN01OpP_STRa_PIa0_24_26_S2.wav lovel=$v1in  hivel=$v1out  seq_position=2
-<region> sample=E1_SN01OpP_STRa_PIa0_24_27_S2.wav lovel=$v2in  hivel=$v2out  seq_position=2
-<region> sample=E1_SN01OpP_STRa_PIa0_24_28_S2.wav lovel=$v3in  hivel=$v3out  seq_position=2
-<region> sample=E1_SN01OpP_STRa_PIa0_24_29_S2.wav lovel=$v4in  hivel=$v4out  seq_position=2
-<region> sample=E1_SN01OpP_STRa_PIa0_24_30_S2.wav lovel=$v5in  hivel=$v5out  seq_position=2
-<region> sample=E1_SN01OpP_STRa_PIa0_24_31_S2.wav lovel=$v6in  hivel=$v6out  seq_position=2
-<region> sample=E1_SN01OpP_STRa_PIa0_24_32_S2.wav lovel=$v7in  hivel=$v7out  seq_position=2
-<region> sample=E1_SN01OpP_STRa_PIa0_24_33_S2.wav lovel=$v8in  hivel=$v8out  seq_position=2
-<region> sample=E1_SN01OpP_STRa_PIa0_24_34_S2.wav lovel=$v9in  hivel=$v9out  seq_position=2
-<region> sample=E1_SN01OpP_STRa_PIa0_24_35_S2.wav lovel=$v10in hivel=$v10out seq_position=2
-<region> sample=E1_SN01OpP_STRa_PIa0_24_36_S2.wav lovel=$v11in hivel=$v11out seq_position=2
-<region> sample=E1_SN01OpP_STRa_PIa0_24_37_S2.wav lovel=$v12in hivel=$v12out seq_position=2
-<region> sample=E1_SN01OpP_STRa_PIa0_24_51_S2.wav lovel=$v1in  hivel=$v1out  seq_position=3
-<region> sample=E1_SN01OpP_STRa_PIa0_24_52_S2.wav lovel=$v2in  hivel=$v2out  seq_position=3
-<region> sample=E1_SN01OpP_STRa_PIa0_24_53_S2.wav lovel=$v3in  hivel=$v3out  seq_position=3
-<region> sample=E1_SN01OpP_STRa_PIa0_24_54_S2.wav lovel=$v4in  hivel=$v4out  seq_position=3
-<region> sample=E1_SN01OpP_STRa_PIa0_24_55_S2.wav lovel=$v5in  hivel=$v5out  seq_position=3
-<region> sample=E1_SN01OpP_STRa_PIa0_24_56_S2.wav lovel=$v6in  hivel=$v6out  seq_position=3
-<region> sample=E1_SN01OpP_STRa_PIa0_24_57_S2.wav lovel=$v7in  hivel=$v7out  seq_position=3
-<region> sample=E1_SN01OpP_STRa_PIa0_24_58_S2.wav lovel=$v8in  hivel=$v8out  seq_position=3
-<region> sample=E1_SN01OpP_STRa_PIa0_24_59_S2.wav lovel=$v9in  hivel=$v9out  seq_position=3
-<region> sample=E1_SN01OpP_STRa_PIa0_24_60_S2.wav lovel=$v10in hivel=$v10out seq_position=3
-<region> sample=E1_SN01OpP_STRa_PIa0_24_61_S2.wav lovel=$v11in hivel=$v11out seq_position=3
-<region> sample=E1_SN01OpP_STRa_PIa0_24_62_S2.wav lovel=$v12in hivel=$v12out seq_position=3
+<region> sample=45 electric guitar les paul 1 01.wav lovel=$v1in  hivel=$v1out  seq_position=1
+<region> sample=45 electric guitar les paul 1 02.wav lovel=$v2in  hivel=$v2out  seq_position=1
+<region> sample=45 electric guitar les paul 1 03.wav lovel=$v3in  hivel=$v3out  seq_position=1
+<region> sample=45 electric guitar les paul 1 04.wav lovel=$v4in  hivel=$v4out  seq_position=1
+<region> sample=45 electric guitar les paul 1 05.wav lovel=$v5in  hivel=$v5out  seq_position=1
+<region> sample=45 electric guitar les paul 1 06.wav lovel=$v6in  hivel=$v6out  seq_position=1
+<region> sample=45 electric guitar les paul 1 07.wav lovel=$v7in  hivel=$v7out  seq_position=1
+<region> sample=45 electric guitar les paul 1 08.wav lovel=$v8in  hivel=$v8out  seq_position=1
+<region> sample=45 electric guitar les paul 1 09.wav lovel=$v9in  hivel=$v9out  seq_position=1
+<region> sample=45 electric guitar les paul 1 10.wav lovel=$v10in hivel=$v10out seq_position=1
+<region> sample=45 electric guitar les paul 1 11.wav lovel=$v11in hivel=$v11out seq_position=1
+<region> sample=45 electric guitar les paul 1 12.wav lovel=$v12in hivel=$v12out seq_position=1
+<region> sample=45 electric guitar les paul 2 01.wav lovel=$v1in  hivel=$v1out  seq_position=2
+<region> sample=45 electric guitar les paul 2 02.wav lovel=$v2in  hivel=$v2out  seq_position=2
+<region> sample=45 electric guitar les paul 2 03.wav lovel=$v3in  hivel=$v3out  seq_position=2
+<region> sample=45 electric guitar les paul 2 04.wav lovel=$v4in  hivel=$v4out  seq_position=2
+<region> sample=45 electric guitar les paul 2 05.wav lovel=$v5in  hivel=$v5out  seq_position=2
+<region> sample=45 electric guitar les paul 2 06.wav lovel=$v6in  hivel=$v6out  seq_position=2
+<region> sample=45 electric guitar les paul 2 07.wav lovel=$v7in  hivel=$v7out  seq_position=2
+<region> sample=45 electric guitar les paul 2 08.wav lovel=$v8in  hivel=$v8out  seq_position=2
+<region> sample=45 electric guitar les paul 2 09.wav lovel=$v9in  hivel=$v9out  seq_position=2
+<region> sample=45 electric guitar les paul 2 10.wav lovel=$v10in hivel=$v10out seq_position=2
+<region> sample=45 electric guitar les paul 2 11.wav lovel=$v11in hivel=$v11out seq_position=2
+<region> sample=45 electric guitar les paul 2 12.wav lovel=$v12in hivel=$v12out seq_position=2
+<region> sample=45 electric guitar les paul 3 01.wav lovel=$v1in  hivel=$v1out  seq_position=3
+<region> sample=45 electric guitar les paul 3 02.wav lovel=$v2in  hivel=$v2out  seq_position=3
+<region> sample=45 electric guitar les paul 3 03.wav lovel=$v3in  hivel=$v3out  seq_position=3
+<region> sample=45 electric guitar les paul 3 04.wav lovel=$v4in  hivel=$v4out  seq_position=3
+<region> sample=45 electric guitar les paul 3 05.wav lovel=$v5in  hivel=$v5out  seq_position=3
+<region> sample=45 electric guitar les paul 3 06.wav lovel=$v6in  hivel=$v6out  seq_position=3
+<region> sample=45 electric guitar les paul 3 07.wav lovel=$v7in  hivel=$v7out  seq_position=3
+<region> sample=45 electric guitar les paul 3 08.wav lovel=$v8in  hivel=$v8out  seq_position=3
+<region> sample=45 electric guitar les paul 3 09.wav lovel=$v9in  hivel=$v9out  seq_position=3
+<region> sample=45 electric guitar les paul 3 10.wav lovel=$v10in hivel=$v10out seq_position=3
+<region> sample=45 electric guitar les paul 3 11.wav lovel=$v11in hivel=$v11out seq_position=3
+<region> sample=45 electric guitar les paul 3 12.wav lovel=$v12in hivel=$v12out seq_position=3
 
 
 <group> key=50 lokey=48 hikey=52 seq_length=3
-<region> sample=E1_SN01OpP_STRd_PId1_44_1_S2.wav  lovel=$v1in  hivel=$v1out  seq_position=1
-<region> sample=E1_SN01OpP_STRd_PId1_44_2_S2.wav  lovel=$v2in  hivel=$v2out  seq_position=1
-<region> sample=E1_SN01OpP_STRd_PId1_44_3_S2.wav  lovel=$v3in  hivel=$v3out  seq_position=1
-<region> sample=E1_SN01OpP_STRd_PId1_44_4_S2.wav  lovel=$v4in  hivel=$v4out  seq_position=1
-<region> sample=E1_SN01OpP_STRd_PId1_44_5_S2.wav  lovel=$v5in  hivel=$v5out  seq_position=1
-<region> sample=E1_SN01OpP_STRd_PId1_44_6_S2.wav  lovel=$v6in  hivel=$v6out  seq_position=1
-<region> sample=E1_SN01OpP_STRd_PId1_44_7_S2.wav  lovel=$v7in  hivel=$v7out  seq_position=1
-<region> sample=E1_SN01OpP_STRd_PId1_44_8_S2.wav  lovel=$v8in  hivel=$v8out  seq_position=1
-<region> sample=E1_SN01OpP_STRd_PId1_44_9_S2.wav  lovel=$v9in  hivel=$v9out  seq_position=1
-<region> sample=E1_SN01OpP_STRd_PId1_44_10_S2.wav lovel=$v10in hivel=$v10out seq_position=1
-<region> sample=E1_SN01OpP_STRd_PId1_44_11_S2.wav lovel=$v11in hivel=$v11out seq_position=1
-<region> sample=E1_SN01OpP_STRd_PId1_44_12_S2.wav lovel=$v12in hivel=$v12out seq_position=1
-<region> sample=E1_SN01OpP_STRd_PId1_44_26_S2.wav lovel=$v1in  hivel=$v1out  seq_position=2
-<region> sample=E1_SN01OpP_STRd_PId1_44_27_S2.wav lovel=$v2in  hivel=$v2out  seq_position=2
-<region> sample=E1_SN01OpP_STRd_PId1_44_28_S2.wav lovel=$v3in  hivel=$v3out  seq_position=2
-<region> sample=E1_SN01OpP_STRd_PId1_44_29_S2.wav lovel=$v4in  hivel=$v4out  seq_position=2
-<region> sample=E1_SN01OpP_STRd_PId1_44_30_S2.wav lovel=$v5in  hivel=$v5out  seq_position=2
-<region> sample=E1_SN01OpP_STRd_PId1_44_31_S2.wav lovel=$v6in  hivel=$v6out  seq_position=2
-<region> sample=E1_SN01OpP_STRd_PId1_44_32_S2.wav lovel=$v7in  hivel=$v7out  seq_position=2
-<region> sample=E1_SN01OpP_STRd_PId1_44_33_S2.wav lovel=$v8in  hivel=$v8out  seq_position=2
-<region> sample=E1_SN01OpP_STRd_PId1_44_34_S2.wav lovel=$v9in  hivel=$v9out  seq_position=2
-<region> sample=E1_SN01OpP_STRd_PId1_44_35_S2.wav lovel=$v10in hivel=$v10out seq_position=2
-<region> sample=E1_SN01OpP_STRd_PId1_44_36_S2.wav lovel=$v11in hivel=$v11out seq_position=2
-<region> sample=E1_SN01OpP_STRd_PId1_44_37_S2.wav lovel=$v12in hivel=$v12out seq_position=2
-<region> sample=E1_SN01OpP_STRd_PId1_44_51_S2.wav lovel=$v1in  hivel=$v1out  seq_position=3
-<region> sample=E1_SN01OpP_STRd_PId1_44_52_S2.wav lovel=$v2in  hivel=$v2out  seq_position=3
-<region> sample=E1_SN01OpP_STRd_PId1_44_53_S2.wav lovel=$v3in  hivel=$v3out  seq_position=3
-<region> sample=E1_SN01OpP_STRd_PId1_44_54_S2.wav lovel=$v4in  hivel=$v4out  seq_position=3
-<region> sample=E1_SN01OpP_STRd_PId1_44_55_S2.wav lovel=$v5in  hivel=$v5out  seq_position=3
-<region> sample=E1_SN01OpP_STRd_PId1_44_56_S2.wav lovel=$v6in  hivel=$v6out  seq_position=3
-<region> sample=E1_SN01OpP_STRd_PId1_44_57_S2.wav lovel=$v7in  hivel=$v7out  seq_position=3
-<region> sample=E1_SN01OpP_STRd_PId1_44_58_S2.wav lovel=$v8in  hivel=$v8out  seq_position=3
-<region> sample=E1_SN01OpP_STRd_PId1_44_59_S2.wav lovel=$v9in  hivel=$v9out  seq_position=3
-<region> sample=E1_SN01OpP_STRd_PId1_44_60_S2.wav lovel=$v10in hivel=$v10out seq_position=3
-<region> sample=E1_SN01OpP_STRd_PId1_44_61_S2.wav lovel=$v11in hivel=$v11out seq_position=3
-<region> sample=E1_SN01OpP_STRd_PId1_44_62_S2.wav lovel=$v12in hivel=$v12out seq_position=3
+<region> sample=50 electric guitar les paul 1 01.wav lovel=$v1in  hivel=$v1out  seq_position=1
+<region> sample=50 electric guitar les paul 1 02.wav lovel=$v2in  hivel=$v2out  seq_position=1
+<region> sample=50 electric guitar les paul 1 03.wav lovel=$v3in  hivel=$v3out  seq_position=1
+<region> sample=50 electric guitar les paul 1 04.wav lovel=$v4in  hivel=$v4out  seq_position=1
+<region> sample=50 electric guitar les paul 1 05.wav lovel=$v5in  hivel=$v5out  seq_position=1
+<region> sample=50 electric guitar les paul 1 06.wav lovel=$v6in  hivel=$v6out  seq_position=1
+<region> sample=50 electric guitar les paul 1 07.wav lovel=$v7in  hivel=$v7out  seq_position=1
+<region> sample=50 electric guitar les paul 1 08.wav lovel=$v8in  hivel=$v8out  seq_position=1
+<region> sample=50 electric guitar les paul 1 09.wav lovel=$v9in  hivel=$v9out  seq_position=1
+<region> sample=50 electric guitar les paul 1 10.wav lovel=$v10in hivel=$v10out seq_position=1
+<region> sample=50 electric guitar les paul 1 11.wav lovel=$v11in hivel=$v11out seq_position=1
+<region> sample=50 electric guitar les paul 1 12.wav lovel=$v12in hivel=$v12out seq_position=1
+<region> sample=50 electric guitar les paul 2 01.wav lovel=$v1in  hivel=$v1out  seq_position=2
+<region> sample=50 electric guitar les paul 2 02.wav lovel=$v2in  hivel=$v2out  seq_position=2
+<region> sample=50 electric guitar les paul 2 03.wav lovel=$v3in  hivel=$v3out  seq_position=2
+<region> sample=50 electric guitar les paul 2 04.wav lovel=$v4in  hivel=$v4out  seq_position=2
+<region> sample=50 electric guitar les paul 2 05.wav lovel=$v5in  hivel=$v5out  seq_position=2
+<region> sample=50 electric guitar les paul 2 06.wav lovel=$v6in  hivel=$v6out  seq_position=2
+<region> sample=50 electric guitar les paul 2 07.wav lovel=$v7in  hivel=$v7out  seq_position=2
+<region> sample=50 electric guitar les paul 2 08.wav lovel=$v8in  hivel=$v8out  seq_position=2
+<region> sample=50 electric guitar les paul 2 09.wav lovel=$v9in  hivel=$v9out  seq_position=2
+<region> sample=50 electric guitar les paul 2 10.wav lovel=$v10in hivel=$v10out seq_position=2
+<region> sample=50 electric guitar les paul 2 11.wav lovel=$v11in hivel=$v11out seq_position=2
+<region> sample=50 electric guitar les paul 2 12.wav lovel=$v12in hivel=$v12out seq_position=2
+<region> sample=50 electric guitar les paul 3 01.wav lovel=$v1in  hivel=$v1out  seq_position=3
+<region> sample=50 electric guitar les paul 3 02.wav lovel=$v2in  hivel=$v2out  seq_position=3
+<region> sample=50 electric guitar les paul 3 03.wav lovel=$v3in  hivel=$v3out  seq_position=3
+<region> sample=50 electric guitar les paul 3 04.wav lovel=$v4in  hivel=$v4out  seq_position=3
+<region> sample=50 electric guitar les paul 3 05.wav lovel=$v5in  hivel=$v5out  seq_position=3
+<region> sample=50 electric guitar les paul 3 06.wav lovel=$v6in  hivel=$v6out  seq_position=3
+<region> sample=50 electric guitar les paul 3 07.wav lovel=$v7in  hivel=$v7out  seq_position=3
+<region> sample=50 electric guitar les paul 3 08.wav lovel=$v8in  hivel=$v8out  seq_position=3
+<region> sample=50 electric guitar les paul 3 09.wav lovel=$v9in  hivel=$v9out  seq_position=3
+<region> sample=50 electric guitar les paul 3 10.wav lovel=$v10in hivel=$v10out seq_position=3
+<region> sample=50 electric guitar les paul 3 11.wav lovel=$v11in hivel=$v11out seq_position=3
+<region> sample=50 electric guitar les paul 3 12.wav lovel=$v12in hivel=$v12out seq_position=3
 
 <group> key=55 lokey=53 hikey=57 seq_length=3
-<region> sample=E1_SN01OpP_STRg_PIg1_64_1_S2.wav  lovel=$v1in  hivel=$v1out  seq_position=1
-<region> sample=E1_SN01OpP_STRg_PIg1_64_2_S2.wav  lovel=$v2in  hivel=$v2out  seq_position=1
-<region> sample=E1_SN01OpP_STRg_PIg1_64_3_S2.wav  lovel=$v3in  hivel=$v3out  seq_position=1
-<region> sample=E1_SN01OpP_STRg_PIg1_64_4_S2.wav  lovel=$v4in  hivel=$v4out  seq_position=1
-<region> sample=E1_SN01OpP_STRg_PIg1_64_5_S2.wav  lovel=$v5in  hivel=$v5out  seq_position=1
-<region> sample=E1_SN01OpP_STRg_PIg1_64_6_S2.wav  lovel=$v6in  hivel=$v6out  seq_position=1
-<region> sample=E1_SN01OpP_STRg_PIg1_64_7_S2.wav  lovel=$v7in  hivel=$v7out  seq_position=1
-<region> sample=E1_SN01OpP_STRg_PIg1_64_8_S2.wav  lovel=$v8in  hivel=$v8out  seq_position=1
-<region> sample=E1_SN01OpP_STRg_PIg1_64_9_S2.wav  lovel=$v9in  hivel=$v9out  seq_position=1
-<region> sample=E1_SN01OpP_STRg_PIg1_64_10_S2.wav lovel=$v10in hivel=$v10out seq_position=1
-<region> sample=E1_SN01OpP_STRg_PIg1_64_11_S2.wav lovel=$v11in hivel=$v11out seq_position=1
-<region> sample=E1_SN01OpP_STRg_PIg1_64_12_S2.wav lovel=$v12in hivel=$v12out seq_position=1
-<region> sample=E1_SN01OpP_STRg_PIg1_64_26_S2.wav lovel=$v1in  hivel=$v1out  seq_position=2
-<region> sample=E1_SN01OpP_STRg_PIg1_64_27_S2.wav lovel=$v2in  hivel=$v2out  seq_position=2
-<region> sample=E1_SN01OpP_STRg_PIg1_64_28_S2.wav lovel=$v3in  hivel=$v3out  seq_position=2
-<region> sample=E1_SN01OpP_STRg_PIg1_64_29_S2.wav lovel=$v4in  hivel=$v4out  seq_position=2
-<region> sample=E1_SN01OpP_STRg_PIg1_64_30_S2.wav lovel=$v5in  hivel=$v5out  seq_position=2
-<region> sample=E1_SN01OpP_STRg_PIg1_64_31_S2.wav lovel=$v6in  hivel=$v6out  seq_position=2
-<region> sample=E1_SN01OpP_STRg_PIg1_64_32_S2.wav lovel=$v7in  hivel=$v7out  seq_position=2
-<region> sample=E1_SN01OpP_STRg_PIg1_64_33_S2.wav lovel=$v8in  hivel=$v8out  seq_position=2
-<region> sample=E1_SN01OpP_STRg_PIg1_64_34_S2.wav lovel=$v9in  hivel=$v9out  seq_position=2
-<region> sample=E1_SN01OpP_STRg_PIg1_64_35_S2.wav lovel=$v10in hivel=$v10out seq_position=2
-<region> sample=E1_SN01OpP_STRg_PIg1_64_36_S2.wav lovel=$v11in hivel=$v11out seq_position=2
-<region> sample=E1_SN01OpP_STRg_PIg1_64_37_S2.wav lovel=$v12in hivel=$v12out seq_position=2
-<region> sample=E1_SN01OpP_STRg_PIg1_64_51_S2.wav lovel=$v1in  hivel=$v1out  seq_position=3
-<region> sample=E1_SN01OpP_STRg_PIg1_64_52_S2.wav lovel=$v2in  hivel=$v2out  seq_position=3
-<region> sample=E1_SN01OpP_STRg_PIg1_64_53_S2.wav lovel=$v3in  hivel=$v3out  seq_position=3
-<region> sample=E1_SN01OpP_STRg_PIg1_64_54_S2.wav lovel=$v4in  hivel=$v4out  seq_position=3
-<region> sample=E1_SN01OpP_STRg_PIg1_64_55_S2.wav lovel=$v5in  hivel=$v5out  seq_position=3
-<region> sample=E1_SN01OpP_STRg_PIg1_64_56_S2.wav lovel=$v6in  hivel=$v6out  seq_position=3
-<region> sample=E1_SN01OpP_STRg_PIg1_64_57_S2.wav lovel=$v7in  hivel=$v7out  seq_position=3
-<region> sample=E1_SN01OpP_STRg_PIg1_64_58_S2.wav lovel=$v8in  hivel=$v8out  seq_position=3
-<region> sample=E1_SN01OpP_STRg_PIg1_64_59_S2.wav lovel=$v9in  hivel=$v9out  seq_position=3
-<region> sample=E1_SN01OpP_STRg_PIg1_64_60_S2.wav lovel=$v10in hivel=$v10out seq_position=3
-<region> sample=E1_SN01OpP_STRg_PIg1_64_61_S2.wav lovel=$v11in hivel=$v11out seq_position=3
-<region> sample=E1_SN01OpP_STRg_PIg1_64_62_S2.wav lovel=$v12in hivel=$v12out seq_position=3
+<region> sample=55 electric guitar les paul 1 01.wav lovel=$v1in  hivel=$v1out  seq_position=1
+<region> sample=55 electric guitar les paul 1 02.wav lovel=$v2in  hivel=$v2out  seq_position=1
+<region> sample=55 electric guitar les paul 1 03.wav lovel=$v3in  hivel=$v3out  seq_position=1
+<region> sample=55 electric guitar les paul 1 04.wav lovel=$v4in  hivel=$v4out  seq_position=1
+<region> sample=55 electric guitar les paul 1 05.wav lovel=$v5in  hivel=$v5out  seq_position=1
+<region> sample=55 electric guitar les paul 1 06.wav lovel=$v6in  hivel=$v6out  seq_position=1
+<region> sample=55 electric guitar les paul 1 07.wav lovel=$v7in  hivel=$v7out  seq_position=1
+<region> sample=55 electric guitar les paul 1 08.wav lovel=$v8in  hivel=$v8out  seq_position=1
+<region> sample=55 electric guitar les paul 1 09.wav lovel=$v9in  hivel=$v9out  seq_position=1
+<region> sample=55 electric guitar les paul 1 10.wav lovel=$v10in hivel=$v10out seq_position=1
+<region> sample=55 electric guitar les paul 1 11.wav lovel=$v11in hivel=$v11out seq_position=1
+<region> sample=55 electric guitar les paul 1 12.wav lovel=$v12in hivel=$v12out seq_position=1
+<region> sample=55 electric guitar les paul 2 01.wav lovel=$v1in  hivel=$v1out  seq_position=2
+<region> sample=55 electric guitar les paul 2 02.wav lovel=$v2in  hivel=$v2out  seq_position=2
+<region> sample=55 electric guitar les paul 2 03.wav lovel=$v3in  hivel=$v3out  seq_position=2
+<region> sample=55 electric guitar les paul 2 04.wav lovel=$v4in  hivel=$v4out  seq_position=2
+<region> sample=55 electric guitar les paul 2 05.wav lovel=$v5in  hivel=$v5out  seq_position=2
+<region> sample=55 electric guitar les paul 2 06.wav lovel=$v6in  hivel=$v6out  seq_position=2
+<region> sample=55 electric guitar les paul 2 07.wav lovel=$v7in  hivel=$v7out  seq_position=2
+<region> sample=55 electric guitar les paul 2 08.wav lovel=$v8in  hivel=$v8out  seq_position=2
+<region> sample=55 electric guitar les paul 2 09.wav lovel=$v9in  hivel=$v9out  seq_position=2
+<region> sample=55 electric guitar les paul 2 10.wav lovel=$v10in hivel=$v10out seq_position=2
+<region> sample=55 electric guitar les paul 2 11.wav lovel=$v11in hivel=$v11out seq_position=2
+<region> sample=55 electric guitar les paul 2 12.wav lovel=$v12in hivel=$v12out seq_position=2
+<region> sample=55 electric guitar les paul 3 01.wav lovel=$v1in  hivel=$v1out  seq_position=3
+<region> sample=55 electric guitar les paul 3 02.wav lovel=$v2in  hivel=$v2out  seq_position=3
+<region> sample=55 electric guitar les paul 3 03.wav lovel=$v3in  hivel=$v3out  seq_position=3
+<region> sample=55 electric guitar les paul 3 04.wav lovel=$v4in  hivel=$v4out  seq_position=3
+<region> sample=55 electric guitar les paul 3 05.wav lovel=$v5in  hivel=$v5out  seq_position=3
+<region> sample=55 electric guitar les paul 3 06.wav lovel=$v6in  hivel=$v6out  seq_position=3
+<region> sample=55 electric guitar les paul 3 07.wav lovel=$v7in  hivel=$v7out  seq_position=3
+<region> sample=55 electric guitar les paul 3 08.wav lovel=$v8in  hivel=$v8out  seq_position=3
+<region> sample=55 electric guitar les paul 3 09.wav lovel=$v9in  hivel=$v9out  seq_position=3
+<region> sample=55 electric guitar les paul 3 10.wav lovel=$v10in hivel=$v10out seq_position=3
+<region> sample=55 electric guitar les paul 3 11.wav lovel=$v11in hivel=$v11out seq_position=3
+<region> sample=55 electric guitar les paul 3 12.wav lovel=$v12in hivel=$v12out seq_position=3
 
 <group> key=59 lokey=58 hikey=61 seq_length=3
-<region> sample=E1_SN01OpP_STRh_PIh1_84_1_S2.wav  lovel=$v1in  hivel=$v1out  seq_position=1
-<region> sample=E1_SN01OpP_STRh_PIh1_84_2_S2.wav  lovel=$v2in  hivel=$v2out  seq_position=1
-<region> sample=E1_SN01OpP_STRh_PIh1_84_3_S2.wav  lovel=$v3in  hivel=$v3out  seq_position=1
-<region> sample=E1_SN01OpP_STRh_PIh1_84_4_S2.wav  lovel=$v4in  hivel=$v4out  seq_position=1
-<region> sample=E1_SN01OpP_STRh_PIh1_84_5_S2.wav  lovel=$v5in  hivel=$v5out  seq_position=1
-<region> sample=E1_SN01OpP_STRh_PIh1_84_6_S2.wav  lovel=$v6in  hivel=$v6out  seq_position=1
-<region> sample=E1_SN01OpP_STRh_PIh1_84_7_S2.wav  lovel=$v7in  hivel=$v7out  seq_position=1
-<region> sample=E1_SN01OpP_STRh_PIh1_84_8_S2.wav  lovel=$v8in  hivel=$v8out  seq_position=1
-<region> sample=E1_SN01OpP_STRh_PIh1_84_9_S2.wav  lovel=$v9in  hivel=$v9out  seq_position=1
-<region> sample=E1_SN01OpP_STRh_PIh1_84_10_S2.wav lovel=$v10in hivel=$v10out seq_position=1
-<region> sample=E1_SN01OpP_STRh_PIh1_84_11_S2.wav lovel=$v11in hivel=$v11out seq_position=1
-<region> sample=E1_SN01OpP_STRh_PIh1_84_12_S2.wav lovel=$v12in hivel=$v12out seq_position=1
-<region> sample=E1_SN01OpP_STRh_PIh1_84_26_S2.wav lovel=$v1in  hivel=$v1out  seq_position=2
-<region> sample=E1_SN01OpP_STRh_PIh1_84_27_S2.wav lovel=$v2in  hivel=$v2out  seq_position=2
-<region> sample=E1_SN01OpP_STRh_PIh1_84_28_S2.wav lovel=$v3in  hivel=$v3out  seq_position=2
-<region> sample=E1_SN01OpP_STRh_PIh1_84_29_S2.wav lovel=$v4in  hivel=$v4out  seq_position=2
-<region> sample=E1_SN01OpP_STRh_PIh1_84_30_S2.wav lovel=$v5in  hivel=$v5out  seq_position=2
-<region> sample=E1_SN01OpP_STRh_PIh1_84_31_S2.wav lovel=$v6in  hivel=$v6out  seq_position=2
-<region> sample=E1_SN01OpP_STRh_PIh1_84_32_S2.wav lovel=$v7in  hivel=$v7out  seq_position=2
-<region> sample=E1_SN01OpP_STRh_PIh1_84_33_S2.wav lovel=$v8in  hivel=$v8out  seq_position=2
-<region> sample=E1_SN01OpP_STRh_PIh1_84_34_S2.wav lovel=$v9in  hivel=$v9out  seq_position=2
-<region> sample=E1_SN01OpP_STRh_PIh1_84_35_S2.wav lovel=$v10in hivel=$v10out seq_position=2
-<region> sample=E1_SN01OpP_STRh_PIh1_84_36_S2.wav lovel=$v11in hivel=$v11out seq_position=2
-<region> sample=E1_SN01OpP_STRh_PIh1_84_37_S2.wav lovel=$v12in hivel=$v12out seq_position=2
-<region> sample=E1_SN01OpP_STRh_PIh1_84_51_S2.wav lovel=$v1in  hivel=$v1out  seq_position=3
-<region> sample=E1_SN01OpP_STRh_PIh1_84_52_S2.wav lovel=$v2in  hivel=$v2out  seq_position=3
-<region> sample=E1_SN01OpP_STRh_PIh1_84_53_S2.wav lovel=$v3in  hivel=$v3out  seq_position=3
-<region> sample=E1_SN01OpP_STRh_PIh1_84_54_S2.wav lovel=$v4in  hivel=$v4out  seq_position=3
-<region> sample=E1_SN01OpP_STRh_PIh1_84_55_S2.wav lovel=$v5in  hivel=$v5out  seq_position=3
-<region> sample=E1_SN01OpP_STRh_PIh1_84_56_S2.wav lovel=$v6in  hivel=$v6out  seq_position=3
-<region> sample=E1_SN01OpP_STRh_PIh1_84_57_S2.wav lovel=$v7in  hivel=$v7out  seq_position=3
-<region> sample=E1_SN01OpP_STRh_PIh1_84_58_S2.wav lovel=$v8in  hivel=$v8out  seq_position=3
-<region> sample=E1_SN01OpP_STRh_PIh1_84_59_S2.wav lovel=$v9in  hivel=$v9out  seq_position=3
-<region> sample=E1_SN01OpP_STRh_PIh1_84_60_S2.wav lovel=$v10in hivel=$v10out seq_position=3
-<region> sample=E1_SN01OpP_STRh_PIh1_84_61_S2.wav lovel=$v11in hivel=$v11out seq_position=3
-<region> sample=E1_SN01OpP_STRh_PIh1_84_62_S2.wav lovel=$v12in hivel=$v12out seq_position=3
+<region> sample=59 electric guitar les paul 1 01.wav lovel=$v1in  hivel=$v1out  seq_position=1
+<region> sample=59 electric guitar les paul 1 02.wav lovel=$v2in  hivel=$v2out  seq_position=1
+<region> sample=59 electric guitar les paul 1 03.wav lovel=$v3in  hivel=$v3out  seq_position=1
+<region> sample=59 electric guitar les paul 1 04.wav lovel=$v4in  hivel=$v4out  seq_position=1
+<region> sample=59 electric guitar les paul 1 05.wav lovel=$v5in  hivel=$v5out  seq_position=1
+<region> sample=59 electric guitar les paul 1 06.wav lovel=$v6in  hivel=$v6out  seq_position=1
+<region> sample=59 electric guitar les paul 1 07.wav lovel=$v7in  hivel=$v7out  seq_position=1
+<region> sample=59 electric guitar les paul 1 08.wav lovel=$v8in  hivel=$v8out  seq_position=1
+<region> sample=59 electric guitar les paul 1 09.wav lovel=$v9in  hivel=$v9out  seq_position=1
+<region> sample=59 electric guitar les paul 1 10.wav lovel=$v10in hivel=$v10out seq_position=1
+<region> sample=59 electric guitar les paul 1 11.wav lovel=$v11in hivel=$v11out seq_position=1
+<region> sample=59 electric guitar les paul 1 12.wav lovel=$v12in hivel=$v12out seq_position=1
+<region> sample=59 electric guitar les paul 2 01.wav lovel=$v1in  hivel=$v1out  seq_position=2
+<region> sample=59 electric guitar les paul 2 02.wav lovel=$v2in  hivel=$v2out  seq_position=2
+<region> sample=59 electric guitar les paul 2 03.wav lovel=$v3in  hivel=$v3out  seq_position=2
+<region> sample=59 electric guitar les paul 2 04.wav lovel=$v4in  hivel=$v4out  seq_position=2
+<region> sample=59 electric guitar les paul 2 05.wav lovel=$v5in  hivel=$v5out  seq_position=2
+<region> sample=59 electric guitar les paul 2 06.wav lovel=$v6in  hivel=$v6out  seq_position=2
+<region> sample=59 electric guitar les paul 2 07.wav lovel=$v7in  hivel=$v7out  seq_position=2
+<region> sample=59 electric guitar les paul 2 08.wav lovel=$v8in  hivel=$v8out  seq_position=2
+<region> sample=59 electric guitar les paul 2 09.wav lovel=$v9in  hivel=$v9out  seq_position=2
+<region> sample=59 electric guitar les paul 2 10.wav lovel=$v10in hivel=$v10out seq_position=2
+<region> sample=59 electric guitar les paul 2 11.wav lovel=$v11in hivel=$v11out seq_position=2
+<region> sample=59 electric guitar les paul 2 12.wav lovel=$v12in hivel=$v12out seq_position=2
+<region> sample=59 electric guitar les paul 3 01.wav lovel=$v1in  hivel=$v1out  seq_position=3
+<region> sample=59 electric guitar les paul 3 02.wav lovel=$v2in  hivel=$v2out  seq_position=3
+<region> sample=59 electric guitar les paul 3 03.wav lovel=$v3in  hivel=$v3out  seq_position=3
+<region> sample=59 electric guitar les paul 3 04.wav lovel=$v4in  hivel=$v4out  seq_position=3
+<region> sample=59 electric guitar les paul 3 05.wav lovel=$v5in  hivel=$v5out  seq_position=3
+<region> sample=59 electric guitar les paul 3 06.wav lovel=$v6in  hivel=$v6out  seq_position=3
+<region> sample=59 electric guitar les paul 3 07.wav lovel=$v7in  hivel=$v7out  seq_position=3
+<region> sample=59 electric guitar les paul 3 08.wav lovel=$v8in  hivel=$v8out  seq_position=3
+<region> sample=59 electric guitar les paul 3 09.wav lovel=$v9in  hivel=$v9out  seq_position=3
+<region> sample=59 electric guitar les paul 3 10.wav lovel=$v10in hivel=$v10out seq_position=3
+<region> sample=59 electric guitar les paul 3 11.wav lovel=$v11in hivel=$v11out seq_position=3
+<region> sample=59 electric guitar les paul 3 12.wav lovel=$v12in hivel=$v12out seq_position=3
 
 <group> key=64 lokey=62 hikey=72 seq_length=3
-<region> sample=E1_SN01OpP_STRi_PIe2_104_1_S2.wav  lovel=$v1in  hivel=$v1out  seq_position=1
-<region> sample=E1_SN01OpP_STRi_PIe2_104_2_S2.wav  lovel=$v2in  hivel=$v2out  seq_position=1
-<region> sample=E1_SN01OpP_STRi_PIe2_104_3_S2.wav  lovel=$v3in  hivel=$v3out  seq_position=1
-<region> sample=E1_SN01OpP_STRi_PIe2_104_4_S2.wav  lovel=$v4in  hivel=$v4out  seq_position=1
-<region> sample=E1_SN01OpP_STRi_PIe2_104_5_S2.wav  lovel=$v5in  hivel=$v5out  seq_position=1
-<region> sample=E1_SN01OpP_STRi_PIe2_104_6_S2.wav  lovel=$v6in  hivel=$v6out  seq_position=1
-<region> sample=E1_SN01OpP_STRi_PIe2_104_7_S2.wav  lovel=$v7in  hivel=$v7out  seq_position=1
-<region> sample=E1_SN01OpP_STRi_PIe2_104_8_S2.wav  lovel=$v8in  hivel=$v8out  seq_position=1
-<region> sample=E1_SN01OpP_STRi_PIe2_104_9_S2.wav  lovel=$v9in  hivel=$v9out  seq_position=1
-<region> sample=E1_SN01OpP_STRi_PIe2_104_10_S2.wav lovel=$v10in hivel=$v10out seq_position=1
-<region> sample=E1_SN01OpP_STRi_PIe2_104_11_S2.wav lovel=$v11in hivel=$v11out seq_position=1
-<region> sample=E1_SN01OpP_STRi_PIe2_104_12_S2.wav lovel=$v12in hivel=$v12out seq_position=1
-<region> sample=E1_SN01OpP_STRi_PIe2_104_26_S2.wav lovel=$v1in  hivel=$v1out  seq_position=2
-<region> sample=E1_SN01OpP_STRi_PIe2_104_27_S2.wav lovel=$v2in  hivel=$v2out  seq_position=2
-<region> sample=E1_SN01OpP_STRi_PIe2_104_28_S2.wav lovel=$v3in  hivel=$v3out  seq_position=2
-<region> sample=E1_SN01OpP_STRi_PIe2_104_29_S2.wav lovel=$v4in  hivel=$v4out  seq_position=2
-<region> sample=E1_SN01OpP_STRi_PIe2_104_30_S2.wav lovel=$v5in  hivel=$v5out  seq_position=2
-<region> sample=E1_SN01OpP_STRi_PIe2_104_31_S2.wav lovel=$v6in  hivel=$v6out  seq_position=2
-<region> sample=E1_SN01OpP_STRi_PIe2_104_32_S2.wav lovel=$v7in  hivel=$v7out  seq_position=2
-<region> sample=E1_SN01OpP_STRi_PIe2_104_33_S2.wav lovel=$v8in  hivel=$v8out  seq_position=2
-<region> sample=E1_SN01OpP_STRi_PIe2_104_34_S2.wav lovel=$v9in  hivel=$v9out  seq_position=2
-<region> sample=E1_SN01OpP_STRi_PIe2_104_35_S2.wav lovel=$v10in hivel=$v10out seq_position=2
-<region> sample=E1_SN01OpP_STRi_PIe2_104_36_S2.wav lovel=$v11in hivel=$v11out seq_position=2
-<region> sample=E1_SN01OpP_STRi_PIe2_104_37_S2.wav lovel=$v12in hivel=$v12out seq_position=2
-<region> sample=E1_SN01OpP_STRi_PIe2_104_51_S2.wav lovel=$v1in  hivel=$v1out  seq_position=3
-<region> sample=E1_SN01OpP_STRi_PIe2_104_52_S2.wav lovel=$v2in  hivel=$v2out  seq_position=3
-<region> sample=E1_SN01OpP_STRi_PIe2_104_53_S2.wav lovel=$v3in  hivel=$v3out  seq_position=3
-<region> sample=E1_SN01OpP_STRi_PIe2_104_54_S2.wav lovel=$v4in  hivel=$v4out  seq_position=3
-<region> sample=E1_SN01OpP_STRi_PIe2_104_55_S2.wav lovel=$v5in  hivel=$v5out  seq_position=3
-<region> sample=E1_SN01OpP_STRi_PIe2_104_56_S2.wav lovel=$v6in  hivel=$v6out  seq_position=3
-<region> sample=E1_SN01OpP_STRi_PIe2_104_57_S2.wav lovel=$v7in  hivel=$v7out  seq_position=3
-<region> sample=E1_SN01OpP_STRi_PIe2_104_58_S2.wav lovel=$v8in  hivel=$v8out  seq_position=3
-<region> sample=E1_SN01OpP_STRi_PIe2_104_59_S2.wav lovel=$v9in  hivel=$v9out  seq_position=3
-<region> sample=E1_SN01OpP_STRi_PIe2_104_60_S2.wav lovel=$v10in hivel=$v10out seq_position=3
-<region> sample=E1_SN01OpP_STRi_PIe2_104_61_S2.wav lovel=$v11in hivel=$v11out seq_position=3
-<region> sample=E1_SN01OpP_STRi_PIe2_104_62_S2.wav lovel=$v12in hivel=$v12out seq_position=3
+<region> sample=64 electric guitar les paul 1 01.wav lovel=$v1in  hivel=$v1out  seq_position=1
+<region> sample=64 electric guitar les paul 1 02.wav lovel=$v2in  hivel=$v2out  seq_position=1
+<region> sample=64 electric guitar les paul 1 03.wav lovel=$v3in  hivel=$v3out  seq_position=1
+<region> sample=64 electric guitar les paul 1 04.wav lovel=$v4in  hivel=$v4out  seq_position=1
+<region> sample=64 electric guitar les paul 1 05.wav lovel=$v5in  hivel=$v5out  seq_position=1
+<region> sample=64 electric guitar les paul 1 06.wav lovel=$v6in  hivel=$v6out  seq_position=1
+<region> sample=64 electric guitar les paul 1 07.wav lovel=$v7in  hivel=$v7out  seq_position=1
+<region> sample=64 electric guitar les paul 1 08.wav lovel=$v8in  hivel=$v8out  seq_position=1
+<region> sample=64 electric guitar les paul 1 09.wav lovel=$v9in  hivel=$v9out  seq_position=1
+<region> sample=64 electric guitar les paul 1 10.wav lovel=$v10in hivel=$v10out seq_position=1
+<region> sample=64 electric guitar les paul 1 11.wav lovel=$v11in hivel=$v11out seq_position=1
+<region> sample=64 electric guitar les paul 1 12.wav lovel=$v12in hivel=$v12out seq_position=1
+<region> sample=64 electric guitar les paul 2 01.wav lovel=$v1in  hivel=$v1out  seq_position=2
+<region> sample=64 electric guitar les paul 2 02.wav lovel=$v2in  hivel=$v2out  seq_position=2
+<region> sample=64 electric guitar les paul 2 03.wav lovel=$v3in  hivel=$v3out  seq_position=2
+<region> sample=64 electric guitar les paul 2 04.wav lovel=$v4in  hivel=$v4out  seq_position=2
+<region> sample=64 electric guitar les paul 2 05.wav lovel=$v5in  hivel=$v5out  seq_position=2
+<region> sample=64 electric guitar les paul 2 06.wav lovel=$v6in  hivel=$v6out  seq_position=2
+<region> sample=64 electric guitar les paul 2 07.wav lovel=$v7in  hivel=$v7out  seq_position=2
+<region> sample=64 electric guitar les paul 2 08.wav lovel=$v8in  hivel=$v8out  seq_position=2
+<region> sample=64 electric guitar les paul 2 09.wav lovel=$v9in  hivel=$v9out  seq_position=2
+<region> sample=64 electric guitar les paul 2 10.wav lovel=$v10in hivel=$v10out seq_position=2
+<region> sample=64 electric guitar les paul 2 11.wav lovel=$v11in hivel=$v11out seq_position=2
+<region> sample=64 electric guitar les paul 2 12.wav lovel=$v12in hivel=$v12out seq_position=2
+<region> sample=64 electric guitar les paul 3 01.wav lovel=$v1in  hivel=$v1out  seq_position=3
+<region> sample=64 electric guitar les paul 3 02.wav lovel=$v2in  hivel=$v2out  seq_position=3
+<region> sample=64 electric guitar les paul 3 03.wav lovel=$v3in  hivel=$v3out  seq_position=3
+<region> sample=64 electric guitar les paul 3 04.wav lovel=$v4in  hivel=$v4out  seq_position=3
+<region> sample=64 electric guitar les paul 3 05.wav lovel=$v5in  hivel=$v5out  seq_position=3
+<region> sample=64 electric guitar les paul 3 06.wav lovel=$v6in  hivel=$v6out  seq_position=3
+<region> sample=64 electric guitar les paul 3 07.wav lovel=$v7in  hivel=$v7out  seq_position=3
+<region> sample=64 electric guitar les paul 3 08.wav lovel=$v8in  hivel=$v8out  seq_position=3
+<region> sample=64 electric guitar les paul 3 09.wav lovel=$v9in  hivel=$v9out  seq_position=3
+<region> sample=64 electric guitar les paul 3 10.wav lovel=$v10in hivel=$v10out seq_position=3
+<region> sample=64 electric guitar les paul 3 11.wav lovel=$v11in hivel=$v11out seq_position=3
+<region> sample=64 electric guitar les paul 3 12.wav lovel=$v12in hivel=$v12out seq_position=3
