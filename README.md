@@ -21,6 +21,7 @@ All files edited for channel 10, and with the general midi drum map.
 - 06 Blues & Country
 - 07 Blues Rock
 - 08 Ballad
+- 09 Indie Rock
 
 
 ## Instruments List
