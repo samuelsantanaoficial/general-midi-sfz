@@ -11,7 +11,7 @@
 #define $v1out 31
 #define $v1in  0
 
-<global> global_label=Electric Bass (Slap) amp_veltrack=75 ampeg_attack=0.005 ampeg_release=0.07 offset=3000 volume=-3.0
+<global> global_label=Electric Bass (Slap) amp_veltrack=75 ampeg_attack=0.005 ampeg_release=0.07 offset=3000 volume=-3.0 lfo01_pitch_oncc1=32 lfo01_freq=4.5
 
 <group> key=28 lokey=28 hikey=30 seq_length=3
 <region> sample=28 electric bass slap 1 01.wav lovel=$v1in hivel=$v1out seq_position=1

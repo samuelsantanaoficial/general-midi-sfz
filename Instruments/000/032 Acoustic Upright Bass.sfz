@@ -15,7 +15,7 @@
 #define $v1out 21
 #define $v1in  0
 
-<global> global_label=Acoustic Upright Bass amp_veltrack=75 ampeg_attack=0.005 ampeg_release=0.07 offset=3000 volume=-6.0
+<global> global_label=Acoustic Upright Bass amp_veltrack=75 ampeg_attack=0.005 ampeg_release=0.07 offset=3000 volume=-6.0 lfo01_pitch_oncc1=32 lfo01_freq=4.5
 
 <group> key=28 lokey=28 hikey=30 seq_length=3
 <region> sample=28 acoustic bass upright 1 01.wav lovel=$v1in hivel=$v1out seq_position=1
